@@ -1,0 +1,2 @@
+Z‑Anatomy dataset (models). License: CC BY‑SA 4.0.
+You must provide attribution and share alike for redistributed derivatives.

@@ -1,0 +1,171 @@
+{
+  "timestamp": "2026-01-30T09:53:59",
+  "meta": "/data/data/com.termux/files/home/storage/downloads/repstags_atlas_pack_zanatomy/meta",
+  "patterns": [
+    "\\biliopsoas\\b",
+    "\\bpsoas\\s+(major|minor)\\b",
+    "\\biliacus\\b",
+    "\\brectus\\s+femoris\\b",
+    "\\bsartorius\\b",
+    "\\btensor\\s+fascia\\b",
+    "\\bpectineus\\b"
+  ],
+  "files": {
+    "muscles_groups.json": {
+      "matched_muscles": [
+        {
+          "key": "iliacus_muscle_r",
+          "name": "Iliacus muscle.r\u0000\u0001"
+        },
+        {
+          "key": "psoas_major_r",
+          "name": "Psoas major.r\u0000\u0001"
+        },
+        {
+          "key": "iliacus_muscle_l",
+          "name": "Iliacus muscle.l\u0000\u0001"
+        },
+        {
+          "key": "psoas_major_l",
+          "name": "Psoas major.l\u0000\u0001"
+        },
+        {
+          "key": "rectus_femoris_muscle_r",
+          "name": "Rectus femoris muscle.r\u0000\u0001"
+        },
+        {
+          "key": "rectus_femoris_muscle_l",
+          "name": "Rectus femoris muscle.l\u0000\u0001"
+        },
+        {
+          "key": "sartorius_muscle_r",
+          "name": "Sartorius muscle.r\u0000\u0001"
+        },
+        {
+          "key": "sartorius_muscle_l",
+          "name": "Sartorius muscle.l\u0000\u0001"
+        },
+        {
+          "key": "pectineus_muscle_r",
+          "name": "Pectineus muscle.r\u0000\u0001"
+        },
+        {
+          "key": "pectineus_muscle_l",
+          "name": "Pectineus muscle.l\u0000\u0001"
+        },
+        {
+          "key": "iliopsoas_fascia_r",
+          "name": "Iliopsoas fascia.r\u0000\u0001"
+        },
+        {
+          "key": "iliopsoas_fascia_l",
+          "name": "Iliopsoas fascia.l\u0000\u0001"
+        },
+        {
+          "key": "subtendinous_bursa_of_iliacus_muscle_r",
+          "name": "Subtendinous bursa of iliacus muscle.r\u0000\u0001"
+        },
+        {
+          "key": "subtendinous_bursa_of_iliacus_muscle_l",
+          "name": "Subtendinous bursa of iliacus muscle.l\u0000\u0001"
+        },
+        {
+          "key": "subtendinous_bursa_of_sartorius_muscle_r",
+          "name": "Subtendinous bursa of sartorius muscle.r\u0000\u0001"
+        },
+        {
+          "key": "subtendinous_bursa_of_sartorius_muscle_l",
+          "name": "Subtendinous bursa of sartorius muscle.l\u0000\u0001"
+        }
+      ],
+      "matched_count": 16,
+      "union_variant_counts": {
+        "M": 16
+      },
+      "added_keys": [
+        "hip_flexors",
+        "hip flexors",
+        "hip-flexors",
+        "Hip flexors"
+      ]
+    },
+    "muscles_index.json": {
+      "matched_muscles": [
+        {
+          "key": "iliacus_muscle_r",
+          "name": "Iliacus muscle.r\u0000\u0001"
+        },
+        {
+          "key": "psoas_major_r",
+          "name": "Psoas major.r\u0000\u0001"
+        },
+        {
+          "key": "iliacus_muscle_l",
+          "name": "Iliacus muscle.l\u0000\u0001"
+        },
+        {
+          "key": "psoas_major_l",
+          "name": "Psoas major.l\u0000\u0001"
+        },
+        {
+          "key": "rectus_femoris_muscle_r",
+          "name": "Rectus femoris muscle.r\u0000\u0001"
+        },
+        {
+          "key": "rectus_femoris_muscle_l",
+          "name": "Rectus femoris muscle.l\u0000\u0001"
+        },
+        {
+          "key": "sartorius_muscle_r",
+          "name": "Sartorius muscle.r\u0000\u0001"
+        },
+        {
+          "key": "sartorius_muscle_l",
+          "name": "Sartorius muscle.l\u0000\u0001"
+        },
+        {
+          "key": "pectineus_muscle_r",
+          "name": "Pectineus muscle.r\u0000\u0001"
+        },
+        {
+          "key": "pectineus_muscle_l",
+          "name": "Pectineus muscle.l\u0000\u0001"
+        },
+        {
+          "key": "iliopsoas_fascia_r",
+          "name": "Iliopsoas fascia.r\u0000\u0001"
+        },
+        {
+          "key": "iliopsoas_fascia_l",
+          "name": "Iliopsoas fascia.l\u0000\u0001"
+        },
+        {
+          "key": "subtendinous_bursa_of_iliacus_muscle_r",
+          "name": "Subtendinous bursa of iliacus muscle.r\u0000\u0001"
+        },
+        {
+          "key": "subtendinous_bursa_of_iliacus_muscle_l",
+          "name": "Subtendinous bursa of iliacus muscle.l\u0000\u0001"
+        },
+        {
+          "key": "subtendinous_bursa_of_sartorius_muscle_r",
+          "name": "Subtendinous bursa of sartorius muscle.r\u0000\u0001"
+        },
+        {
+          "key": "subtendinous_bursa_of_sartorius_muscle_l",
+          "name": "Subtendinous bursa of sartorius muscle.l\u0000\u0001"
+        }
+      ],
+      "matched_count": 16,
+      "union_variant_counts": {
+        "M": 16
+      },
+      "added_keys": [
+        "hip_flexors",
+        "hip flexors",
+        "hip-flexors",
+        "Hip flexors"
+      ]
+    }
+  }
+}

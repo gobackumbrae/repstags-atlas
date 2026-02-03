@@ -1,0 +1,3313 @@
+{
+  "left_lung_j": {
+    "name": "Left lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_lung_j": {
+    "name": "Right lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "peritoneum_j": {
+    "name": "Peritoneum.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Peritoneum.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "peritoneal_structures_j": {
+    "name": "Peritoneal structures.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Peritoneal structures.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "visceral_fasciae_of_abdominopelvic_cavity_j": {
+    "name": "Visceral fasciae of abdominopelvic cavity.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Visceral fasciae of abdominopelvic cavity.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "endocrine_glands_j": {
+    "name": "Endocrine glands.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Endocrine glands.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "parathyroid_gland_j": {
+    "name": "Parathyroid gland.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Parathyroid gland.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "hypophysis_j": {
+    "name": "Hypophysis.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Hypophysis.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "genital_systems_j": {
+    "name": "Genital systems.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Genital systems.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "salivary_glands_j": {
+    "name": "Salivary glands.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Salivary glands.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "major_salivary_glands_j": {
+    "name": "Major salivary glands.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Major salivary glands.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "uvula_of_palate": {
+    "name": "Uvula of palate\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Uvula of palate\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "palate_j": {
+    "name": "Palate.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Palate.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "gingiva": {
+    "name": "Gingiva\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Gingiva\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "parotid_gland_r": {
+    "name": "Parotid gland.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Parotid gland.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "accessory_parotid_gland_r": {
+    "name": "(Accessory parotid gland).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "(Accessory parotid gland).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "parotid_gland_l": {
+    "name": "Parotid gland.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Parotid gland.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "accessory_parotid_gland_l": {
+    "name": "(Accessory parotid gland).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "(Accessory parotid gland).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "parotid_duct_l": {
+    "name": "Parotid duct.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Parotid duct.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "parotid_duct_r": {
+    "name": "Parotid duct.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Parotid duct.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sublingual_gland_l": {
+    "name": "Sublingual gland.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sublingual gland.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sublingual_gland_r": {
+    "name": "Sublingual gland.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sublingual gland.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "submandibular_gland_l": {
+    "name": "Submandibular gland.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Submandibular gland.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "submandibular_gland_r": {
+    "name": "Submandibular gland.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Submandibular gland.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "submandibular_duct_l": {
+    "name": "Submandibular duct.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Submandibular duct.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "submandibular_duct_r": {
+    "name": "Submandibular duct.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Submandibular duct.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tongue": {
+    "name": "Tongue\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tongue\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mouth_j": {
+    "name": "Mouth.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mouth.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fauces_j": {
+    "name": "Fauces.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fauces.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pharynx_j": {
+    "name": "Pharynx.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pharynx.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "oesophagus": {
+    "name": "Oesophagus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Oesophagus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "stomach": {
+    "name": "Stomach\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Stomach\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "duodenum": {
+    "name": "Duodenum\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Duodenum\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "jejunum": {
+    "name": "Jejunum\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Jejunum\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "small_intestine_j": {
+    "name": "Small intestine.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Small intestine.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vermiform_appendix": {
+    "name": "Vermiform appendix\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vermiform appendix\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "free_taenia": {
+    "name": "Free taenia\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Free taenia\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mesocolic_taenia": {
+    "name": "Mesocolic taenia\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mesocolic taenia\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "omental_taenia": {
+    "name": "Omental taenia\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Omental taenia\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "taeniae_coli_j": {
+    "name": "Taeniae coli.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Taeniae coli.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sigmoid_colon": {
+    "name": "Sigmoid colon\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sigmoid colon\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "colon_j": {
+    "name": "Colon.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Colon.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ascending_colon": {
+    "name": "Ascending colon\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ascending colon\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "descending_colon": {
+    "name": "Descending colon\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Descending colon\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "transverse_colon": {
+    "name": "Transverse colon\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Transverse colon\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "large_intestine_j": {
+    "name": "Large intestine.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Large intestine.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "digestive_canal_j": {
+    "name": "Digestive canal.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Digestive canal.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_posterior_lateral_segment_of_liver_ii": {
+    "name": "Left posterior lateral segment of liver (II)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left posterior lateral segment of liver (II)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_anterior_lateral_segment_of_liver_iii": {
+    "name": "Left anterior lateral segment of liver (III)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left anterior lateral segment of liver (III)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_medial_segment_of_liver_iv": {
+    "name": "Left medial segment of liver (IV)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left medial segment of liver (IV)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_medial_segment_of_liver_v": {
+    "name": "Anterior medial segment of liver (V)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior medial segment of liver (V)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_lateral_segment_of_liver_vi": {
+    "name": "Anterior lateral segment of liver (VI)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior lateral segment of liver (VI)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_lateral_segment_of_liver_vii": {
+    "name": "Posterior lateral segment of liver (VII)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior lateral segment of liver (VII)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_segment_of_liver_i": {
+    "name": "Posterior segment of liver (I)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior segment of liver (I)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_medial_segment_of_liver_viii": {
+    "name": "Posterior medial segment of liver (VIII)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior medial segment of liver (VIII)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "liver": {
+    "name": "Liver\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Liver\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "gallbladder": {
+    "name": "Gallbladder\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Gallbladder\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "bile_duct": {
+    "name": "Bile duct\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Bile duct\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "extrahepatic_bile_ducts_j": {
+    "name": "Extrahepatic bile ducts.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Extrahepatic bile ducts.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pancreatic_duct": {
+    "name": "Pancreatic duct\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pancreatic duct\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "accessory_pancreatic_duct": {
+    "name": "Accessory pancreatic duct\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Accessory pancreatic duct\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pancreas": {
+    "name": "Pancreas\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pancreas\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "digestive_system_j": {
+    "name": "Digestive system.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Digestive system.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nose_j": {
+    "name": "Nose.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nose.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "paranasal_sinuses_j": {
+    "name": "Paranasal sinuses.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Paranasal sinuses.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "epiglottis": {
+    "name": "Epiglottis\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Epiglottis\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "larynx_j": {
+    "name": "Larynx.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Larynx.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "trachea": {
+    "name": "Trachea\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Trachea\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_segmental_bronchus_of_right_lung_bvi": {
+    "name": "Superior segmental bronchus of right lung (BVI)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior segmental bronchus of right lung (BVI)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_segmental_bronchus_of_right_lung_biv": {
+    "name": "Lateral segmental bronchus of right lung (BIV)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral segmental bronchus of right lung (BIV)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_inferior_lobar_bronchus": {
+    "name": "Right inferior lobar bronchus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right inferior lobar bronchus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_basal_segmental_bronchus_of_right_lung_bx": {
+    "name": "Posterior basal segmental bronchus of right lung (BX)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior basal segmental bronchus of right lung (BX)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_basal_segmental_bronchus_of_right_lung_bvii": {
+    "name": "Medial basal segmental bronchus of right lung (BVII)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial basal segmental bronchus of right lung (BVII)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_basal_segmental_bronchus_of_right_lung_bix": {
+    "name": "Lateral basal segmental bronchus of right lung (BIX)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral basal segmental bronchus of right lung (BIX)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_basal_segmental_bronchus_of_right_lung_bviii": {
+    "name": "Anterior basal segmental bronchus of right lung (BVIII)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior basal segmental bronchus of right lung (BVIII)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_superior_lobar_bronchus": {
+    "name": "Left superior lobar bronchus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left superior lobar bronchus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "apicoposterior_segmental_bronchus_of_left_lung_bi_bii": {
+    "name": "Apicoposterior segmental bronchus of left lung (BI+BII)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Apicoposterior segmental bronchus of left lung (BI+BII)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_segmental_bronchus_of_left_lung_biii": {
+    "name": "Anterior segmental bronchus of left lung (BIII)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior segmental bronchus of left lung (BIII)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_lingular_segmental_bronchus_of_left_lung_biv": {
+    "name": "Superior lingular segmental bronchus of left lung (BIV)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior lingular segmental bronchus of left lung (BIV)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_lingular_segmental_bronchus_of_left_lung_bv": {
+    "name": "Inferior lingular segmental bronchus of left lung (BV)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior lingular segmental bronchus of left lung (BV)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_segmental_bronchus_of_left_lung_bvi": {
+    "name": "Superior segmental bronchus of left lung (BVI)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior segmental bronchus of left lung (BVI)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_basal_segmental_bronchus_of_left_lung_bvii": {
+    "name": "Medial basal segmental bronchus of left lung (BVII)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial basal segmental bronchus of left lung (BVII)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_basal_segmental_bronchus_of_left_lung_bviii": {
+    "name": "Anterior basal segmental bronchus of left lung (BVIII)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior basal segmental bronchus of left lung (BVIII)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_inferior_lobar_bronchus": {
+    "name": "Left inferior lobar bronchus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left inferior lobar bronchus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_basal_segmental_bronchus_of_left_lung_bix": {
+    "name": "Lateral basal segmental bronchus of left lung (BIX)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral basal segmental bronchus of left lung (BIX)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_main_bronchus": {
+    "name": "Left main bronchus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left main bronchus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "bronchi_j": {
+    "name": "Bronchi.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Bronchi.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tracheobronchial_tree_j": {
+    "name": "Tracheobronchial tree.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tracheobronchial tree.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_segmental_bronchus_of_right_lung_biii": {
+    "name": "Anterior segmental bronchus of right lung (BIII)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior segmental bronchus of right lung (BIII)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "apical_segmental_bronchus_of_right_lung_bi": {
+    "name": "Apical segmental bronchus of right lung (BI)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Apical segmental bronchus of right lung (BI)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_segmental_bronchus_of_right_lung_bii": {
+    "name": "Posterior segmental bronchus of right lung (BII)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior segmental bronchus of right lung (BII)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_superior_lobar_bronchus": {
+    "name": "Right superior lobar bronchus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right superior lobar bronchus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_main_bronchus": {
+    "name": "Right main bronchus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right main bronchus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_lobe_of_right_lung": {
+    "name": "Superior lobe of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior lobe of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_lobe_of_right_lung": {
+    "name": "Middle lobe of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle lobe of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_lobe_of_right_lung": {
+    "name": "Inferior lobe of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior lobe of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_lobe_of_left_lung": {
+    "name": "Superior lobe of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior lobe of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_lobe_of_left_lung": {
+    "name": "Inferior lobe of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior lobe of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lungs_j": {
+    "name": "Lungs.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lungs.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "respiratory_system_j": {
+    "name": "Respiratory system.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Respiratory system.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thoracic_cavity_j": {
+    "name": "Thoracic cavity.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thoracic cavity.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "kidney_l": {
+    "name": "Kidney.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Kidney.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "kidney_r": {
+    "name": "Kidney.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Kidney.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "urinary_bladder": {
+    "name": "Urinary bladder\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Urinary bladder\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "urethra": {
+    "name": "Urethra\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Urethra\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "renal_pelvis_l": {
+    "name": "Renal pelvis.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Renal pelvis.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "renal_pelvis_r": {
+    "name": "Renal pelvis.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Renal pelvis.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ureter_l": {
+    "name": "Ureter.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ureter.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ureter_r": {
+    "name": "Ureter.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ureter.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "urinary_system_j": {
+    "name": "Urinary system.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Urinary system.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "testis_r": {
+    "name": "Testis.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Testis.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "testis_l": {
+    "name": "Testis.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Testis.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "epididymis_r": {
+    "name": "Epididymis.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Epididymis.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "epididymis_l": {
+    "name": "Epididymis.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Epididymis.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ductus_deferens_l": {
+    "name": "Ductus deferens.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ductus deferens.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ductus_deferens_r": {
+    "name": "Ductus deferens.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ductus deferens.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "seminal_gland_r": {
+    "name": "Seminal gland.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Seminal gland.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "seminal_gland_l": {
+    "name": "Seminal gland.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Seminal gland.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "prostate": {
+    "name": "Prostate\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Prostate\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ejaculatory_duct_l": {
+    "name": "Ejaculatory duct.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ejaculatory duct.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ejaculatory_duct_r": {
+    "name": "Ejaculatory duct.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ejaculatory duct.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "male_internal_genitalia_j": {
+    "name": "Male internal genitalia.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Male internal genitalia.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "glans_penis": {
+    "name": "Glans penis\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Glans penis\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "corpus_cavernosum_of_penis": {
+    "name": "Corpus cavernosum of penis\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Corpus cavernosum of penis\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "corpus_spongiosum_of_penis": {
+    "name": "Corpus spongiosum of penis\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Corpus spongiosum of penis\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "penis_j": {
+    "name": "Penis.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Penis.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "male_external_genitalia_j": {
+    "name": "Male external genitalia.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Male external genitalia.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "male_genital_system_j": {
+    "name": "Male genital system.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Male genital system.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mesocolon": {
+    "name": "Mesocolon\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mesocolon\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "meso_appendix": {
+    "name": "Meso-appendix\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Meso-appendix\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "greater_omentum": {
+    "name": "Greater omentum\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Greater omentum\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lesser_omentum": {
+    "name": "Lesser omentum\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lesser omentum\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "abdominopelvic_cavity_j": {
+    "name": "Abdominopelvic cavity.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Abdominopelvic cavity.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "adenohypophysis": {
+    "name": "Adenohypophysis\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Adenohypophysis\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "neurohypophysis": {
+    "name": "Neurohypophysis\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Neurohypophysis\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thyroid_gland": {
+    "name": "Thyroid gland\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thyroid gland\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_parathyroid_gland_r": {
+    "name": "Inferior parathyroid gland.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior parathyroid gland.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_parathyroid_gland_r": {
+    "name": "Superior parathyroid gland.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior parathyroid gland.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_parathyroid_gland_l": {
+    "name": "Inferior parathyroid gland.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior parathyroid gland.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_parathyroid_gland_l": {
+    "name": "Superior parathyroid gland.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior parathyroid gland.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "suprarenal_gland_l": {
+    "name": "Suprarenal gland.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Suprarenal gland.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "suprarenal_gland_r": {
+    "name": "Suprarenal gland.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Suprarenal gland.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pineal_gland": {
+    "name": "Pineal gland\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pineal gland\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pyramidal_lobe_j": {
+    "name": "(Pyramidal lobe).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "(Pyramidal lobe).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "angular_incisure_j": {
+    "name": "Angular incisure.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Angular incisure.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_basal_segment_of_left_lung_sviii_j": {
+    "name": "Anterior basal segment of left lung (SVIII).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior basal segment of left lung (SVIII).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_border_of_lung_j": {
+    "name": "Anterior border of lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior border of lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_border_of_pancreas_j": {
+    "name": "Anterior border of pancreas.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior border of pancreas.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_border_of_testis_j": {
+    "name": "Anterior border of testis.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior border of testis.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_medial_segment_of_liver_v_j": {
+    "name": "Anterior medial segment of liver (V).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior medial segment of liver (V).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_segment_of_left_lung_siii_j": {
+    "name": "Anterior segment of left lung (SIII).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior segment of left lung (SIII).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_segment_of_right_lung_siii_j": {
+    "name": "Anterior segment of right lung (SIII).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior segment of right lung (SIII).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_surface_of_kidney_j": {
+    "name": "Anterior surface of kidney.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior surface of kidney.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_surface_of_liver_j": {
+    "name": "Anterior surface of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior surface of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_surface_of_suprarenal_gland_j": {
+    "name": "Anterior surface of suprarenal gland.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior surface of suprarenal gland.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_wall_of_stomach_j": {
+    "name": "Anterior wall of stomach.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior wall of stomach.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "antero_inferior_surface_of_pancreas_j": {
+    "name": "Antero-inferior surface of pancreas.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Antero-inferior surface of pancreas.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterosuperior_surface_of_pancreas_j": {
+    "name": "Anterosuperior surface of pancreas.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterosuperior surface of pancreas.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "apex_of_bladder_j": {
+    "name": "Apex of bladder.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Apex of bladder.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "apex_of_lung_j": {
+    "name": "Apex of lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Apex of lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "apical_segment_of_right_lung_si_j": {
+    "name": "Apical segment of right lung (SI).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Apical segment of right lung (SI).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "apicoposterior_segment_of_left_lung_si_sii_j": {
+    "name": "Apicoposterior segment of left lung (SI+SII).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Apicoposterior segment of left lung (SI+SII).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "bare_area_of_liver_j": {
+    "name": "Bare area of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Bare area of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "base_of_lung_j": {
+    "name": "Base of lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Base of lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "body_of_bladder_j": {
+    "name": "Body of bladder.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Body of bladder.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "body_of_gallbladder_j": {
+    "name": "Body of gallbladder.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Body of gallbladder.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "body_of_pancreas_j": {
+    "name": "Body of pancreas.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Body of pancreas.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "body_of_stomach_j": {
+    "name": "Body of stomach.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Body of stomach.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cardia_j": {
+    "name": "Cardia.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cardia.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cardiac_impression_of_liver_j": {
+    "name": "Cardiac impression of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cardiac impression of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cardiac_impression_of_lung_j": {
+    "name": "Cardiac impression of lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cardiac impression of lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cardiac_notch_of_left_lung_j": {
+    "name": "Cardiac notch of left lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cardiac notch of left lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cardiac_notch_j": {
+    "name": "Cardiac notch.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cardiac notch.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "caudate_lobe_j": {
+    "name": "Caudate lobe.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Caudate lobe.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "colic_impression_of_liver_j": {
+    "name": "Colic impression of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Colic impression of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "costal_surface_of_lung_j": {
+    "name": "Costal surface of lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Costal surface of lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "diaphragmatic_surface_of_lung_j": {
+    "name": "Diaphragmatic surface of lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Diaphragmatic surface of lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "diaphragmatic_surface_of_liver_j": {
+    "name": "Diaphragmatic surface of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Diaphragmatic surface of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "duodenal_impression_of_liver_j": {
+    "name": "Duodenal impression of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Duodenal impression of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fibrous_appendix_of_liver_j": {
+    "name": "Fibrous appendix of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fibrous appendix of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fissure_for_ligamentum_teres_j": {
+    "name": "Fissure for ligamentum teres.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fissure for ligamentum teres.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fissure_for_ligamentum_venosum_j": {
+    "name": "Fissure for ligamentum venosum.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fissure for ligamentum venosum.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fossa_for_gallbladder_j": {
+    "name": "Fossa for gallbladder.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fossa for gallbladder.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fundus_of_bladder_j": {
+    "name": "Fundus of bladder.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fundus of bladder.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fundus_of_gallbladder_j": {
+    "name": "Fundus of gallbladder.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fundus of gallbladder.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fundus_of_stomach_j": {
+    "name": "Fundus of stomach.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fundus of stomach.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "gastric_impression_of_liver_j": {
+    "name": "Gastric impression of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Gastric impression of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "greater_curvature_of_stomach_j": {
+    "name": "Greater curvature of stomach.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Greater curvature of stomach.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "head_of_pancreas_j": {
+    "name": "Head of pancreas.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Head of pancreas.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "hilum_of_kidney_j": {
+    "name": "Hilum of kidney.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Hilum of kidney.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "hilum_of_lung_j": {
+    "name": "Hilum of lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Hilum of lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "hilum_of_suprarenal_gland_j": {
+    "name": "Hilum of suprarenal gland.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Hilum of suprarenal gland.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "horizontal_fissure_of_right_lung_j": {
+    "name": "Horizontal fissure of right lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Horizontal fissure of right lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_border_of_liver_j": {
+    "name": "Inferior border of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior border of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_border_of_lung_j": {
+    "name": "Inferior border of lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior border of lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_border_of_pancreas_j": {
+    "name": "Inferior border of pancreas.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior border of pancreas.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_lingular_segment_of_left_lung_sv_j": {
+    "name": "Inferior lingular segment of left lung (SV).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior lingular segment of left lung (SV).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_pole_of_kidney_j": {
+    "name": "Inferior pole of kidney.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior pole of kidney.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_pole_of_testis_j": {
+    "name": "Inferior pole of testis.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior pole of testis.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "infundibulum_of_gallbladder_j": {
+    "name": "Infundibulum of gallbladder.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Infundibulum of gallbladder.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "interlobar_surface_of_lung_j": {
+    "name": "Interlobar surface of lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Interlobar surface of lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "isthmus_of_thyroid_gland_j": {
+    "name": "Isthmus of thyroid gland.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Isthmus of thyroid gland.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_basal_segment_of_left_lung_six_j": {
+    "name": "Lateral basal segment of left lung (SIX).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral basal segment of left lung (SIX).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_basal_segment_of_right_lung_six_j": {
+    "name": "Lateral basal segment of right lung (SIX).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral basal segment of right lung (SIX).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_border_of_kidney_j": {
+    "name": "Lateral border of kidney.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral border of kidney.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_segment_of_right_lung_siv_j": {
+    "name": "Lateral segment of right lung (SIV).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral segment of right lung (SIV).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_surface_of_testis_j": {
+    "name": "Lateral surface of testis.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral surface of testis.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_lateral_division_of_liver_j": {
+    "name": "Left lateral division of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left lateral division of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_lobe_of_liver_j": {
+    "name": "Left lobe of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left lobe of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_medial_division_of_liver_j": {
+    "name": "Left medial division of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left medial division of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_medial_segment_of_liver_iv_j": {
+    "name": "Left medial segment of liver (IV).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left medial segment of liver (IV).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_part_of_liver_j": {
+    "name": "Left part of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left part of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_posterior_lateral_segment_of_liver_ii_j": {
+    "name": "Left posterior lateral segment of liver (II).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left posterior lateral segment of liver (II).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lesser_curvature_of_stomach_j": {
+    "name": "Lesser curvature of stomach.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lesser curvature of stomach.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lingula_of_left_lung_j": {
+    "name": "Lingula of left lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lingula of left lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lobe_of_lung_j": {
+    "name": "Lobe of lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lobe of lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lobe_of_thyroid_gland_j": {
+    "name": "Lobe of thyroid gland.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lobe of thyroid gland.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "main_portal_fissure_j": {
+    "name": "Main portal fissure.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Main portal fissure.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_basal_segment_of_left_lung_svii_j": {
+    "name": "Medial basal segment of left lung (SVII).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial basal segment of left lung (SVII).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_basal_segment_of_right_lung_svii_j": {
+    "name": "Medial basal segment of right lung (SVII).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial basal segment of right lung (SVII).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_border_of_kidney_j": {
+    "name": "Medial border of kidney.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial border of kidney.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_border_of_suprarenal_gland_j": {
+    "name": "Medial border of suprarenal gland.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial border of suprarenal gland.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_segment_of_right_lung_sv_j": {
+    "name": "Medial segment of right lung (SV).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial segment of right lung (SV).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_surface_of_lung_j": {
+    "name": "Medial surface of lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial surface of lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_surface_of_testis_j": {
+    "name": "Medial surface of testis.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial surface of testis.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mediastinal_surface_of_lung_j": {
+    "name": "Mediastinal surface of lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mediastinal surface of lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "neck_of_gallbladder_j": {
+    "name": "Neck of gallbladder.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Neck of gallbladder.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "notch_for_ligamentum_teres_j": {
+    "name": "Notch for ligamentum teres.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Notch for ligamentum teres.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "oblique_fissure_of_left_lung_j": {
+    "name": "Oblique fissure of left lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Oblique fissure of left lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "oblique_fissure_of_right_lung_j": {
+    "name": "Oblique fissure of right lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Oblique fissure of right lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "oesophageal_impression_of_liver_j": {
+    "name": "Oesophageal impression of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Oesophageal impression of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "omental_eminence_j": {
+    "name": "Omental eminence.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Omental eminence.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "omental_tuberosity_of_liver_j": {
+    "name": "Omental tuberosity of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Omental tuberosity of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pancreas_j": {
+    "name": "Pancreas.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pancreas.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "neck_of_pancreas_j": {
+    "name": "Neck of pancreas.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Neck of pancreas.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pancreatic_notch_j": {
+    "name": "Pancreatic notch.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pancreatic notch.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "papillary_process_j": {
+    "name": "Papillary process.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Papillary process.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pars_distalis_of_hypophysis_j": {
+    "name": "Pars distalis of hypophysis.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pars distalis of hypophysis.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pars_intermedia_of_hypophysis_j": {
+    "name": "Pars intermedia of hypophysis.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pars intermedia of hypophysis.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pars_nervosa_of_hypophysis_j": {
+    "name": "Pars nervosa of hypophysis.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pars nervosa of hypophysis.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pars_tubelaris_of_hypophysis_j": {
+    "name": "Pars tubelaris of hypophysis.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pars tubelaris of hypophysis.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "porta_hepatis_j": {
+    "name": "Porta hepatis.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Porta hepatis.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_basal_segment_of_left_lung_sx_j": {
+    "name": "Posterior basal segment of left lung (SX).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior basal segment of left lung (SX).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_basal_segment_of_right_lung_sx_j": {
+    "name": "Posterior basal segment of right lung (SX).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior basal segment of right lung (SX).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_border_of_testis_j": {
+    "name": "Posterior border of testis.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior border of testis.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_medial_segment_of_liver_viii_j": {
+    "name": "Posterior medial segment of liver (VIII).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior medial segment of liver (VIII).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_part_of_liver_j": {
+    "name": "Posterior part of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior part of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_segment_of_liver_i_j": {
+    "name": "Posterior segment of liver (I).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior segment of liver (I).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_segment_of_right_lung_sii_j": {
+    "name": "Posterior segment of right lung (SII).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior segment of right lung (SII).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_surface_of_kidney_j": {
+    "name": "Posterior surface of kidney.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior surface of kidney.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_surface_of_liver_j": {
+    "name": "Posterior surface of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior surface of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_surface_of_pancreas_j": {
+    "name": "Posterior surface of pancreas.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior surface of pancreas.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_surface_of_suprarenal_gland_j": {
+    "name": "Posterior surface of suprarenal gland.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior surface of suprarenal gland.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_wall_of_stomach_j": {
+    "name": "Posterior wall of stomach.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior wall of stomach.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pyloric_antrum_j": {
+    "name": "Pyloric antrum.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pyloric antrum.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pyloric_part_j": {
+    "name": "Pyloric part.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pyloric part.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "quadrate_lobe_j": {
+    "name": "Quadrate lobe.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Quadrate lobe.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "renal_sinus_j": {
+    "name": "Renal sinus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Renal sinus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "renal_surface_of_suprarenal_gland_j": {
+    "name": "Renal surface of suprarenal gland.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Renal surface of suprarenal gland.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_lateral_division_of_liver_j": {
+    "name": "Right lateral division of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right lateral division of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_lobe_of_liver_j": {
+    "name": "Right lobe of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right lobe of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_medial_division_of_liver_j": {
+    "name": "Right medial division of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right medial division of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_part_of_liver_j": {
+    "name": "Right part of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right part of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_portal_fissure_j": {
+    "name": "Right portal fissure.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right portal fissure.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_surface_of_liver_j": {
+    "name": "Right surface of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right surface of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "root_of_lung_j": {
+    "name": "Root of lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Root of lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_border_of_pancreas_j": {
+    "name": "Superior border of pancreas.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior border of pancreas.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_border_of_suprarenal_gland_j": {
+    "name": "Superior border of suprarenal gland.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior border of suprarenal gland.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_pole_of_testis_j": {
+    "name": "Superior pole of testis.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior pole of testis.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_segment_of_left_lung_svi_j": {
+    "name": "Superior segment of left lung (SVI).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior segment of left lung (SVI).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_segment_of_right_lung_svi_j": {
+    "name": "Superior segment of right lung (SVI).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior segment of right lung (SVI).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_basal_segment_of_right_lung_sviii_j": {
+    "name": "Anterior basal segment of right lung (SVIII).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior basal segment of right lung (SVIII).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_surface_of_liver_j": {
+    "name": "Superior surface of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior surface of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "suprarenal_impression_of_liver_j": {
+    "name": "Suprarenal impression of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Suprarenal impression of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tail_of_pancreas_j": {
+    "name": "Tail of pancreas.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tail of pancreas.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "umbilical_fissure_j": {
+    "name": "Umbilical fissure.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Umbilical fissure.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "uncinate_process_of_pancreas_j": {
+    "name": "Uncinate process of pancreas.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Uncinate process of pancreas.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "infundibular_stalk_j": {
+    "name": "Infundibular stalk.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Infundibular stalk.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_lobar_bronchus_r": {
+    "name": "Middle lobar bronchus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle lobar bronchus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intermediate_bronchus_r": {
+    "name": "Intermediate bronchus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intermediate bronchus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_segmental_bronchus_of_right_lung_bv": {
+    "name": "Medial segmental bronchus of right lung (BV)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial segmental bronchus of right lung (BV)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_basal_segmental_bronchus_of_left_lung_bx": {
+    "name": "Posterior basal segmental bronchus of left lung (BX)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior basal segmental bronchus of left lung (BX)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anteromedial_basal_segmental_bronchus_of_left_lung": {
+    "name": "(Anteromedial basal segmental bronchus of left lung)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "(Anteromedial basal segmental bronchus of left lung)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "renal_impression_of_liver_j": {
+    "name": "Renal impression of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Renal impression of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "visceral_surface_of_liver_j": {
+    "name": "Visceral surface of liver.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Visceral surface of liver.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_lateral_segment_of_liver_vi_j": {
+    "name": "Anterior lateral segment of liver (VI).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior lateral segment of liver (VI).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_anterior_lateral_segment_of_liver_iii_j": {
+    "name": "Left anterior lateral segment of liver (III).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left anterior lateral segment of liver (III).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_lingular_segment_of_left_lung_siv_j": {
+    "name": "Superior lingular segment of left lung (SIV).j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior lingular segment of left lung (SIV).j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_pole_of_kidney_j": {
+    "name": "Superior pole of kidney.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior pole of kidney.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mucosa_of_stomach": {
+    "name": "Mucosa of stomach\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mucosa of stomach\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pleura": {
+    "name": "Pleura\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pleura\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "oropharynx": {
+    "name": "Oropharynx\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Oropharynx\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nasopharynx": {
+    "name": "Nasopharynx\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nasopharynx\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mucosa_of_nasal_cavity": {
+    "name": "Mucosa of nasal cavity\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mucosa of nasal cavity\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "laryngopharynx": {
+    "name": "Laryngopharynx\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Laryngopharynx\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "soft_palate": {
+    "name": "Soft palate\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Soft palate\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "peritoneal_cavity_j": {
+    "name": "Peritoneal cavity.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Peritoneal cavity.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "oesophagus_profile": {
+    "name": "Oesophagus-profile\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Oesophagus-profile\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cross_section_x": {
+    "name": "Cross Section X\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cross Section X\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cross_section_z": {
+    "name": "Cross Section Z\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cross Section Z\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cross_section_y": {
+    "name": "Cross Section Y\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cross Section Y\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  }
+}

@@ -1,0 +1,7889 @@
+{
+  "systemic_arteries_j": {
+    "name": "Systemic arteries.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Systemic arteries.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "systemic_veins_j": {
+    "name": "Systemic veins.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Systemic veins.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "aortic_bifurcation_j": {
+    "name": "Aortic bifurcation.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Aortic bifurcation.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "arteries_of_spinal_cord_j": {
+    "name": "Arteries of spinal cord.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Arteries of spinal cord.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cerebral_arterial_circle_j": {
+    "name": "Cerebral arterial circle.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cerebral arterial circle.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "root_of_aorta_j": {
+    "name": "Root of aorta.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Root of aorta.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "union_of_brachiocephalic_veins_j": {
+    "name": "Union of brachiocephalic veins.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Union of brachiocephalic veins.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "confluence_of_sinuses_j": {
+    "name": "Confluence of sinuses.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Confluence of sinuses.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dural_venous_sinuses_j": {
+    "name": "Dural venous sinuses.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dural venous sinuses.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cranial_veins_j": {
+    "name": "Cranial veins.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cranial veins.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "orbital_veins_j": {
+    "name": "Orbital veins.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Orbital veins.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "aortic_valve_j": {
+    "name": "Aortic valve.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Aortic valve.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "valvular_complex_of_heart_j": {
+    "name": "Valvular complex of heart.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Valvular complex of heart.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_leaflet_of_right_atrioventricular_valve": {
+    "name": "Inferior leaflet of right atrioventricular valve\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior leaflet of right atrioventricular valve\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "septal_leaflet_of_right_atrioventricular_valve": {
+    "name": "Septal leaflet of right atrioventricular valve\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Septal leaflet of right atrioventricular valve\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_leaflet_of_left_atrioventricular_valve": {
+    "name": "Posterior leaflet of left atrioventricular valve\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior leaflet of left atrioventricular valve\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_coronary_leaflet": {
+    "name": "Left coronary leaflet\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left coronary leaflet\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "non_coronary_leaflet": {
+    "name": "Non-coronary leaflet\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Non-coronary leaflet\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_coronary_leaflet": {
+    "name": "Right coronary leaflet\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right coronary leaflet\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_semilunar_leaflet_of_pulmonary_valve": {
+    "name": "Anterior semilunar leaflet of pulmonary valve\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior semilunar leaflet of pulmonary valve\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_semilunar_leaflet_of_pulmonary_valve": {
+    "name": "Left semilunar leaflet of pulmonary valve\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left semilunar leaflet of pulmonary valve\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_semilunar_leaflet_of_pulmonary_valve": {
+    "name": "Right semilunar leaflet of pulmonary valve\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right semilunar leaflet of pulmonary valve\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_atrium": {
+    "name": "Right atrium\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right atrium\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_papillary_muscle_of_right_ventricle": {
+    "name": "Inferior papillary muscle of right ventricle\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior papillary muscle of right ventricle\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_papillary_muscle_of_right_ventricle": {
+    "name": "Anterior papillary muscle of right ventricle\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior papillary muscle of right ventricle\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "septal_papillary_muscle_of_right_ventricle": {
+    "name": "Septal papillary muscle of right ventricle\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Septal papillary muscle of right ventricle\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_ventricle": {
+    "name": "Right ventricle\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right ventricle\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_atrium": {
+    "name": "Left atrium\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left atrium\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_papillary_muscle_of_left_ventricle": {
+    "name": "Inferior papillary muscle of left ventricle\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior papillary muscle of left ventricle\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_ventricle": {
+    "name": "Left ventricle\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left ventricle\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "bifurcation_of_pulmonary_trunk": {
+    "name": "Bifurcation of pulmonary trunk\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Bifurcation of pulmonary trunk\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pulmonary_trunk": {
+    "name": "Pulmonary trunk\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pulmonary trunk\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_lobar_artery_of_right_lung": {
+    "name": "Superior lobar artery of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior lobar artery of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "apical_segmental_artery_of_right_lung": {
+    "name": "Apical segmental artery of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Apical segmental artery of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_segmental_artery_of_right_lung": {
+    "name": "Anterior segmental artery of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior segmental artery of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_segmental_artery_of_right_lung": {
+    "name": "Posterior segmental artery of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior segmental artery of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_lobar_artery_of_right_lung": {
+    "name": "Middle lobar artery of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle lobar artery of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_basal_segmental_artery_of_right_lung": {
+    "name": "Posterior basal segmental artery of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior basal segmental artery of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_lobar_artery_of_right_lung": {
+    "name": "Inferior lobar artery of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior lobar artery of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_basal_segmental_artery_of_right_lung": {
+    "name": "Lateral basal segmental artery of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral basal segmental artery of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_basal_segmental_artery_of_right_lung": {
+    "name": "Anterior basal segmental artery of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior basal segmental artery of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_basal_segmental_artery_of_right_lung": {
+    "name": "Medial basal segmental artery of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial basal segmental artery of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_segmental_artery_of_right_lung": {
+    "name": "Medial segmental artery of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial segmental artery of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_segmental_artery_of_right_lung": {
+    "name": "Lateral segmental artery of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral segmental artery of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_segmental_artery_of_right_lung": {
+    "name": "Superior segmental artery of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior segmental artery of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_lingular_artery_of_left_lung": {
+    "name": "Superior lingular artery of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior lingular artery of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_lingular_artery_of_left_lung": {
+    "name": "Inferior lingular artery of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior lingular artery of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "apical_segmental_artery_of_left_lung": {
+    "name": "Apical segmental artery of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Apical segmental artery of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_segmental_artery_of_left_lung": {
+    "name": "Posterior segmental artery of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior segmental artery of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_segmental_artery_of_left_lung": {
+    "name": "Anterior segmental artery of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior segmental artery of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_segmental_artery_of_left_lung": {
+    "name": "Superior segmental artery of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior segmental artery of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_basal_segmental_artery_of_left_lung": {
+    "name": "Lateral basal segmental artery of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral basal segmental artery of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_basal_segmental_artery_of_left_lung": {
+    "name": "Posterior basal segmental artery of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior basal segmental artery of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_basal_segmental_artery_of_left_lung": {
+    "name": "Medial basal segmental artery of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial basal segmental artery of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_basal_segmental_artery_of_left_lung": {
+    "name": "Anterior basal segmental artery of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior basal segmental artery of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_pulmonary_artery": {
+    "name": "Left pulmonary artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left pulmonary artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pulmonary_arteries_j": {
+    "name": "Pulmonary arteries.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pulmonary arteries.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_superior_pulmonary_vein": {
+    "name": "Right superior pulmonary vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right superior pulmonary vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_vein_of_right_lung": {
+    "name": "Medial vein of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial vein of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "apical_vein_of_right_lung": {
+    "name": "Apical vein of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Apical vein of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_vein_of_right_lung": {
+    "name": "Posterior vein of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior vein of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_vein_of_right_lung": {
+    "name": "Anterior vein of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior vein of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_vein_of_right_lung": {
+    "name": "Lateral vein of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral vein of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_basal_vein_of_right_lung": {
+    "name": "Inferior basal vein of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior basal vein of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_vein_of_right_lung": {
+    "name": "Superior vein of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior vein of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_basal_vein_of_right_lung": {
+    "name": "Superior basal vein of right lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior basal vein of right lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_vein_of_left_lung": {
+    "name": "Anterior vein of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior vein of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "apicoposterior_vein_of_left_lung": {
+    "name": "Apicoposterior vein of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Apicoposterior vein of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_lingular_vein_of_left_lung": {
+    "name": "Inferior lingular vein of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior lingular vein of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_lingular_vein_of_left_lung": {
+    "name": "Superior lingular vein of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior lingular vein of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_basal_vein_of_left_lung": {
+    "name": "Superior basal vein of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior basal vein of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_vein_of_left_lung": {
+    "name": "Superior vein of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior vein of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_basal_vein_of_left_lung": {
+    "name": "Inferior basal vein of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior basal vein of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pulmonary_veins_j": {
+    "name": "Pulmonary veins.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pulmonary veins.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_coronary_artery": {
+    "name": "Right coronary artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right coronary artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "circumflex_artery_of_heart": {
+    "name": "Circumflex artery of heart\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Circumflex artery of heart\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_interventricular_artery": {
+    "name": "Anterior interventricular artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior interventricular artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_coronary_artery": {
+    "name": "Left coronary artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left coronary artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_inferolateral_branch_of_right_coronary_artery": {
+    "name": "Right inferolateral branch of right coronary artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right inferolateral branch of right coronary artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "septal_branches_of_anterior_interventricular_artery": {
+    "name": "Septal branches of anterior interventricular artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Septal branches of anterior interventricular artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "arteries_of_heart_j": {
+    "name": "Arteries of heart.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Arteries of heart.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "great_cardiac_vein": {
+    "name": "Great cardiac vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Great cardiac vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "": {
+    "name": "????????\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "????????\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_cardiac_vein": {
+    "name": "Middle cardiac vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle cardiac vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_vein_of_left_ventricle_posterior": {
+    "name": "Inferior vein of left ventricle (//Posterior '')\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior vein of left ventricle (//Posterior '')\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "coronary_sinus": {
+    "name": "Coronary sinus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Coronary sinus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_vein_of_left_ventricle": {
+    "name": "Inferior vein of left ventricle\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior vein of left ventricle\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cardiac_veins_j": {
+    "name": "Cardiac veins.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cardiac veins.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "brachiocephalic_trunk": {
+    "name": "Brachiocephalic trunk\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Brachiocephalic trunk\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_common_carotid_artery": {
+    "name": "Right common carotid artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right common carotid artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_subclavian_artery": {
+    "name": "Right subclavian artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right subclavian artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "aortic_arch": {
+    "name": "Aortic arch\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Aortic arch\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_common_carotid_artery": {
+    "name": "Left common carotid artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left common carotid artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_subclavian_artery": {
+    "name": "Left subclavian artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left subclavian artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_intercostal_arteries_l": {
+    "name": "Posterior intercostal arteries.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior intercostal arteries.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_intercostal_arteries_r": {
+    "name": "Posterior intercostal arteries.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior intercostal arteries.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "subcostal_artery_l": {
+    "name": "Subcostal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Subcostal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "subcostal_artery_r": {
+    "name": "Subcostal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Subcostal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_phrenic_arteries": {
+    "name": "Superior phrenic arteries\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior phrenic arteries\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thoracic_aorta": {
+    "name": "Thoracic aorta\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thoracic aorta\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_suprarenal_artery_l": {
+    "name": "Inferior suprarenal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior suprarenal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_suprarenal_artery_r": {
+    "name": "Inferior suprarenal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior suprarenal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_phrenic_artery": {
+    "name": "Inferior phrenic artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior phrenic artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lumbar_arteries_l": {
+    "name": "Lumbar arteries.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lumbar arteries.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lumbar_arteries_r": {
+    "name": "Lumbar arteries.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lumbar arteries.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "splenic_artery": {
+    "name": "Splenic artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Splenic artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_inferior_pancreaticoduodenal_artery": {
+    "name": "Anterior inferior pancreaticoduodenal artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior inferior pancreaticoduodenal artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "colic_branch_of_ileocolic_artery": {
+    "name": "Colic branch of ileocolic artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Colic branch of ileocolic artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ileocolic_artery": {
+    "name": "Ileocolic artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ileocolic artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ileal_branch_of_ileocolic_artery": {
+    "name": "Ileal branch of ileocolic artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ileal branch of ileocolic artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "appendicular_artery": {
+    "name": "Appendicular artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Appendicular artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_mesenteric_artery": {
+    "name": "Superior mesenteric artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior mesenteric artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "marginal_artery": {
+    "name": "Marginal artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Marginal artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_colic_artery": {
+    "name": "Right colic artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right colic artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proper_hepatic_artery": {
+    "name": "Proper hepatic artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proper hepatic artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "coeliac_trunk": {
+    "name": "Coeliac trunk\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Coeliac trunk\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_gastric_artery": {
+    "name": "Left gastric artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left gastric artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_hepatic_artery": {
+    "name": "Common hepatic artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common hepatic artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "gastroduodenal_artery": {
+    "name": "Gastroduodenal artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Gastroduodenal artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_branch_of_renal_artery_r": {
+    "name": "Anterior branch of renal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior branch of renal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_branch_of_renal_artery_l": {
+    "name": "Anterior branch of renal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior branch of renal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_branch_of_renal_artery_r": {
+    "name": "Posterior branch of renal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior branch of renal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_branch_of_renal_artery_l": {
+    "name": "Posterior branch of renal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior branch of renal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intrarenal_arteries_of_left_kidney": {
+    "name": "Intrarenal arteries of left kidney\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intrarenal arteries of left kidney\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intrarenal_arteries_of_right_kidney": {
+    "name": "Intrarenal arteries of right kidney\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intrarenal arteries of right kidney\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_renal_artery": {
+    "name": "Right renal artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right renal artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_renal_artery": {
+    "name": "Left renal artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left renal artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_testicular_artery_r": {
+    "name": "Right testicular artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right testicular artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "descending_branch_of_left_colic_artery": {
+    "name": "Descending branch of left colic artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Descending branch of left colic artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_colic_artery": {
+    "name": "Left colic artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left colic artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ascending_branch_of_left_colic_artery": {
+    "name": "Ascending branch of left colic artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ascending branch of left colic artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_mesenteric_artery": {
+    "name": "Inferior mesenteric artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior mesenteric artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sigmoid_arteries": {
+    "name": "Sigmoid arteries\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sigmoid arteries\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "abdominal_aorta": {
+    "name": "Abdominal aorta\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Abdominal aorta\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "median_sacral_artery": {
+    "name": "Median sacral artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Median sacral artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "iliacus_branch_of_iliolumbar_artery_r": {
+    "name": "Iliacus branch of iliolumbar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Iliacus branch of iliolumbar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "iliacus_branch_of_iliolumbar_artery_l": {
+    "name": "Iliacus branch of iliolumbar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Iliacus branch of iliolumbar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_gluteal_artery_r": {
+    "name": "Superior gluteal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior gluteal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_gluteal_artery_l": {
+    "name": "Superior gluteal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior gluteal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_division_of_internal_iliac_artery_r": {
+    "name": "Posterior division of internal iliac artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior division of internal iliac artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_division_of_internal_iliac_artery_l": {
+    "name": "Posterior division of internal iliac artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior division of internal iliac artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_artery_of_penis_l": {
+    "name": "Deep artery of penis.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep artery of penis.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_artery_of_penis_r": {
+    "name": "Dorsal artery of penis.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal artery of penis.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_artery_of_penis_l": {
+    "name": "Dorsal artery of penis.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal artery of penis.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_gluteal_artery_r": {
+    "name": "Inferior gluteal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior gluteal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_gluteal_artery_l": {
+    "name": "Inferior gluteal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior gluteal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_division_of_internal_iliac_artery_r": {
+    "name": "Anterior division of internal iliac artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior division of internal iliac artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_division_of_internal_iliac_artery_l": {
+    "name": "Anterior division of internal iliac artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior division of internal iliac artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_iliac_artery_r": {
+    "name": "Internal iliac artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal iliac artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_iliac_artery_l": {
+    "name": "Internal iliac artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal iliac artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_epigastric_artery_r": {
+    "name": "Inferior epigastric artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior epigastric artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_epigastric_artery_l": {
+    "name": "Inferior epigastric artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior epigastric artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "external_iliac_artery_r": {
+    "name": "External iliac artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "External iliac artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "external_iliac_artery_l": {
+    "name": "External iliac artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "External iliac artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_iliac_artery_r": {
+    "name": "Common iliac artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common iliac artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_iliac_artery_l": {
+    "name": "Common iliac artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common iliac artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ascending_aorta": {
+    "name": "Ascending aorta\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ascending aorta\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "aorta_j": {
+    "name": "Aorta.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Aorta.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ascending_pharyngeal_artery_r": {
+    "name": "Ascending pharyngeal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ascending pharyngeal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ascending_pharyngeal_artery_l": {
+    "name": "Ascending pharyngeal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ascending pharyngeal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_labial_artery_r": {
+    "name": "Superior labial artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior labial artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_labial_artery_l": {
+    "name": "Superior labial artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior labial artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "facial_artery_r": {
+    "name": "Facial artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Facial artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "angular_artery_r": {
+    "name": "Angular artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Angular artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_labial_artery_r": {
+    "name": "Inferior labial artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior labial artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "submental_artery_r": {
+    "name": "Submental artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Submental artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "facial_artery_l": {
+    "name": "Facial artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Facial artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "angular_artery_l": {
+    "name": "Angular artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Angular artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_labial_artery_l": {
+    "name": "Inferior labial artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior labial artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "submental_artery_l": {
+    "name": "Submental artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Submental artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "occipital_artery_r": {
+    "name": "Occipital artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Occipital artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "occipital_artery_l": {
+    "name": "Occipital artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Occipital artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_temporal_artery_r": {
+    "name": "Superficial temporal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial temporal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "frontal_branch_of_superficial_temporal_artery_r": {
+    "name": "Frontal branch of superficial temporal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Frontal branch of superficial temporal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_temporal_artery_l": {
+    "name": "Superficial temporal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial temporal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "transverse_facial_artery_l": {
+    "name": "Transverse facial artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Transverse facial artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "frontal_branch_of_superficial_temporal_artery_l": {
+    "name": "Frontal branch of superficial temporal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Frontal branch of superficial temporal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mental_branch_of_inferior_alveolar_artery_l": {
+    "name": "Mental branch of inferior alveolar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mental branch of inferior alveolar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_alveolar_artery_r": {
+    "name": "Inferior alveolar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior alveolar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mylohyoid_branch_of_inferior_alveolar_artery_r": {
+    "name": "Mylohyoid branch of inferior alveolar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mylohyoid branch of inferior alveolar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mental_branch_of_inferior_alveolar_artery_r": {
+    "name": "Mental branch of inferior alveolar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mental branch of inferior alveolar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_alveolar_artery_l": {
+    "name": "Inferior alveolar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior alveolar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mylohyoid_branch_of_inferior_alveolar_artery_l": {
+    "name": "Mylohyoid branch of inferior alveolar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mylohyoid branch of inferior alveolar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_meningeal_artery_r": {
+    "name": "Middle meningeal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle meningeal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "accessory_branch_of_middle_meningeal_artery_r": {
+    "name": "Accessory branch of middle meningeal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Accessory branch of middle meningeal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_meningeal_artery_l": {
+    "name": "Middle meningeal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle meningeal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "accessory_branch_of_middle_meningeal_artery_l": {
+    "name": "Accessory branch of middle meningeal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Accessory branch of middle meningeal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_deep_temporal_artery_r": {
+    "name": "Posterior deep temporal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior deep temporal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_deep_temporal_artery_l": {
+    "name": "Posterior deep temporal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior deep temporal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_superior_alveolar_artery_r": {
+    "name": "Posterior superior alveolar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior superior alveolar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_superior_alveolar_artery_l": {
+    "name": "Posterior superior alveolar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior superior alveolar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "artery_of_pterygoid_canal_r": {
+    "name": "Artery of pterygoid canal.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Artery of pterygoid canal.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "artery_of_pterygoid_canal_l": {
+    "name": "Artery of pterygoid canal.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Artery of pterygoid canal.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_lateral_nasal_branches_of_sphenopalatine_artery_r": {
+    "name": "Posterior lateral nasal branches of sphenopalatine artery..r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior lateral nasal branches of sphenopalatine artery..r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_lateral_nasal_branches_of_sphenopalatine_artery_l": {
+    "name": "Posterior lateral nasal branches of sphenopalatine artery..l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior lateral nasal branches of sphenopalatine artery..l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "maxillary_artery_r": {
+    "name": "Maxillary artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Maxillary artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_deep_temporal_artery_r": {
+    "name": "Anterior deep temporal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior deep temporal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "x_r": {
+    "name": "?x.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "?x.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "maxillary_artery_l": {
+    "name": "Maxillary artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Maxillary artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_deep_temporal_artery_l": {
+    "name": "Anterior deep temporal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior deep temporal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "x_l": {
+    "name": "?x.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "?x.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "external_carotid_artery_r": {
+    "name": "External carotid artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "External carotid artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "external_carotid_artery_l": {
+    "name": "External carotid artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "External carotid artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "central_retinal_artery_r": {
+    "name": "Central retinal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Central retinal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "central_retinal_artery_l": {
+    "name": "Central retinal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Central retinal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "short_posterior_ciliary_arteries_r": {
+    "name": "Short posterior ciliary arteries.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Short posterior ciliary arteries.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "short_posterior_ciliary_arteries_l": {
+    "name": "Short posterior ciliary arteries.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Short posterior ciliary arteries.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "long_posterior_ciliary_arteries_r": {
+    "name": "Long posterior ciliary arteries.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Long posterior ciliary arteries.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "long_posterior_ciliary_arteries_l": {
+    "name": "Long posterior ciliary arteries.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Long posterior ciliary arteries.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_ethmoidal_artery_r": {
+    "name": "Anterior ethmoidal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior ethmoidal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_septal_branches_of_anterior_ethmoidal_artery_l": {
+    "name": "Anterior septal branches of anterior ethmoidal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior septal branches of anterior ethmoidal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_ethmoidal_artery_l": {
+    "name": "Anterior ethmoidal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior ethmoidal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_septal_branches_of_anterior_ethmoidal_artery_r": {
+    "name": "Anterior septal branches of anterior ethmoidal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior septal branches of anterior ethmoidal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "septal_branches_of_posterior_ethmoidal_artery_r": {
+    "name": "Septal branches of posterior ethmoidal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Septal branches of posterior ethmoidal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_ethmoidal_artery_r": {
+    "name": "Posterior ethmoidal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior ethmoidal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "septal_branches_of_posterior_ethmoidal_artery_l": {
+    "name": "Septal branches of posterior ethmoidal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Septal branches of posterior ethmoidal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_ethmoidal_artery_l": {
+    "name": "Posterior ethmoidal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior ethmoidal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ophthalmic_artery_r": {
+    "name": "Ophthalmic artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ophthalmic artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lacrimal_artery_r": {
+    "name": "Lacrimal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lacrimal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "supra_orbital_artery_r": {
+    "name": "Supra-orbital artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Supra-orbital artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "supratrochlear_artery_r": {
+    "name": "Supratrochlear artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Supratrochlear artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ophthalmic_artery_l": {
+    "name": "Ophthalmic artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ophthalmic artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lacrimal_artery_l": {
+    "name": "Lacrimal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lacrimal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "supra_orbital_artery_l": {
+    "name": "Supra-orbital artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Supra-orbital artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "supratrochlear_artery_l": {
+    "name": "Supratrochlear artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Supratrochlear artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "callosomarginal_artery_r": {
+    "name": "Callosomarginal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Callosomarginal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "frontal_branches_of_callosomarginal_artery_r": {
+    "name": "Frontal branches of callosomarginal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Frontal branches of callosomarginal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "callosomarginal_artery_l": {
+    "name": "Callosomarginal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Callosomarginal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "frontal_branches_of_callosomarginal_artery_l": {
+    "name": "Frontal branches of callosomarginal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Frontal branches of callosomarginal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pericallosal_artery_r": {
+    "name": "Pericallosal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pericallosal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pericallosal_artery_l": {
+    "name": "Pericallosal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pericallosal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "orbitofrontal_branches_of_anterior_cerebral_artery_r": {
+    "name": "Orbitofrontal branches of anterior cerebral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Orbitofrontal branches of anterior cerebral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "orbitofrontal_branches_of_anterior_cerebral_artery_l": {
+    "name": "Orbitofrontal branches of anterior cerebral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Orbitofrontal branches of anterior cerebral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proximal_lateral_striate_branches_r": {
+    "name": "Proximal lateral striate branches.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proximal lateral striate branches.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "distal_lateral_striate_branches_r": {
+    "name": "Distal lateral striate branches.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Distal lateral striate branches.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proximal_lateral_striate_branches_l": {
+    "name": "Proximal lateral striate branches.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proximal lateral striate branches.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "distal_lateral_striate_branches_l": {
+    "name": "Distal lateral striate branches.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Distal lateral striate branches.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "insular_branches_of_middle_cerebral_artery_m2_r": {
+    "name": "Insular branches of middle cerebral artery (M2).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Insular branches of middle cerebral artery (M2).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "insular_branches_of_middle_cerebral_artery_m2_segment_l": {
+    "name": "Insular branches of middle cerebral artery (M2-segment).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Insular branches of middle cerebral artery (M2-segment).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_temporal_branch_r": {
+    "name": "Anterior temporal branch.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior temporal branch.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "temporal_branches_of_middle_cerebral_artery_r": {
+    "name": "Temporal branches of middle cerebral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Temporal branches of middle cerebral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_temporal_branch_r": {
+    "name": "Posterior temporal branch.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior temporal branch.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "branch_to_angular_gyrus_r": {
+    "name": "Branch to angular gyrus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Branch to angular gyrus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "temporo_occipital_branch_r": {
+    "name": "Temporo-occipital branch.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Temporo-occipital branch.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_temporal_branch_l": {
+    "name": "Anterior temporal branch.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior temporal branch.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "temporal_branches_of_middle_cerebral_artery_l": {
+    "name": "Temporal branches of middle cerebral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Temporal branches of middle cerebral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_temporal_branch_l": {
+    "name": "Posterior temporal branch.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior temporal branch.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "branch_to_angular_gyrus_l": {
+    "name": "Branch to angular gyrus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Branch to angular gyrus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "temporo_occipital_branch_l": {
+    "name": "Temporo-occipital branch.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Temporo-occipital branch.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "prefrontal_artery_r": {
+    "name": "Prefrontal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Prefrontal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_frontobasal_artery_r": {
+    "name": "Lateral frontobasal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral frontobasal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_parietal_artery_r": {
+    "name": "Posterior parietal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior parietal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "artery_of_central_sulcus_r": {
+    "name": "Artery of central sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Artery of central sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "artery_of_precentral_sulcus_r": {
+    "name": "Artery of precentral sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Artery of precentral sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "postcentral_arterial_branch_r": {
+    "name": "Postcentral arterial branch.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Postcentral arterial branch.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "parietal_branches_of_middle_cerebral_artery_r": {
+    "name": "Parietal branches of middle cerebral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Parietal branches of middle cerebral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "prefrontal_artery_l": {
+    "name": "Prefrontal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Prefrontal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_frontobasal_artery_l": {
+    "name": "Lateral frontobasal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral frontobasal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_parietal_artery_l": {
+    "name": "Posterior parietal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior parietal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "artery_of_central_sulcus_l": {
+    "name": "Artery of central sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Artery of central sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "artery_of_precentral_sulcus_l": {
+    "name": "Artery of precentral sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Artery of precentral sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "postcentral_arterial_branch_l": {
+    "name": "Postcentral arterial branch.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Postcentral arterial branch.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "parietal_branches_of_middle_cerebral_artery_l": {
+    "name": "Parietal branches of middle cerebral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Parietal branches of middle cerebral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_cerebral_artery_m3_segment_r": {
+    "name": "Middle cerebral artery (M3-segment).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle cerebral artery (M3-segment).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_cerebral_artery_m1_segment_r": {
+    "name": "Middle cerebral artery (M1-segment).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle cerebral artery (M1-segment).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_cerebral_artery_m3_segment_l": {
+    "name": "Middle cerebral artery (M3 segment).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle cerebral artery (M3 segment).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_cerebral_artery_m1_segment_l": {
+    "name": "Middle cerebral artery (M1-segment).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle cerebral artery (M1-segment).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_carotid_artery_r": {
+    "name": "Internal carotid artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal carotid artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_carotid_artery_l": {
+    "name": "Internal carotid artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal carotid artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_communicating_artery": {
+    "name": "Anterior communicating artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior communicating artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_communicating_artery_r": {
+    "name": "Posterior communicating artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior communicating artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_communicating_artery_l": {
+    "name": "Posterior communicating artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior communicating artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_spinal_artery_r": {
+    "name": "Anterior spinal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior spinal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_spinal_artery_l": {
+    "name": "Anterior spinal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior spinal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_inferior_cerebellar_artery_r": {
+    "name": "Anterior inferior cerebellar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior inferior cerebellar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_inferior_cerebellar_artery_l": {
+    "name": "Anterior inferior cerebellar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior inferior cerebellar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_pontine_branches_of_basilar_artery_r": {
+    "name": "Lateral pontine branches of basilar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral pontine branches of basilar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_pontine_branches_of_basilar_artery_r": {
+    "name": "Medial pontine branches of basilar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial pontine branches of basilar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_pontine_branches_of_basilar_artery_l": {
+    "name": "Lateral pontine branches of basilar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral pontine branches of basilar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_pontine_branches_of_basilar_artery_l": {
+    "name": "Medial pontine branches of basilar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial pontine branches of basilar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_occipital_artery_r": {
+    "name": "Lateral occipital artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral occipital artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_occipital_artery_l": {
+    "name": "Lateral occipital artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral occipital artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_occipital_artery_r": {
+    "name": "Medial occipital artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial occipital artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_occipital_artery_l": {
+    "name": "Medial occipital artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial occipital artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_cerebral_artery_r": {
+    "name": "Posterior cerebral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior cerebral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "parieto_occipital_artery_r": {
+    "name": "Parieto-occipital artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Parieto-occipital artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_cerebral_artery_l": {
+    "name": "Posterior cerebral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior cerebral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "parieto_occipital_artery_l": {
+    "name": "Parieto-occipital artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Parieto-occipital artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "basilar_artery": {
+    "name": "Basilar artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Basilar artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_cerebellar_artery_r": {
+    "name": "Superior cerebellar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior cerebellar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_cerebellar_artery_l": {
+    "name": "Superior cerebellar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior cerebellar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vertebral_artery_r": {
+    "name": "Vertebral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vertebral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_inferior_cerebellar_artery_r": {
+    "name": "Posterior inferior cerebellar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior inferior cerebellar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vertebral_artery_l": {
+    "name": "Vertebral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vertebral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_inferior_cerebellar_artery_l": {
+    "name": "Posterior inferior cerebellar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior inferior cerebellar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_thoracic_artery_l": {
+    "name": "Internal thoracic artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal thoracic artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "musculophrenic_artery_l": {
+    "name": "Musculophrenic artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Musculophrenic artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_epigastric_artery_l": {
+    "name": "Superior epigastric artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior epigastric artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_thoracic_artery_r": {
+    "name": "Internal thoracic artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal thoracic artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_epigastric_artery_r": {
+    "name": "Superior epigastric artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior epigastric artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "musculophrenic_artery_r": {
+    "name": "Musculophrenic artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Musculophrenic artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_thyroid_artery_r": {
+    "name": "Inferior thyroid artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior thyroid artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_thyroid_artery_l": {
+    "name": "Inferior thyroid artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior thyroid artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "suprascapular_artery_r": {
+    "name": "Suprascapular artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Suprascapular artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "suprascapular_artery_l": {
+    "name": "Suprascapular artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Suprascapular artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_branch_of_transverse_cervical_artery_r": {
+    "name": "(Deep branch of transverse cervical artery).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "(Deep branch of transverse cervical artery).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "transverse_cervical_artery_r": {
+    "name": "Transverse cervical artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Transverse cervical artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_branch_of_transverse_cervical_artery_l": {
+    "name": "(Deep branch of transverse cervical artery).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "(Deep branch of transverse cervical artery).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "transverse_cervical_artery_l": {
+    "name": "Transverse cervical artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Transverse cervical artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_branch_of_transverse_cervical_artery_l": {
+    "name": "(Superficial branch of transverse cervical artery).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "(Superficial branch of transverse cervical artery).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thyrocervical_trunk_r": {
+    "name": "Thyrocervical trunk.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thyrocervical trunk.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thyrocervical_trunk_l": {
+    "name": "Thyrocervical trunk.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thyrocervical trunk.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "first_posterior_intercostal_artery_l": {
+    "name": "First posterior intercostal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "First posterior intercostal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "first_posterior_intercostal_artery_r": {
+    "name": "First posterior intercostal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "First posterior intercostal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "second_posterior_intercostal_artery_l": {
+    "name": "Second posterior intercostal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Second posterior intercostal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "second_posterior_intercostal_artery_r": {
+    "name": "Second posterior intercostal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Second posterior intercostal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "costocervical_trunk_l": {
+    "name": "Costocervical trunk.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Costocervical trunk.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "costocervical_trunk_r": {
+    "name": "Costocervical trunk.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Costocervical trunk.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_cervical_artery_r": {
+    "name": "Deep cervical artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep cervical artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_cervical_artery_l": {
+    "name": "Deep cervical artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep cervical artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thoraco_acromial_artery_l": {
+    "name": "Thoraco-acromial artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thoraco-acromial artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pectoral_branches_of_thoraco_acromial_artery_r": {
+    "name": "Pectoral branches of thoraco-acromial artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pectoral branches of thoraco-acromial artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pectoral_branches_of_thoraco_acromial_artery_l": {
+    "name": "Pectoral branches of thoraco-acromial artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pectoral branches of thoraco-acromial artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thoraco_acromial_artery_r": {
+    "name": "Thoraco-acromial artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thoraco-acromial artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_thoracic_artery_r": {
+    "name": "Lateral thoracic artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral thoracic artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_thoracic_artery_l": {
+    "name": "Lateral thoracic artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral thoracic artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thoracodorsal_artery_r": {
+    "name": "Thoracodorsal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thoracodorsal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_brachial_artery_r": {
+    "name": "Deep brachial artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep brachial artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "radial_collateral_artery_r": {
+    "name": "Radial collateral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Radial collateral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_collateral_artery_r": {
+    "name": "Middle collateral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle collateral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_brachial_artery_l": {
+    "name": "Deep brachial artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep brachial artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "radial_collateral_artery_l": {
+    "name": "Radial collateral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Radial collateral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_collateral_artery_l": {
+    "name": "Middle collateral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle collateral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_metacarpal_arteries_r": {
+    "name": "Dorsal metacarpal arteries.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal metacarpal arteries.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_arteries_of_hand_r": {
+    "name": "Dorsal digital arteries of hand.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital arteries of hand.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_metacarpal_arteries_l": {
+    "name": "Dorsal metacarpal arteries.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal metacarpal arteries.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_arteries_of_hand_l": {
+    "name": "Dorsal digital arteries of hand.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital arteries of hand.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_carpal_anastomosis_r": {
+    "name": "Dorsal carpal anastomosis.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal carpal anastomosis.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_carpal_anastomosis_l": {
+    "name": "Dorsal carpal anastomosis.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal carpal anastomosis.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "palmar_metacarpal_arteries_r": {
+    "name": "Palmar metacarpal arteries.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Palmar metacarpal arteries.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "palmar_metacarpal_arteries_l": {
+    "name": "Palmar metacarpal arteries.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Palmar metacarpal arteries.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_palmar_arch_r": {
+    "name": "Deep palmar arch.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep palmar arch.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_palmar_arch_l": {
+    "name": "Deep palmar arch.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep palmar arch.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "radial_artery_r": {
+    "name": "Radial artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Radial artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "palmar_carpal_branch_of_radial_artery_r": {
+    "name": "Palmar carpal branch of radial artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Palmar carpal branch of radial artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "radial_artery_l": {
+    "name": "Radial artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Radial artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "palmar_carpal_branch_of_radial_artery_l": {
+    "name": "Palmar carpal branch of radial artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Palmar carpal branch of radial artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ulnar_recurrent_artery_r": {
+    "name": "(Ulnar recurrent artery).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "(Ulnar recurrent artery).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ulnar_recurrent_artery_l": {
+    "name": "(Ulnar recurrent artery).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "(Ulnar recurrent artery).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "recurrent_interosseous_artery_r": {
+    "name": "Recurrent interosseous artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Recurrent interosseous artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_interosseous_artery_r": {
+    "name": "Posterior interosseous artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior interosseous artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "recurrent_interosseous_artery_l": {
+    "name": "Recurrent interosseous artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Recurrent interosseous artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_interosseous_artery_l": {
+    "name": "Posterior interosseous artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior interosseous artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_palmar_digital_arteries_r": {
+    "name": "Common palmar digital arteries.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common palmar digital arteries.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proper_palmar_digital_arteries_r": {
+    "name": "Proper palmar digital arteries.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proper palmar digital arteries.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_palmar_digital_arteries_l": {
+    "name": "Common palmar digital arteries.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common palmar digital arteries.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proper_palmar_digital_arteries_l": {
+    "name": "Proper palmar digital arteries.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proper palmar digital arteries.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ulnar_artery_r": {
+    "name": "Ulnar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ulnar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_palmar_arch_r": {
+    "name": "Superficial palmar arch.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial palmar arch.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_carpal_branch_of_ulnar_artery_r": {
+    "name": "Dorsal carpal branch of ulnar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal carpal branch of ulnar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ulnar_artery_l": {
+    "name": "Ulnar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ulnar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_palmar_arch_l": {
+    "name": "Superficial palmar arch.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial palmar arch.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_carpal_branch_of_ulnar_artery_l": {
+    "name": "Dorsal carpal branch of ulnar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal carpal branch of ulnar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "brachial_artery_r": {
+    "name": "Brachial artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Brachial artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_ulnar_collateral_artery_r": {
+    "name": "Superior ulnar collateral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior ulnar collateral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_ulnar_collateral_artery_r": {
+    "name": "Inferior ulnar collateral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior ulnar collateral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "brachial_artery_l": {
+    "name": "Brachial artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Brachial artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_ulnar_collateral_artery_l": {
+    "name": "Superior ulnar collateral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior ulnar collateral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_ulnar_collateral_artery_l": {
+    "name": "Inferior ulnar collateral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior ulnar collateral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "axillary_artery_l": {
+    "name": "Axillary artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Axillary artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_circumflex_humeral_artery_r": {
+    "name": "Anterior circumflex humeral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior circumflex humeral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_circumflex_humeral_artery_r": {
+    "name": "Posterior circumflex humeral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior circumflex humeral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "axillary_artery_r": {
+    "name": "Axillary artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Axillary artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_circumflex_humeral_artery_l": {
+    "name": "Anterior circumflex humeral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior circumflex humeral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_circumflex_humeral_artery_l": {
+    "name": "Posterior circumflex humeral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior circumflex humeral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_circumflex_femoral_artery_r": {
+    "name": "Medial circumflex femoral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial circumflex femoral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_circumflex_femoral_artery_l": {
+    "name": "Medial circumflex femoral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial circumflex femoral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_circumflex_femoral_artery_r": {
+    "name": "Lateral circumflex femoral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral circumflex femoral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "descending_branch_of_lateral_circumflex_femoral_artery": {
+    "name": "Descending branch of lateral circumflex femoral artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Descending branch of lateral circumflex femoral artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_circumflex_femoral_artery_l": {
+    "name": "Lateral circumflex femoral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral circumflex femoral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "descending_branch_of_lateral_circumflex_femoral_artery_l": {
+    "name": "Descending branch of lateral circumflex femoral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Descending branch of lateral circumflex femoral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "perforating_femoral_arteries_r": {
+    "name": "Perforating femoral arteries.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Perforating femoral arteries.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_femoral_artery_r": {
+    "name": "Deep femoral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep femoral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_femoral_artery_l": {
+    "name": "Deep femoral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep femoral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_arteries_of_foot_r": {
+    "name": "Dorsal digital arteries of foot.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital arteries of foot.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_arteries_of_foot_l": {
+    "name": "Dorsal digital arteries of foot.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital arteries of foot.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "arcuate_artery_r": {
+    "name": "Arcuate artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Arcuate artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "arcuate_artery_l": {
+    "name": "Arcuate artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Arcuate artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsalis_pedis_artery_r": {
+    "name": "Dorsalis pedis artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsalis pedis artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_plantar_artery_r": {
+    "name": "Deep plantar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep plantar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_tarsal_artery_r": {
+    "name": "Lateral tarsal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral tarsal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsalis_pedis_artery_l": {
+    "name": "Dorsalis pedis artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsalis pedis artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_plantar_artery_l": {
+    "name": "Deep plantar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep plantar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_tarsal_artery_l": {
+    "name": "Lateral tarsal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral tarsal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_tibial_artery_r": {
+    "name": "Anterior tibial artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior tibial artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_tibial_artery_l": {
+    "name": "Anterior tibial artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior tibial artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "calcaneal_branches_of_fibular_artery_r": {
+    "name": "Calcaneal branches of fibular artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Calcaneal branches of fibular artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "calcaneal_branches_of_fibular_artery_l": {
+    "name": "Calcaneal branches of fibular artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Calcaneal branches of fibular artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fibular_artery_r": {
+    "name": "Fibular artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fibular artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fibular_artery_l": {
+    "name": "Fibular artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fibular artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_branch_of_medial_plantar_artery_r": {
+    "name": "Superficial branch of medial plantar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial branch of medial plantar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_plantar_artery_r": {
+    "name": "Medial plantar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial plantar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_branch_of_medial_plantar_artery_l": {
+    "name": "Superficial branch of medial plantar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial branch of medial plantar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_plantar_artery_l": {
+    "name": "Medial plantar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial plantar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_plantar_digital_arteries_r": {
+    "name": "Common plantar digital arteries.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common plantar digital arteries.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proper_plantar_digital_arteries_r": {
+    "name": "Proper plantar digital arteries.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proper plantar digital arteries.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_plantar_digital_arteries_l": {
+    "name": "Common plantar digital arteries.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common plantar digital arteries.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proper_plantar_digital_arteries_l": {
+    "name": "Proper plantar digital arteries.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proper plantar digital arteries.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "plantar_metatarsal_arteries_r": {
+    "name": "Plantar metatarsal arteries.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Plantar metatarsal arteries.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "perforating_branches_of_plantar_metatarsal_arteries_r": {
+    "name": "Perforating branches of plantar metatarsal arteries.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Perforating branches of plantar metatarsal arteries.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "plantar_metatarsal_arteries_l": {
+    "name": "Plantar metatarsal arteries.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Plantar metatarsal arteries.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "perforating_branches_of_plantar_metatarsal_arteries_l": {
+    "name": "Perforating branches of plantar metatarsal arteries.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Perforating branches of plantar metatarsal arteries.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "plantar_arch_r": {
+    "name": "Plantar arch.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Plantar arch.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "plantar_arch_l": {
+    "name": "Plantar arch.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Plantar arch.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_plantar_artery_r": {
+    "name": "Lateral plantar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral plantar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_plantar_artery_l": {
+    "name": "Lateral plantar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral plantar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_tibial_artery_r": {
+    "name": "Posterior tibial artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior tibial artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "calcaneal_branches_of_posterior_tibial_artery_r": {
+    "name": "Calcaneal branches of posterior tibial artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Calcaneal branches of posterior tibial artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_tibial_artery_l": {
+    "name": "Posterior tibial artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior tibial artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "calcaneal_branches_of_posterior_tibial_artery_l": {
+    "name": "Calcaneal branches of posterior tibial artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Calcaneal branches of posterior tibial artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "popliteal_artery_r": {
+    "name": "Popliteal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Popliteal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_medial_genicular_artery_r": {
+    "name": "Superior medial genicular artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior medial genicular artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_medial_genicular_artery_r": {
+    "name": "Inferior medial genicular artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior medial genicular artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_lateral_genicular_artery_r": {
+    "name": "Inferior lateral genicular artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior lateral genicular artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_genicular_artery_r": {
+    "name": "Middle genicular artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle genicular artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_lateral_genicular_artery_r": {
+    "name": "Superior lateral genicular artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior lateral genicular artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "patellar_anastomosis_r": {
+    "name": "Patellar anastomosis.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Patellar anastomosis.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "popliteal_artery_l": {
+    "name": "Popliteal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Popliteal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_medial_genicular_artery_l": {
+    "name": "Superior medial genicular artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior medial genicular artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_medial_genicular_artery_l": {
+    "name": "Inferior medial genicular artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior medial genicular artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_lateral_genicular_artery_l": {
+    "name": "Inferior lateral genicular artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior lateral genicular artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_genicular_artery_l": {
+    "name": "Middle genicular artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle genicular artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_lateral_genicular_artery_l": {
+    "name": "Superior lateral genicular artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior lateral genicular artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "patellar_anastomosis_l": {
+    "name": "Patellar anastomosis.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Patellar anastomosis.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "femoral_artery_r": {
+    "name": "Femoral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Femoral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_epigastric_artery_r": {
+    "name": "Superficial epigastric artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial epigastric artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "femoral_artery_l": {
+    "name": "Femoral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Femoral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_epigastric_artery_l": {
+    "name": "Superficial epigastric artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial epigastric artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "accessory_hemi_azygos_vein": {
+    "name": "Accessory hemi-azygos vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Accessory hemi-azygos vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_ascending_lumbar_vein": {
+    "name": "Left ascending lumbar vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left ascending lumbar vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "hemi_azygos_vein": {
+    "name": "Hemi-azygos vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Hemi-azygos vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_subcostal_vein": {
+    "name": "Left subcostal vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left subcostal vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "azygos_vein": {
+    "name": "Azygos vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Azygos vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_ascending_lumbar_vein": {
+    "name": "Right ascending lumbar vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right ascending lumbar vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_superior_phrenic_vein": {
+    "name": "Right superior phrenic vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right superior phrenic vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_subcostal_vein": {
+    "name": "Right subcostal vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right subcostal vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vertebral_vein_r": {
+    "name": "Vertebral vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vertebral vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vertebral_vein_l": {
+    "name": "Vertebral vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vertebral vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_thoracic_veins_l": {
+    "name": "Internal thoracic veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal thoracic veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "musculophrenic_veins_l": {
+    "name": "Musculophrenic veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Musculophrenic veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_thoracic_veins_r": {
+    "name": "Internal thoracic veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal thoracic veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_epigastric_veins_r": {
+    "name": "Superior epigastric veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior epigastric veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "musculophrenic_veins_r": {
+    "name": "Musculophrenic veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Musculophrenic veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_epigastric_veins_l": {
+    "name": "Superior epigastric veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior epigastric veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_brachiocephalic_vein": {
+    "name": "Right brachiocephalic vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right brachiocephalic vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_superior_intercostal_vein": {
+    "name": "Left superior intercostal vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left superior intercostal vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_superior_intercostal_vein": {
+    "name": "Right superior intercostal vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right superior intercostal vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_brachiocephalic_vein": {
+    "name": "Left brachiocephalic vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left brachiocephalic vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_vena_cava": {
+    "name": "Superior vena cava\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior vena cava\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_division_of_retromandibular_vein_r": {
+    "name": "Posterior division of retromandibular vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior division of retromandibular vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "angular_vein_r": {
+    "name": "Angular vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Angular vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "submental_vein_r": {
+    "name": "Submental vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Submental vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_labial_veins_r": {
+    "name": "Inferior labial veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior labial veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_labial_vein_r": {
+    "name": "Superior labial vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior labial vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "facial_vein_r": {
+    "name": "Facial vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Facial vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_ophthalmic_vein_r": {
+    "name": "Inferior ophthalmic vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior ophthalmic vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_thyroid_vein_r": {
+    "name": "Superior thyroid vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior thyroid vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "occipital_vein_r": {
+    "name": "Occipital vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Occipital vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_temporal_veins_r": {
+    "name": "Superficial temporal veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial temporal veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_auricular_vein_r": {
+    "name": "Posterior auricular vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior auricular vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "maxillary_veins_r": {
+    "name": "Maxillary veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Maxillary veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lingual_vein_r": {
+    "name": "Lingual vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lingual vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_division_of_retromandibular_vein_l": {
+    "name": "Posterior division of retromandibular vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior division of retromandibular vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "angular_vein_l": {
+    "name": "Angular vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Angular vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "submental_vein_l": {
+    "name": "Submental vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Submental vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_labial_veins_l": {
+    "name": "Inferior labial veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior labial veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_labial_vein_l": {
+    "name": "Superior labial vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior labial vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "facial_vein_l": {
+    "name": "Facial vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Facial vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_ophthalmic_vein_l": {
+    "name": "Inferior ophthalmic vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior ophthalmic vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_thyroid_vein_l": {
+    "name": "Superior thyroid vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior thyroid vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "occipital_vein_l": {
+    "name": "Occipital vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Occipital vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_temporal_veins_l": {
+    "name": "Superficial temporal veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial temporal veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_auricular_vein_l": {
+    "name": "Posterior auricular vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior auricular vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "maxillary_veins_l": {
+    "name": "Maxillary veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Maxillary veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lingual_vein_l": {
+    "name": "Lingual vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lingual vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_facial_vein_r": {
+    "name": "Common facial vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common facial vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_facial_vein_l": {
+    "name": "Common facial vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common facial vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_jugular_vein_r": {
+    "name": "Internal jugular vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal jugular vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_jugular_vein_l": {
+    "name": "Internal jugular vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal jugular vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "straight_sinus": {
+    "name": "Straight sinus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Straight sinus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_sagittal_sinus": {
+    "name": "Inferior sagittal sinus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior sagittal sinus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_sagittal_sinus": {
+    "name": "Superior sagittal sinus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior sagittal sinus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "occipital_sinus": {
+    "name": "Occipital sinus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Occipital sinus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_petrosal_sinus_r": {
+    "name": "Superior petrosal sinus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior petrosal sinus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "transverse_sinus_r": {
+    "name": "Transverse sinus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Transverse sinus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_petrosal_sinus_l": {
+    "name": "Superior petrosal sinus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior petrosal sinus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "transverse_sinus_l": {
+    "name": "Transverse sinus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Transverse sinus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sigmoid_sinus_r": {
+    "name": "Sigmoid sinus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sigmoid sinus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sigmoid_sinus_l": {
+    "name": "Sigmoid sinus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sigmoid sinus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_jugular_vein_l": {
+    "name": "Anterior jugular vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior jugular vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_jugular_vein_r": {
+    "name": "Anterior jugular vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior jugular vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "suprascapular_vein_r": {
+    "name": "Suprascapular vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Suprascapular vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "external_jugular_vein_r": {
+    "name": "External jugular vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "External jugular vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "suprascapular_vein_l": {
+    "name": "Suprascapular vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Suprascapular vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "external_jugular_vein_l": {
+    "name": "External jugular vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "External jugular vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_division_of_retromandibular_vein_l": {
+    "name": "Anterior division of retromandibular vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior division of retromandibular vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_veins_of_hand_r": {
+    "name": "Dorsal digital veins of hand.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital veins of hand.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_veins_of_hand_l": {
+    "name": "Dorsal digital veins of hand.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital veins of hand.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_venous_network_of_hand_r": {
+    "name": "Dorsal venous network of hand.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal venous network of hand.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_venous_network_of_hand_l": {
+    "name": "Dorsal venous network of hand.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal venous network of hand.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cephalic_vein_r": {
+    "name": "Cephalic vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cephalic vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cephalic_vein_l": {
+    "name": "Cephalic vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cephalic vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thoracodorsal_vein_r": {
+    "name": "Thoracodorsal vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thoracodorsal vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "circumflex_scapular_vein_r": {
+    "name": "Circumflex scapular vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Circumflex scapular vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thoracodorsal_vein_l": {
+    "name": "Thoracodorsal vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thoracodorsal vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "circumflex_scapular_vein_l": {
+    "name": "Circumflex scapular vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Circumflex scapular vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "median_cubital_vein_r": {
+    "name": "Median cubital vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Median cubital vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "median_antebrachial_vein_r": {
+    "name": "Median antebrachial vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Median antebrachial vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "median_cubital_vein_l": {
+    "name": "Median cubital vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Median cubital vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "median_antebrachial_vein_l": {
+    "name": "Median antebrachial vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Median antebrachial vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "basilic_vein_r": {
+    "name": "Basilic vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Basilic vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "basilic_vein_l": {
+    "name": "Basilic vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Basilic vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_venous_palmar_arch_r": {
+    "name": "Superficial venous palmar arch.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial venous palmar arch.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "palmar_digital_veins_r": {
+    "name": "Palmar digital veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Palmar digital veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_venous_palmar_arch_l": {
+    "name": "Superficial venous palmar arch.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial venous palmar arch.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "palmar_digital_veins_l": {
+    "name": "Palmar digital veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Palmar digital veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ulnar_veins_r": {
+    "name": "Ulnar veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ulnar veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ulnar_veins_l": {
+    "name": "Ulnar veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ulnar veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_venous_palmar_arch_r": {
+    "name": "Deep venous palmar arch.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep venous palmar arch.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_venous_palmar_arch_l": {
+    "name": "Deep venous palmar arch.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep venous palmar arch.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "radial_veins_r": {
+    "name": "Radial veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Radial veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "radial_veins_l": {
+    "name": "Radial veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Radial veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "brachial_veins_r": {
+    "name": "Brachial veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Brachial veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "brachial_veins_l": {
+    "name": "Brachial veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Brachial veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_circumflex_humeral_vein_r": {
+    "name": "Anterior circumflex humeral vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior circumflex humeral vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_circumflex_humeral_vein_r": {
+    "name": "Posterior circumflex humeral vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior circumflex humeral vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_thoracic_vein_r": {
+    "name": "Lateral thoracic vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral thoracic vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "axillary_vein_r": {
+    "name": "Axillary vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Axillary vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_circumflex_humeral_vein_l": {
+    "name": "Anterior circumflex humeral vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior circumflex humeral vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_circumflex_humeral_vein_l": {
+    "name": "Posterior circumflex humeral vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior circumflex humeral vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_thoracic_vein_l": {
+    "name": "Lateral thoracic vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral thoracic vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "axillary_vein_l": {
+    "name": "Axillary vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Axillary vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_subclavian_vein": {
+    "name": "Left subclavian vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left subclavian vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_subclavian_vein": {
+    "name": "Right subclavian vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right subclavian vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "hepatic_veins": {
+    "name": "Hepatic veins\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Hepatic veins\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intrarenal_veins_of_right_kidney": {
+    "name": "Intrarenal veins of right kidney\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intrarenal veins of right kidney\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_renal_vein": {
+    "name": "Right renal vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right renal vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intrarenal_veins_of_left_kidney": {
+    "name": "Intrarenal veins of left kidney\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intrarenal veins of left kidney\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_renal_vein": {
+    "name": "Left renal vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left renal vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_testicular_vein": {
+    "name": "Right testicular vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right testicular vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_sacral_veins_r": {
+    "name": "Lateral sacral veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral sacral veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_sacral_veins_l": {
+    "name": "Lateral sacral veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral sacral veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_pudendal_vein_r": {
+    "name": "Internal pudendal vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal pudendal vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_pudendal_vein_l": {
+    "name": "Internal pudendal vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal pudendal vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_dorsal_vein_of_penis": {
+    "name": "Deep dorsal vein of penis\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep dorsal vein of penis\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_gluteal_veins_r": {
+    "name": "Inferior gluteal veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior gluteal veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_iliac_vein_r": {
+    "name": "Internal iliac vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal iliac vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_gluteal_veins_r": {
+    "name": "Superior gluteal veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior gluteal veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_gluteal_veins_l": {
+    "name": "Inferior gluteal veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior gluteal veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_iliac_vein_l": {
+    "name": "Internal iliac vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal iliac vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_gluteal_veins_l": {
+    "name": "Superior gluteal veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior gluteal veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_epigastric_vein_r": {
+    "name": "Inferior epigastric vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior epigastric vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_epigastric_vein_l": {
+    "name": "Inferior epigastric vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior epigastric vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "external_iliac_vein_r": {
+    "name": "External iliac vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "External iliac vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "external_iliac_vein_l": {
+    "name": "External iliac vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "External iliac vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_iliac_vein_l": {
+    "name": "Common iliac vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common iliac vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_iliac_vein_r": {
+    "name": "Common iliac vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common iliac vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "iliolumbar_vein_r": {
+    "name": "Iliolumbar vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Iliolumbar vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "iliolumbar_vein_l": {
+    "name": "Iliolumbar vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Iliolumbar vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_vena_cava_thoracic_part": {
+    "name": "Inferior vena cava (thoracic part)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior vena cava (thoracic part)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_vena_cava_abdominal_part": {
+    "name": "Inferior vena cava (abdominal part)\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior vena cava (abdominal part)\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lumbar_veins_l": {
+    "name": "Lumbar veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lumbar veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lumbar_veins_r": {
+    "name": "Lumbar veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lumbar veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_dorsal_veins_of_penis": {
+    "name": "Superficial dorsal veins of penis\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial dorsal veins of penis\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "great_saphenous_vein_r": {
+    "name": "Great saphenous vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Great saphenous vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_epigastric_vein_r": {
+    "name": "Superficial epigastric vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial epigastric vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "great_saphenous_vein_l": {
+    "name": "Great saphenous vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Great saphenous vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_epigastric_vein_l": {
+    "name": "Superficial epigastric vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial epigastric vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_femoral_vein_r": {
+    "name": "Deep femoral vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep femoral vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "perforating_veins_r": {
+    "name": "Perforating veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Perforating veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_femoral_vein_l": {
+    "name": "Deep femoral vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep femoral vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_tibial_veins_r": {
+    "name": "Anterior tibial veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior tibial veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_tibial_veins_l": {
+    "name": "Anterior tibial veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior tibial veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "plantar_digital_veins_r": {
+    "name": "Plantar digital veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Plantar digital veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "plantar_metatarsal_veins_r": {
+    "name": "Plantar metatarsal veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Plantar metatarsal veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "plantar_digital_veins_l": {
+    "name": "Plantar digital veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Plantar digital veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "plantar_metatarsal_veins_l": {
+    "name": "Plantar metatarsal veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Plantar metatarsal veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "plantar_venous_arch_r": {
+    "name": "Plantar venous arch.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Plantar venous arch.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "plantar_venous_arch_l": {
+    "name": "Plantar venous arch.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Plantar venous arch.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_plantar_veins_r": {
+    "name": "Lateral plantar veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral plantar veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_plantar_veins_l": {
+    "name": "Lateral plantar veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral plantar veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_tibial_veins_r": {
+    "name": "Posterior tibial veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior tibial veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fibular_veins_r": {
+    "name": "Fibular veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fibular veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_plantar_veins_r": {
+    "name": "Medial plantar veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial plantar veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_tibial_veins_l": {
+    "name": "Posterior tibial veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior tibial veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fibular_veins_l": {
+    "name": "Fibular veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fibular veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_plantar_veins_l": {
+    "name": "Medial plantar veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial plantar veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_venous_arch_of_foot_r": {
+    "name": "Dorsal venous arch of foot.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal venous arch of foot.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intercapitular_veins_of_foot_r": {
+    "name": "Intercapitular veins of foot.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intercapitular veins of foot.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_venous_arch_of_foot_l": {
+    "name": "Dorsal venous arch of foot.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal venous arch of foot.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intercapitular_veins_of_foot_l": {
+    "name": "Intercapitular veins of foot.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intercapitular veins of foot.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "small_saphenous_vein_r": {
+    "name": "Small saphenous vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Small saphenous vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "small_saphenous_vein_l": {
+    "name": "Small saphenous vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Small saphenous vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "popliteal_vein_r": {
+    "name": "Popliteal vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Popliteal vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "genicular_veins_r": {
+    "name": "Genicular veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Genicular veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "popliteal_vein_l": {
+    "name": "Popliteal vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Popliteal vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "genicular_veins_l": {
+    "name": "Genicular veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Genicular veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "femoral_vein_r": {
+    "name": "Femoral vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Femoral vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_circumflex_femoral_veins_r": {
+    "name": "Lateral circumflex femoral veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral circumflex femoral veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_circumflex_femoral_veins_r": {
+    "name": "Medial circumflex femoral veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial circumflex femoral veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "femoral_vein_l": {
+    "name": "Femoral vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Femoral vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_circumflex_femoral_veins_l": {
+    "name": "Lateral circumflex femoral veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral circumflex femoral veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_circumflex_femoral_veins_l": {
+    "name": "Medial circumflex femoral veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial circumflex femoral veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_mesenteric_vein": {
+    "name": "Superior mesenteric vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior mesenteric vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_colic_vein": {
+    "name": "Middle colic vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle colic vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_colic_vein": {
+    "name": "Right colic vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right colic vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_gastro_omental_vein": {
+    "name": "Right gastro-omental vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right gastro-omental vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_gastro_omental_vein": {
+    "name": "Left gastro-omental vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left gastro-omental vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sigmoid_veins": {
+    "name": "Sigmoid veins\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sigmoid veins\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "splenic_vein": {
+    "name": "Splenic vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Splenic vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_mesenteric_vein": {
+    "name": "Inferior mesenteric vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior mesenteric vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "base_of_heart_j": {
+    "name": "Base of heart.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Base of heart.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_surface_of_heart_j": {
+    "name": "Left surface of heart.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left surface of heart.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "interatrial_septum_j": {
+    "name": "Interatrial septum.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Interatrial septum.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_surface_of_heart_j": {
+    "name": "Inferior surface of heart.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior surface of heart.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_surface_of_heart_j": {
+    "name": "Right surface of heart.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right surface of heart.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_border_of_heart_j": {
+    "name": "Inferior border of heart.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior border of heart.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "apex_of_heart_j": {
+    "name": "Apex of heart.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Apex of heart.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_surface_of_heart_j": {
+    "name": "Anterior surface of heart.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior surface of heart.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_border_of_heart_j": {
+    "name": "Right border of heart.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right border of heart.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "notch_of_cardiac_apex_j": {
+    "name": "Notch of cardiac apex.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Notch of cardiac apex.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_interventricular_sulcus_j": {
+    "name": "Anterior interventricular sulcus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior interventricular sulcus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_interventricular_sulcus_j": {
+    "name": "Inferior interventricular sulcus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior interventricular sulcus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "coronary_sulcus_j": {
+    "name": "Coronary sulcus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Coronary sulcus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "root_of_pulmonary_trunk_j": {
+    "name": "Root of pulmonary trunk.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Root of pulmonary trunk.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pulmonary_valve_j": {
+    "name": "Pulmonary valve.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pulmonary valve.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_atrioventricular_valve_j": {
+    "name": "Right atrioventricular valve.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right atrioventricular valve.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_atrioventricular_valve_j": {
+    "name": "Left atrioventricular valve.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left atrioventricular valve.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "perforating_femoral_arteries_l": {
+    "name": "Perforating femoral arteries.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Perforating femoral arteries.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "perforating_veins_l": {
+    "name": "Perforating veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Perforating veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_metatarsal_arteries_r": {
+    "name": "Dorsal metatarsal arteries.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal metatarsal arteries.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_pudendal_artery_r": {
+    "name": "Internal pudendal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal pudendal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_pudendal_artery_l": {
+    "name": "Internal pudendal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal pudendal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_metatarsal_arteries_l": {
+    "name": "Dorsal metatarsal arteries.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal metatarsal arteries.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_metatarsal_veins_r": {
+    "name": "Dorsal metatarsal veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal metatarsal veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_veins_of_foot_r": {
+    "name": "Dorsal digital veins of foot.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital veins of foot.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_metatarsal_veins_l": {
+    "name": "Dorsal metatarsal veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal metatarsal veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_veins_of_foot_l": {
+    "name": "Dorsal digital veins of foot.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital veins of foot.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_artery_of_penis_r": {
+    "name": "Deep artery of penis.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep artery of penis.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_interosseous_artery_l": {
+    "name": "Common interosseous artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common interosseous artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_interosseous_artery_r": {
+    "name": "Common interosseous artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common interosseous artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_testicular_artery": {
+    "name": "Left testicular artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left testicular artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "hepatic_portal_vein_j": {
+    "name": "Hepatic portal vein.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Hepatic portal vein.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_testicular_vein": {
+    "name": "Left testicular vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left testicular vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "supreme_intercostal_artery_r": {
+    "name": "Supreme intercostal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Supreme intercostal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "supreme_intercostal_artery_l": {
+    "name": "Supreme intercostal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Supreme intercostal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "subscapular_artery_r": {
+    "name": "Subscapular artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Subscapular artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "subscapular_artery_l": {
+    "name": "Subscapular artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Subscapular artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thoracodorsal_artery_l": {
+    "name": "Thoracodorsal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thoracodorsal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "circumflex_scapular_artery_l": {
+    "name": "Circumflex scapular artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Circumflex scapular artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "circumflex_scapular_artery_r": {
+    "name": "Circumflex scapular artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Circumflex scapular artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "iliolumbar_artery_r": {
+    "name": "Iliolumbar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Iliolumbar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "iliolumbar_artery_l": {
+    "name": "Iliolumbar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Iliolumbar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "spinal_branch_of_iliolumbar_artery_r": {
+    "name": "Spinal branch of iliolumbar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Spinal branch of iliolumbar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lumbar_branch_of_iliolumbar_artery_r": {
+    "name": "Lumbar branch of iliolumbar artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lumbar branch of iliolumbar artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "spinal_branch_of_iliolumbar_artery_l": {
+    "name": "Spinal branch of iliolumbar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Spinal branch of iliolumbar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lumbar_branch_of_iliolumbar_artery_l": {
+    "name": "Lumbar branch of iliolumbar artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lumbar branch of iliolumbar artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_pancreaticoduodenal_artery": {
+    "name": "Inferior pancreaticoduodenal artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior pancreaticoduodenal artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "hepatic_portal_vein": {
+    "name": "Hepatic portal vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Hepatic portal vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "external_pudendal_veins_r": {
+    "name": "External pudendal veins.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "External pudendal veins.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "external_pudendal_veins_l": {
+    "name": "External pudendal veins.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "External pudendal veins.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_external_pudendal_artery_r": {
+    "name": "Superficial external pudendal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial external pudendal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_external_pudendal_artery_r": {
+    "name": "Deep external pudendal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep external pudendal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_external_pudendal_artery_l": {
+    "name": "Superficial external pudendal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial external pudendal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_external_pudendal_artery_l": {
+    "name": "Deep external pudendal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep external pudendal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "subscapular_vein_r": {
+    "name": "Subscapular vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Subscapular vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "subscapular_vein_l": {
+    "name": "Subscapular vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Subscapular vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "retromandibular_vein_l": {
+    "name": "Retromandibular vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Retromandibular vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_division_of_retromandibular_vein_r": {
+    "name": "Anterior division of retromandibular vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior division of retromandibular vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "retromandibular_vein_r": {
+    "name": "Retromandibular vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Retromandibular vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_petrosal_sinus_r": {
+    "name": "Inferior petrosal sinus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior petrosal sinus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_petrosal_sinus_l": {
+    "name": "Inferior petrosal sinus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior petrosal sinus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "basilar_venous_plexus": {
+    "name": "Basilar venous plexus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Basilar venous plexus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cavernous_sinus_r": {
+    "name": "Cavernous sinus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cavernous sinus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cavernous_sinus_l": {
+    "name": "Cavernous sinus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cavernous sinus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_intercavernous_sinus": {
+    "name": "Posterior intercavernous sinus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior intercavernous sinus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_intercavernous_sinus": {
+    "name": "Anterior intercavernous sinus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior intercavernous sinus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_ophthalmic_vein_l": {
+    "name": "Superior ophthalmic vein.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior ophthalmic vein.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_cerebral_artery_r": {
+    "name": "Anterior cerebral artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior cerebral artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_pulmonary_artery": {
+    "name": "Right pulmonary artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right pulmonary artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_lobar_artery_of_left_lung_j": {
+    "name": "Superior lobar artery of left lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior lobar artery of left lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_lobar_artery_of_left_lung_j": {
+    "name": "Inferior lobar artery of left lung.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior lobar artery of left lung.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_cerebral_artery_l": {
+    "name": "Anterior cerebral artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior cerebral artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "right_inferior_pulmonary_vein": {
+    "name": "Right inferior pulmonary vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Right inferior pulmonary vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_inferior_pulmonary_vein": {
+    "name": "Left inferior pulmonary vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left inferior pulmonary vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "left_superior_pulmonary_vein": {
+    "name": "Left superior pulmonary vein\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Left superior pulmonary vein\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lingular_vein_of_left_lung": {
+    "name": "Lingular vein of left lung\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lingular vein of left lung\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "buccal_artery_r": {
+    "name": "Buccal artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Buccal artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "buccal_artery_l": {
+    "name": "Buccal artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Buccal artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "descending_palatine_artery_r": {
+    "name": "Descending palatine artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Descending palatine artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_septal_branches_of_sphenopalatine_artery_r": {
+    "name": "Posterior septal branches of sphenopalatine artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior septal branches of sphenopalatine artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "infra_orbital_artery_r": {
+    "name": "Infra-orbital artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Infra-orbital artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "infra_orbital_artery_l": {
+    "name": "Infra-orbital artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Infra-orbital artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_septal_branches_of_sphenopalatine_artery_l": {
+    "name": "Posterior septal branches of sphenopalatine artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior septal branches of sphenopalatine artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "greater_palatine_artery_l": {
+    "name": "Greater palatine artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Greater palatine artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "greater_palatine_artery_r": {
+    "name": "Greater palatine artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Greater palatine artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_colic_artery": {
+    "name": "Middle colic artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle colic artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_anorectal_artery": {
+    "name": "Superior anorectal artery\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior anorectal artery\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "obturator_artery_r": {
+    "name": "Obturator artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Obturator artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "obturator_artery_l": {
+    "name": "Obturator artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Obturator artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "transverse_facial_artery_r": {
+    "name": "Transverse facial artery.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Transverse facial artery.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "descending_palatine_artery_l": {
+    "name": "Descending palatine artery.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Descending palatine artery.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_ophthalmic_vein_r": {
+    "name": "Superior ophthalmic vein.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior ophthalmic vein.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_branch_of_transverse_cervical_artery_r": {
+    "name": "(Superficial branch of transverse cervical artery).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "(Superficial branch of transverse cervical artery).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cross_section_x_002": {
+    "name": "Cross Section X.002\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cross Section X.002\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cross_section_z_002": {
+    "name": "Cross Section Z.002\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cross Section Z.002\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cross_section_y_002": {
+    "name": "Cross Section Y.002\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cross Section Y.002\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  }
+}

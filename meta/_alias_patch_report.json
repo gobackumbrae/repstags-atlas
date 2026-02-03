@@ -1,0 +1,19 @@
+{
+  "meta": "/data/data/com.termux/files/home/storage/downloads/repstags_atlas_pack_zanatomy/meta",
+  "backup": "/data/data/com.termux/files/home/storage/downloads/repstags_atlas_pack_zanatomy/meta/_backup_before_alias_20260130_072315",
+  "files_patched": [
+    "bones_groups.json",
+    "bones_index.json",
+    "muscles_groups.json",
+    "muscles_index.json",
+    "nerves_groups.json",
+    "nerves_index.json",
+    "organs_groups.json",
+    "organs_index.json",
+    "vessels_groups.json",
+    "vessels_index.json"
+  ],
+  "total_alias_keys_added": 51382,
+  "total_collisions": 0,
+  "timestamp": "2026-01-30T07:23:17"
+}

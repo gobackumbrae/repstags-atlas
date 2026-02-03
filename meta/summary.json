@@ -1,0 +1,52 @@
+{
+  "muscles": {
+    "file": "MuscularSystem100.fbx",
+    "fbx_version": 7400,
+    "model_type_counts": {
+      "Mesh": 686,
+      "Null": 105
+    },
+    "mesh_models": 686,
+    "unique_keys": 686
+  },
+  "nerves": {
+    "file": "NervousSystem100.fbx",
+    "fbx_version": 7400,
+    "model_type_counts": {
+      "Mesh": 712,
+      "Null": 133
+    },
+    "mesh_models": 712,
+    "unique_keys": 710
+  },
+  "bones": {
+    "file": "SkeletalSystem100.fbx",
+    "fbx_version": 7400,
+    "model_type_counts": {
+      "Mesh": 1952,
+      "Null": 974
+    },
+    "mesh_models": 1952,
+    "unique_keys": 1952
+  },
+  "vessels": {
+    "file": "CardioVascular41.fbx",
+    "fbx_version": 7400,
+    "model_type_counts": {
+      "Mesh": 717,
+      "Null": 43
+    },
+    "mesh_models": 717,
+    "unique_keys": 717
+  },
+  "organs": {
+    "file": "VisceralSystem100.fbx",
+    "fbx_version": 7400,
+    "model_type_counts": {
+      "Mesh": 301,
+      "Null": 181
+    },
+    "mesh_models": 301,
+    "unique_keys": 301
+  }
+}

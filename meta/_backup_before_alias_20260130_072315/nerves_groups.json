@@ -1,0 +1,7814 @@
+{
+  "spinal_cord_j": {
+    "name": "Spinal cord.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Spinal cord.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "accessory_visual_structures_j": {
+    "name": "Accessory visual structures.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Accessory visual structures.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cranial_nerves_j": {
+    "name": "Cranial nerves.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cranial nerves.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "basal_forebrain_j": {
+    "name": "Basal forebrain.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Basal forebrain.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mandibular_nerve_j": {
+    "name": "Mandibular nerve.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mandibular nerve.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ear_j": {
+    "name": "Ear.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ear.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_ear_j": {
+    "name": "Middle ear.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle ear.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "external_ear_j": {
+    "name": "External ear'.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "External ear'.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_ear_j": {
+    "name": "Internal ear.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal ear.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tentorium_cerebelli_r": {
+    "name": "Tentorium cerebelli.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tentorium cerebelli.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "falx_cerebri": {
+    "name": "Falx cerebri\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Falx cerebri\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "spinal_dura": {
+    "name": "Spinal dura\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Spinal dura\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "choroid_plexus_r": {
+    "name": "Choroid plexus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Choroid plexus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "choroid_plexus_l": {
+    "name": "Choroid plexus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Choroid plexus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "meninges_j": {
+    "name": "Meninges.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Meninges.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "temporal_pole_l": {
+    "name": "Temporal pole.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Temporal pole.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "occipital_pole_l": {
+    "name": "Occipital pole.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Occipital pole.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cerebral_hemisphere_j": {
+    "name": "Cerebral hemisphere.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cerebral hemisphere.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "central_sulcus_l": {
+    "name": "Central sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Central sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "parieto_occipital_sulcus_l": {
+    "name": "Parieto-occipital sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Parieto-occipital sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "subparietal_sulcus_l": {
+    "name": "Subparietal sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Subparietal sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cingulate_sulcus_marginal_part_l": {
+    "name": "Cingulate sulcus (Marginal part*).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cingulate sulcus (Marginal part*).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "circular_sulcus_of_insula_l": {
+    "name": "Circular sulcus of insula.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Circular sulcus of insula.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "collateral_sulcus_l": {
+    "name": "Collateral sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Collateral sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_occipital_sulcus_l": {
+    "name": "Anterior occipital sulcus*.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior occipital sulcus*.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "interlobar_sulci_j": {
+    "name": "Interlobar sulci.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Interlobar sulci.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "opercular_part_of_inferior_frontal_gyrus_l": {
+    "name": "Opercular part of inferior frontal gyrus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Opercular part of inferior frontal gyrus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "orbital_part_of_inferior_frontal_gyrus_l": {
+    "name": "Orbital part of  inferior frontal gyrus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Orbital part of  inferior frontal gyrus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "triangular_part_of_inferior_frontal_gyrus_l": {
+    "name": "Triangular part of inferior frontal gyrus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Triangular part of inferior frontal gyrus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "orbital_gyri_frontomarginal_gyrus_and_sulcus_l": {
+    "name": "Orbital gyri (Frontomarginal gyrus and sulcus*).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Orbital gyri (Frontomarginal gyrus and sulcus*).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "paracentral_gyrus_and_sulcus_l": {
+    "name": "Paracentral gyrus and sulcus*.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Paracentral gyrus and sulcus*.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "transverse_frontopolar_gyrus_and_sulcus_l": {
+    "name": "Transverse frontopolar gyrus and sulcus*.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Transverse frontopolar gyrus and sulcus*.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "straight_gyrus_gyrus_rectus_l": {
+    "name": "Straight gyrus (Gyrus rectus).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Straight gyrus (Gyrus rectus).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lat_fis_ant_vertical_l": {
+    "name": "Lat_Fis-ant-Vertical.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lat_Fis-ant-Vertical.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_frontal_sulcus_l": {
+    "name": "Inferior frontal sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior frontal sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_frontal_gyrus_l": {
+    "name": "Middle frontal gyrus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle frontal gyrus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "orbital_gyri_l": {
+    "name": "Orbital gyri.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Orbital gyri.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "precentral_gyrus_l": {
+    "name": "Precentral gyrus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Precentral gyrus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_frontal_gyrus_l": {
+    "name": "Superior frontal gyrus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior frontal gyrus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_frontal_sulcus_l": {
+    "name": "Superior frontal sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior frontal sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "paracentral_sulcus_l": {
+    "name": "Paracentral sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Paracentral sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "orbital_sulci_h_shaped_orbital_sulci_l": {
+    "name": "Orbital sulci (H-shaped orbital sulci*).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Orbital sulci (H-shaped orbital sulci*).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "orbital_sulci_lateral_orbital_sulcus_l": {
+    "name": "Orbital sulci (Lateral Orbital sulcus*).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Orbital sulci (Lateral Orbital sulcus*).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "olfactory_sulcus_l": {
+    "name": "Olfactory sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Olfactory sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "precentral_sulcus_inferior_part_l": {
+    "name": "Precentral sulcus (inferior part)*.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Precentral sulcus (inferior part)*.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "precentral_sulcus_superior_part_l": {
+    "name": "Precentral sulcus (Superior part)*.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Precentral sulcus (Superior part)*.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "frontal_lobe_j": {
+    "name": "Frontal lobe.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Frontal lobe.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "angular_gyrus_l": {
+    "name": "Angular gyrus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Angular gyrus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "supramarginal_gyrus_l": {
+    "name": "Supramarginal gyrus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Supramarginal gyrus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "postcentral_gyrus_l": {
+    "name": "Postcentral gyrus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Postcentral gyrus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "postcentral_sulcus_l": {
+    "name": "Postcentral sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Postcentral sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "precuneus_l": {
+    "name": "Precuneus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Precuneus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_parietal_lobule_l": {
+    "name": "Superior parietal lobule.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior parietal lobule.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intraparietal_sulcus_l": {
+    "name": "Intraparietal sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intraparietal sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "parietal_lobe_j": {
+    "name": "Parietal lobe.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Parietal lobe.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_occipital_gyrus_and_sulcus_l": {
+    "name": "Inferior occipital gyrus and sulcus*.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior occipital gyrus and sulcus*.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lingual_gyrus_l": {
+    "name": "Lingual gyrus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lingual gyrus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_occipital_gyrus_middle_occipital_gyrus_l": {
+    "name": "Lateral occipital gyrus (Middle occipital gyrus*).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral occipital gyrus (Middle occipital gyrus*).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "calcarine_sulcus_l": {
+    "name": "Calcarine sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Calcarine sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cuneus_l": {
+    "name": "Cuneus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cuneus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_occipital_gyri_l": {
+    "name": "Superior occipital gyri.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior occipital gyri.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lunate_sulcus_l": {
+    "name": "Lunate sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lunate sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "transverse_occipital_sulcus_l": {
+    "name": "Transverse occipital sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Transverse occipital sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "occipital_lobe_j": {
+    "name": "Occipital lobe.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Occipital lobe.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "transverse_temporal_gyri_l": {
+    "name": "Transverse temporal gyri.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Transverse temporal gyri.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "temporal_plane_l": {
+    "name": "Temporal plane.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Temporal plane.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_temporal_gyrus_lateral_part_l": {
+    "name": "Superior temporal gyrus (Lateral part).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior temporal gyrus (Lateral part).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_occipitotemporal_gyrus_l": {
+    "name": "Lateral occipitotemporal gyrus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral occipitotemporal gyrus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_occipitotemporal_gyrus_parahippocampal_l": {
+    "name": "Medial occipitotemporal gyrus (Parahippocampal*).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial occipitotemporal gyrus (Parahippocampal*).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_temporal_sulcus_l": {
+    "name": "Inferior temporal sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior temporal sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_temporal_gyrus_l": {
+    "name": "Inferior temporal gyrus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior temporal gyrus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_temporal_gyrus_l": {
+    "name": "Middle temporal gyrus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle temporal gyrus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_temporal_sulcus_l": {
+    "name": "Superior temporal sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior temporal sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "occipitotemporal_sulcus_lateral_part_l": {
+    "name": "Occipitotemporal sulcus (Lateral part*).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Occipitotemporal sulcus (Lateral part*).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "temporal_lobe_j": {
+    "name": "Temporal lobe.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Temporal lobe.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "insula_subcentral_gyrus_and_ant_and_post_sulci_l": {
+    "name": "Insula (Subcentral gyrus and ant. and post. sulci*).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Insula (Subcentral gyrus and ant. and post. sulci*).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "insula_j": {
+    "name": "Insula.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Insula.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cingulate_gyrus_and_sulcus_middle_anterior_part_l": {
+    "name": "Cingulate gyrus and sulcus (Middle anterior part).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cingulate gyrus and sulcus (Middle anterior part).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cingulate_gyrus_and_sulcus_middle_posterior_part_l": {
+    "name": "Cingulate gyrus and sulcus (Middle posterior part).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cingulate gyrus and sulcus (Middle posterior part).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cingulate_gyrus_and_sulcus_posterior_dorsal_part_l": {
+    "name": "Cingulate gyrus and sulcus (Posterior dorsal part).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cingulate gyrus and sulcus (Posterior dorsal part).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cingulate_gyrus_posteroventral_part_l": {
+    "name": "Cingulate gyrus (Posteroventral part*).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cingulate gyrus (Posteroventral part*).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "hippocampus_r": {
+    "name": "Hippocampus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Hippocampus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "hippocampus_l": {
+    "name": "Hippocampus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Hippocampus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "limbic_lobe_j": {
+    "name": "Limbic lobe.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Limbic lobe.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "amygdaloid_body_r": {
+    "name": "Amygdaloid body.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Amygdaloid body.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "amygdaloid_body_l": {
+    "name": "Amygdaloid body.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Amygdaloid body.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "septal_nuclei": {
+    "name": "Septal nuclei\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Septal nuclei\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "caudate_nucleus_r": {
+    "name": "Caudate nucleus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Caudate nucleus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "caudate_nucleus_l": {
+    "name": "Caudate nucleus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Caudate nucleus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "putamen_r": {
+    "name": "Putamen.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Putamen.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "putamen_l": {
+    "name": "Putamen.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Putamen.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_striatum_j": {
+    "name": "Dorsal striatum.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal striatum.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "globus_pallidus_r": {
+    "name": "Globus pallidus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Globus pallidus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "globus_pallidus_l": {
+    "name": "Globus pallidus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Globus pallidus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "corpus_striatum_j": {
+    "name": "Corpus striatum.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Corpus striatum.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lentiform_nucleus_r": {
+    "name": "Lentiform nucleus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lentiform nucleus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lentiform_nucleus_l": {
+    "name": "Lentiform nucleus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lentiform nucleus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "corpus_callosum": {
+    "name": "Corpus callosum\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Corpus callosum\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_commissure": {
+    "name": "Anterior commissure\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior commissure\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "hippocampal_commissure": {
+    "name": "Hippocampal commissure\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Hippocampal commissure\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "commissural_fibres_of_telencephalon_j": {
+    "name": "Commissural fibres of telencephalon.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Commissural fibres of telencephalon.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fornix_r": {
+    "name": "Fornix.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fornix.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fornix_l": {
+    "name": "Fornix.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fornix.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "stria_terminalis_r": {
+    "name": "Stria terminalis.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Stria terminalis.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "stria_terminalis_l": {
+    "name": "Stria terminalis.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Stria terminalis.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "white_matter_of_telencephalon_l": {
+    "name": "White matter of telencephalon.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "White matter of telencephalon.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_ventricle_r": {
+    "name": "Lateral ventricle.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral ventricle.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_ventricle_l": {
+    "name": "Lateral ventricle.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral ventricle.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "septum_pellucidum": {
+    "name": "Septum pellucidum\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Septum pellucidum\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lat_fis_ant_horizont_l": {
+    "name": "Lat_Fis-ant-Horizont.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lat_Fis-ant-Horizont.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lat_fis_post_l": {
+    "name": "Lat_Fis-post.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lat_Fis-post.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_transverse_collateral_sulcus_l": {
+    "name": "Posterior transverse collateral sulcus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior transverse collateral sulcus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sulcus_interm_prim_jensen_l": {
+    "name": "Sulcus interm_prim-Jensen.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sulcus interm_prim-Jensen.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "telencephalon_j": {
+    "name": "Telencephalon.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Telencephalon.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "habenula": {
+    "name": "Habenula\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Habenula\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "optic_tract_r": {
+    "name": "Optic tract.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Optic tract.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "optic_tract_l": {
+    "name": "Optic tract.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Optic tract.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thalamus_r": {
+    "name": "Thalamus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thalamus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thalamus_l": {
+    "name": "Thalamus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thalamus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "hypothalamus": {
+    "name": "Hypothalamus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Hypothalamus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "stria_medullaris_thalami_r": {
+    "name": "Stria medullaris thalami.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Stria medullaris thalami.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "stria_medullaris_thalami_l": {
+    "name": "Stria medullaris thalami.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Stria medullaris thalami.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_commissure": {
+    "name": "Posterior commissure\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior commissure\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "white_matter_of_diencephalon_j": {
+    "name": "White matter of diencephalon.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "White matter of diencephalon.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "third_ventricle": {
+    "name": "Third ventricle\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Third ventricle\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_geniculate_body_r": {
+    "name": "Lateral geniculate body.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral geniculate body.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_geniculate_body_r": {
+    "name": "Medial geniculate body.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial geniculate body.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mamillary_body_l": {
+    "name": "Mamillary body.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mamillary body.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mamillary_body_r": {
+    "name": "Mamillary body.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mamillary body.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "optic_chiasm_r": {
+    "name": "Optic chiasm.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Optic chiasm.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_geniculate_body_l": {
+    "name": "Lateral geniculate body.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral geniculate body.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_geniculate_body_l": {
+    "name": "Medial geniculate body.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial geniculate body.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "optic_chiasm_l": {
+    "name": "Optic chiasm.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Optic chiasm.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "diencephalon_j": {
+    "name": "Diencephalon.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Diencephalon.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cerebrum_j": {
+    "name": "Cerebrum.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cerebrum.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "base_of_peduncle_r": {
+    "name": "Base of peduncle.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Base of peduncle.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "base_of_peduncle_l": {
+    "name": "Base of peduncle.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Base of peduncle.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cerebellar_peduncles_j": {
+    "name": "Cerebellar peduncles.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cerebellar peduncles.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cerebellum_j": {
+    "name": "Cerebellum.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cerebellum.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_of_oculomotor_nerve_l": {
+    "name": "Nucleus of oculomotor nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus of oculomotor nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_of_oculomotor_nerve_r": {
+    "name": "Nucleus of oculomotor nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus of oculomotor nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "accessory_nucleus_of_oculomotor_nerve_r": {
+    "name": "Accessory nucleus of oculomotor nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Accessory nucleus of oculomotor nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "accessory_nucleus_of_oculomotor_nerve_l": {
+    "name": "Accessory nucleus of oculomotor nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Accessory nucleus of oculomotor nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "red_nucleus_l": {
+    "name": "Red nucleus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Red nucleus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "red_nucleus_r": {
+    "name": "Red nucleus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Red nucleus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "aqueduct_of_midbrain": {
+    "name": "Aqueduct of midbrain\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Aqueduct of midbrain\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_colliculus_r": {
+    "name": "Superior colliculus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior colliculus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_colliculus_l": {
+    "name": "Superior colliculus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior colliculus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_colliculus_r": {
+    "name": "Inferior colliculus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior colliculus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_colliculus_l": {
+    "name": "Inferior colliculus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior colliculus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "midbrain_r": {
+    "name": "Midbrain.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Midbrain.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "interpeduncular_fossa_l": {
+    "name": "Interpeduncular fossa.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Interpeduncular fossa.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "interpeduncular_fossa_r": {
+    "name": "Interpeduncular fossa.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Interpeduncular fossa.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "midbrain_l": {
+    "name": "Midbrain.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Midbrain.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vestibular_nuclei_l": {
+    "name": "Vestibular nuclei.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vestibular nuclei.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vestibular_nuclei_r": {
+    "name": "Vestibular nuclei.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vestibular nuclei.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_of_abducens_nerve_l": {
+    "name": "Nucleus of abducens nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus of abducens nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_of_abducens_nerve_r": {
+    "name": "Nucleus of abducens nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus of abducens nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "motor_nucleus_of_facial_nerve_l": {
+    "name": "Motor nucleus of facial nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Motor nucleus of facial nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "motor_nucleus_of_facial_nerve_r": {
+    "name": "Motor nucleus of facial nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Motor nucleus of facial nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_salivatory_nucleus_l": {
+    "name": "Superior salivatory nucleus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior salivatory nucleus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_salivatory_nucleus_r": {
+    "name": "Superior salivatory nucleus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior salivatory nucleus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pons_r": {
+    "name": "Pons.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pons.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pons_l": {
+    "name": "Pons.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pons.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "fourth_ventricle": {
+    "name": "Fourth ventricle\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Fourth ventricle\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_cochlear_nucleus_l": {
+    "name": "Anterior cochlear nucleus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior cochlear nucleus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medulla_oblongata_l": {
+    "name": "Medulla oblongata.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medulla oblongata.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pyramid_of_medulla_oblongata_l": {
+    "name": "Pyramid of medulla oblongata.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pyramid of medulla oblongata.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "olive_r": {
+    "name": "Olive.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Olive.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "olive_l": {
+    "name": "Olive.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Olive.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pyramid_of_medulla_oblongata_r": {
+    "name": "Pyramid of medulla oblongata.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pyramid of medulla oblongata.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "brainstem_j": {
+    "name": "Brainstem.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Brainstem.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "brain_j": {
+    "name": "Brain.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Brain.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_of_accessory_nerve_r": {
+    "name": "Nucleus of accessory nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus of accessory nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_of_accessory_nerve_l": {
+    "name": "Nucleus of accessory nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus of accessory nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "central_canal": {
+    "name": "Central canal'\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Central canal\u0000\u0001Model",
+        "Central canal'\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ependyma_j": {
+    "name": "Ependyma.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ependyma.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "reticular_formation_j": {
+    "name": "Reticular formation.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Reticular formation.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "central_nervous_system_j": {
+    "name": "Central nervous system.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Central nervous system.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "grey_matter_j": {
+    "name": "Grey matter.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Grey matter.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "white_matter_j": {
+    "name": "White matter.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "White matter.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "olfactory_nerve_i_r": {
+    "name": "Olfactory nerve (I).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Olfactory nerve (I).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "olfactory_nerve_i_l": {
+    "name": "Olfactory nerve (I).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Olfactory nerve (I).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "optic_nerve_ii_r": {
+    "name": "Optic nerve (II).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Optic nerve (II).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "optic_nerve_ii_l": {
+    "name": "Optic nerve (II).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Optic nerve (II).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "oculomotor_nerve_iii_r": {
+    "name": "Oculomotor nerve (III).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Oculomotor nerve (III).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "oculomotor_nerve_iii_l": {
+    "name": "Oculomotor nerve (III).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Oculomotor nerve (III).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sensory_root_of_trigeminal_nerve_r": {
+    "name": "Sensory root of trigeminal nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sensory root of trigeminal nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sensory_root_of_trigeminal_nerve_l": {
+    "name": "Sensory root of trigeminal nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sensory root of trigeminal nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "trigeminal_nerve_v_r": {
+    "name": "Trigeminal nerve (V).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Trigeminal nerve (V).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_alveolar_nerve_r": {
+    "name": "Inferior alveolar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior alveolar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mental_nerve_r": {
+    "name": "Mental nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mental nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nerve_to_mylohyoid_muscle_r": {
+    "name": "Nerve to mylohyoid muscle.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nerve to mylohyoid muscle.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "buccal_nerve_r": {
+    "name": "Buccal nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Buccal nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_division_of_mandibular_nerve_r": {
+    "name": "Posterior division of mandibular nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior division of mandibular nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_division_of_mandibular_nerve_r": {
+    "name": "Anterior division of mandibular nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior division of mandibular nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lingual_nerve_r": {
+    "name": "Lingual nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lingual nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "maxillary_nerve_r": {
+    "name": "Maxillary nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Maxillary nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ophthalmic_nerve_r": {
+    "name": "Ophthalmic nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ophthalmic nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "meningeal_branch_of_maxillary_nerve_r": {
+    "name": "Meningeal branch of maxillary nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Meningeal branch of maxillary nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "trigeminal_nerve_v_l": {
+    "name": "Trigeminal nerve (V).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Trigeminal nerve (V).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "mental_nerve_l": {
+    "name": "Mental nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Mental nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nerve_to_mylohyoid_muscle_l": {
+    "name": "Nerve to mylohyoid muscle.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nerve to mylohyoid muscle.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "buccal_nerve_l": {
+    "name": "Buccal nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Buccal nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_division_of_mandibular_nerve_l": {
+    "name": "Posterior division of mandibular nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior division of mandibular nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_division_of_mandibular_nerve_l": {
+    "name": "Anterior division of mandibular nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior division of mandibular nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lingual_nerve_l": {
+    "name": "Lingual nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lingual nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "maxillary_nerve_l": {
+    "name": "Maxillary nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Maxillary nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ophthalmic_nerve_l": {
+    "name": "Ophthalmic nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ophthalmic nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "meningeal_branch_of_maxillary_nerve_l": {
+    "name": "Meningeal branch of maxillary nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Meningeal branch of maxillary nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_alveolar_nerve_l": {
+    "name": "Inferior alveolar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior alveolar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "motor_root_of_trigeminal_nerve_l": {
+    "name": "Motor root of trigeminal nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Motor root of trigeminal nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "motor_root_of_trigeminal_nerve_r": {
+    "name": "Motor root of trigeminal nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Motor root of trigeminal nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "chorda_tympani_r": {
+    "name": "Chorda tympani.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Chorda tympani.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "chorda_tympani_l": {
+    "name": "Chorda tympani.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Chorda tympani.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "facial_nerve_vii_r": {
+    "name": "Facial nerve (VII).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Facial nerve (VII).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "facial_nerve_vii_l": {
+    "name": "Facial nerve (VII).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Facial nerve (VII).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vestibular_nerve_l": {
+    "name": "Vestibular nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vestibular nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cochlear_nerve": {
+    "name": "Cochlear nerve\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cochlear nerve\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vestibular_nerve_r": {
+    "name": "Vestibular nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vestibular nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cochlear_nerve_l": {
+    "name": "Cochlear nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cochlear nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vestibulocochlear_nerve_viii_l": {
+    "name": "Vestibulocochlear nerve (VIII).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vestibulocochlear nerve (VIII).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vestibulocochlear_nerve_viii_r": {
+    "name": "Vestibulocochlear nerve (VIII).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vestibulocochlear nerve (VIII).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "glossopharyngeal_nerve_ix_r": {
+    "name": "Glossopharyngeal nerve (IX).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Glossopharyngeal nerve (IX).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "glossopharyngeal_nerve_ix_l": {
+    "name": "Glossopharyngeal nerve (IX).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Glossopharyngeal nerve (IX).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vagus_nerve_x_r": {
+    "name": "Vagus nerve (X).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vagus nerve (X).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vagus_nerve_x_l": {
+    "name": "Vagus nerve (X).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vagus nerve (X).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "accessory_nerve_xi_r": {
+    "name": "Accessory nerve (XI).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Accessory nerve (XI).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "accessory_nerve_xi_l": {
+    "name": "Accessory nerve (XI).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Accessory nerve (XI).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "hypoglossal_nerve_xii_r": {
+    "name": "Hypoglossal nerve (XII).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Hypoglossal nerve (XII).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "hypoglossal_nerve_xii_l": {
+    "name": "Hypoglossal nerve (XII).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Hypoglossal nerve (XII).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "abducens_nerve_vi_r": {
+    "name": "Abducens nerve (VI).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Abducens nerve (VI).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "trochlear_nerve_iv_r": {
+    "name": "Trochlear nerve (IV).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Trochlear nerve (IV).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "abducens_nerve_vi_l": {
+    "name": "Abducens nerve (VI).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Abducens nerve (VI).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "trochlear_nerve_iv_l": {
+    "name": "Trochlear nerve (IV).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Trochlear nerve (IV).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cervical_nerves_j": {
+    "name": "Cervical nerves.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cervical nerves.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cervical_plexus_j": {
+    "name": "Cervical plexus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cervical plexus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_trunk_of_brachial_plexus_r": {
+    "name": "Superior trunk of brachial plexus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior trunk of brachial plexus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_division_of_superior_trunk_of_brachial_plexus_r": {
+    "name": "Posterior division of superior trunk of brachial plexus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior division of superior trunk of brachial plexus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_trunk_of_brachial_plexus_l": {
+    "name": "Superior trunk of brachial plexus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior trunk of brachial plexus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_division_of_superior_trunk_of_brachial_plexus_l": {
+    "name": "Posterior division of superior trunk of brachial plexus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior division of superior trunk of brachial plexus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_division_of_superior_trunk_of_brachial_plexus_l": {
+    "name": "Anterior division of superior trunk of brachial plexus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior division of superior trunk of brachial plexus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_trunk_of_brachial_plexus_r": {
+    "name": "Middle trunk of brachial plexus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle trunk of brachial plexus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_division_of_middle_trunk_of_brachial_plexus_r": {
+    "name": "Anterior division of middle trunk of brachial plexus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior division of middle trunk of brachial plexus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_division_of_middle_trunk_of_brachial_plexus_r": {
+    "name": "Posterior division of middle trunk of brachial plexus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior division of middle trunk of brachial plexus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_trunk_of_brachial_plexus_l": {
+    "name": "Middle trunk of brachial plexus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle trunk of brachial plexus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_division_of_middle_trunk_of_brachial_plexus_l": {
+    "name": "Anterior division of middle trunk of brachial plexus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior division of middle trunk of brachial plexus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_division_of_middle_trunk_of_brachial_plexus_l": {
+    "name": "Posterior division of middle trunk of brachial plexus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior division of middle trunk of brachial plexus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_trunk_of_brachial_plexus_r": {
+    "name": "Inferior trunk of brachial plexus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior trunk of brachial plexus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_trunk_of_brachial_plexus_l": {
+    "name": "Inferior trunk of brachial plexus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior trunk of brachial plexus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_division_of_inferior_trunk_of_brachial_plexus_l": {
+    "name": "Anterior division of inferior trunk of brachial plexus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior division of inferior trunk of brachial plexus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_division_of_inferior_trunk_of_brachial_plexus_l": {
+    "name": "Posterior division of inferior trunk of brachial plexus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior division of inferior trunk of brachial plexus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "roots_of_brachial_plexus_r": {
+    "name": "Roots of brachial plexus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Roots of brachial plexus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "roots_of_brachial_plexus_l": {
+    "name": "Roots of brachial plexus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Roots of brachial plexus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "supraclavicular_part_of_brachial_plexus_j": {
+    "name": "Supraclavicular part of brachial plexus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Supraclavicular part of brachial plexus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_scapular_nerve_r": {
+    "name": "Dorsal scapular nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal scapular nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "long_thoracic_nerve_r": {
+    "name": "Long thoracic nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Long thoracic nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "suprascapular_nerve_r": {
+    "name": "Suprascapular nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Suprascapular nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "subclavian_nerve_r": {
+    "name": "Subclavian nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Subclavian nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_scapular_nerve_l": {
+    "name": "Dorsal scapular nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal scapular nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "long_thoracic_nerve_l": {
+    "name": "Long thoracic nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Long thoracic nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "suprascapular_nerve_l": {
+    "name": "Suprascapular nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Suprascapular nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "subclavian_nerve_l": {
+    "name": "Subclavian nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Subclavian nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "axillary_nerve_r": {
+    "name": "Axillary nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Axillary nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_cord_of_brachial_plexus_r": {
+    "name": "Posterior cord of brachial plexus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior cord of brachial plexus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "axillary_nerve_l": {
+    "name": "Axillary nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Axillary nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_cord_of_brachial_plexus_l": {
+    "name": "Posterior cord of brachial plexus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior cord of brachial plexus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "infraclavicular_part_of_brachial_plexus_j": {
+    "name": "Infraclavicular part of brachial plexus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Infraclavicular part of brachial plexus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_pectoral_nerve_r": {
+    "name": "Lateral pectoral nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral pectoral nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_pectoral_nerve_l": {
+    "name": "Lateral pectoral nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral pectoral nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "musculocutaneous_nerve_r": {
+    "name": "Musculocutaneous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Musculocutaneous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_antebrachial_cutaneous_nerve_r": {
+    "name": "Lateral antebrachial cutaneous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral antebrachial cutaneous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "musculocutaneous_nerve_l": {
+    "name": "Musculocutaneous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Musculocutaneous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_antebrachial_cutaneous_nerve_l": {
+    "name": "Lateral antebrachial cutaneous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral antebrachial cutaneous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "branches_of_lateral_cord_of_brachial_plexus_j": {
+    "name": "Branches of lateral cord of brachial plexus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Branches of lateral cord of brachial plexus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_branch_of_radial_nerve_r": {
+    "name": "Deep branch of radial nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep branch of radial nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_interosseous_nerve_of_forearm_r": {
+    "name": "Posterior interosseous nerve of forearm.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior interosseous nerve of forearm.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_branch_of_radial_nerve_l": {
+    "name": "Deep branch of radial nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep branch of radial nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_interosseous_nerve_of_forearm_l": {
+    "name": "Posterior interosseous nerve of forearm.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior interosseous nerve of forearm.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_branch_of_radial_nerve_r": {
+    "name": "Superficial branch of radial nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial branch of radial nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_branches_of_radial_nerve_r": {
+    "name": "Dorsal digital branches of radial nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital branches of radial nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_branch_of_radial_nerve_l": {
+    "name": "Superficial branch of radial nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial branch of radial nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_branches_of_radial_nerve_l": {
+    "name": "Dorsal digital branches of radial nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital branches of radial nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_antebrachial_cutaneous_nerve_r": {
+    "name": "Posterior antebrachial cutaneous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior antebrachial cutaneous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "radial_nerve_r": {
+    "name": "Radial nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Radial nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_lateral_brachial_cutaneous_nerve_r": {
+    "name": "Inferior lateral brachial cutaneous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior lateral brachial cutaneous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "muscular_branches_of_radial_nerve_r": {
+    "name": "Muscular branches of radial nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Muscular branches of radial nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_antebrachial_cutaneous_nerve_l": {
+    "name": "Posterior antebrachial cutaneous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior antebrachial cutaneous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "radial_nerve_l": {
+    "name": "Radial nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Radial nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_lateral_brachial_cutaneous_nerve_l": {
+    "name": "Inferior lateral brachial cutaneous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior lateral brachial cutaneous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "muscular_branches_of_radial_nerve_l": {
+    "name": "Muscular branches of radial nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Muscular branches of radial nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_lateral_brachial_cutaneous_nerve_r": {
+    "name": "Superior lateral brachial cutaneous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior lateral brachial cutaneous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "muscular_branches_of_axillary_nerve_r": {
+    "name": "Muscular branches of axillary nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Muscular branches of axillary nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_lateral_brachial_cutaneous_nerve_l": {
+    "name": "Superior lateral brachial cutaneous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior lateral brachial cutaneous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "muscular_branches_of_axillary_nerve_l": {
+    "name": "Muscular branches of axillary nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Muscular branches of axillary nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "branches_of_posterior_cord_of_brachial_plexus_j": {
+    "name": "Branches of posterior cord of brachial plexus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Branches of posterior cord of brachial plexus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_branch_of_medial_antebrachial_cutaneous_nerve_r": {
+    "name": "Anterior branch of medial antebrachial cutaneous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior branch of medial antebrachial cutaneous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_branch_of_medial_antebrachial_cutaneous_nerve_r": {
+    "name": "Posterior branch of medial antebrachial cutaneous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior branch of medial antebrachial cutaneous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_antebrachial_cutaneous_nerve_r": {
+    "name": "Medial antebrachial cutaneous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial antebrachial cutaneous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_branch_of_medial_antebrachial_cutaneous_nerve_l": {
+    "name": "Anterior branch of medial antebrachial cutaneous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior branch of medial antebrachial cutaneous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_branch_of_medial_antebrachial_cutaneous_nerve_l": {
+    "name": "Posterior branch of medial antebrachial cutaneous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior branch of medial antebrachial cutaneous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_antebrachial_cutaneous_nerve_l": {
+    "name": "Medial antebrachial cutaneous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial antebrachial cutaneous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_branches_of_ulnar_nerve_r": {
+    "name": "Dorsal digital branches of ulnar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital branches of ulnar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_branch_of_ulnar_nerve_r": {
+    "name": "Dorsal branch of ulnar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal branch of ulnar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_branches_of_ulnar_nerve_l": {
+    "name": "Dorsal digital branches of ulnar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital branches of ulnar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_branch_of_ulnar_nerve_l": {
+    "name": "Dorsal branch of ulnar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal branch of ulnar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proper_palmar_digital_branches_of_ulnar_nerve_r": {
+    "name": "Proper palmar digital branches of ulnar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proper palmar digital branches of ulnar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proper_palmar_digital_branches_of_ulnar_nerve_l": {
+    "name": "Proper palmar digital branches of ulnar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proper palmar digital branches of ulnar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_palmar_digital_branches_of_ulnar_nerve_r": {
+    "name": "Common palmar digital branches of ulnar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common palmar digital branches of ulnar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_branch_of_ulnar_nerve_r": {
+    "name": "Superficial branch of ulnar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial branch of ulnar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_palmar_digital_branches_of_ulnar_nerve_l": {
+    "name": "Common palmar digital branches of ulnar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common palmar digital branches of ulnar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_branch_of_ulnar_nerve_l": {
+    "name": "Superficial branch of ulnar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial branch of ulnar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "palmar_branch_of_ulnar_nerve_r": {
+    "name": "Palmar branch of ulnar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Palmar branch of ulnar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_branch_of_ulnar_nerve_r": {
+    "name": "Deep branch of ulnar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep branch of ulnar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "muscular_branches_of_ulnar_nerve_r": {
+    "name": "Muscular branches of ulnar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Muscular branches of ulnar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ulnar_nerve_r": {
+    "name": "Ulnar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ulnar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "palmar_branch_of_ulnar_nerve_l": {
+    "name": "Palmar branch of ulnar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Palmar branch of ulnar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_branch_of_ulnar_nerve_l": {
+    "name": "Deep branch of ulnar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep branch of ulnar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "muscular_branches_of_ulnar_nerve_l": {
+    "name": "Muscular branches of ulnar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Muscular branches of ulnar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ulnar_nerve_l": {
+    "name": "Ulnar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ulnar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_brachial_cutaneous_nerve_r": {
+    "name": "Medial brachial cutaneous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial brachial cutaneous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_brachial_cutaneous_nerve_l": {
+    "name": "Medial brachial cutaneous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial brachial cutaneous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "branches_of_medial_cord_of_brachial_plexus_j": {
+    "name": "Branches of medial cord of brachial plexus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Branches of medial cord of brachial plexus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proper_palmar_digital_branches_of_median_nerve_r": {
+    "name": "Proper palmar digital branches of median nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proper palmar digital branches of median nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proper_palmar_digital_branches_of_median_nerve_l": {
+    "name": "Proper palmar digital branches of median nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proper palmar digital branches of median nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_palmar_digital_branches_of_median_nerve_r": {
+    "name": "Common palmar digital branches of median nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common palmar digital branches of median nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "communicating_branch_of_median_nerve_with_ulnar_nerve_r": {
+    "name": "(Communicating branch of median nerve with ulnar nerve).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "(Communicating branch of median nerve with ulnar nerve).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "median_nerve_r": {
+    "name": "Median nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Median nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_interosseous_nerve_of_forearm_r": {
+    "name": "Anterior interosseous nerve of forearm.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior interosseous nerve of forearm.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "palmar_branch_of_median_nerve_r": {
+    "name": "Palmar branch of median nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Palmar branch of median nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "muscular_branches_of_median_nerve_r": {
+    "name": "Muscular branches of median nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Muscular branches of median nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_palmar_digital_branches_of_median_nerve_l": {
+    "name": "Common palmar digital branches of median nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common palmar digital branches of median nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "communicating_branch_of_median_nerve_with_ulnar_nerve_l": {
+    "name": "(Communicating branch of median nerve with ulnar nerve).l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "(Communicating branch of median nerve with ulnar nerve).l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "median_nerve_l": {
+    "name": "Median nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Median nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_interosseous_nerve_of_forearm_l": {
+    "name": "Anterior interosseous nerve of forearm.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior interosseous nerve of forearm.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "palmar_branch_of_median_nerve_l": {
+    "name": "Palmar branch of median nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Palmar branch of median nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "muscular_branches_of_median_nerve_l": {
+    "name": "Muscular branches of median nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Muscular branches of median nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "brachial_plexus_j": {
+    "name": "Brachial plexus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Brachial plexus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intercostal_nerves_r": {
+    "name": "Intercostal nerves.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intercostal nerves.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intercostal_nerves_l": {
+    "name": "Intercostal nerves.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intercostal nerves.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thoracic_nerves_j": {
+    "name": "Thoracic nerves.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thoracic nerves.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_rami_of_lumbar_nerves_j": {
+    "name": "Posterior rami of lumbar nerves.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior rami of lumbar nerves.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "iliohypogastric_nerve_r": {
+    "name": "Iliohypogastric nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Iliohypogastric nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "iliohypogastric_nerve_l": {
+    "name": "Iliohypogastric nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Iliohypogastric nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ilio_inguinal_nerve_r": {
+    "name": "Ilio-inguinal nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ilio-inguinal nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ilio_inguinal_nerve_l": {
+    "name": "Ilio-inguinal nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ilio-inguinal nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_rami_of_lumbar_nerves_j": {
+    "name": "Anterior rami of lumbar nerves.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior rami of lumbar nerves.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lumbar_nerves_j": {
+    "name": "Lumbar nerves.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lumbar nerves.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "infrapatellar_branch_of_saphenous_nerve_r": {
+    "name": "Infrapatellar branch of saphenous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Infrapatellar branch of saphenous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "saphenous_nerve_r": {
+    "name": "Saphenous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Saphenous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_crural_cutaneous_branches_of_saphenous_nerve_r": {
+    "name": "Medial crural cutaneous branches of saphenous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial crural cutaneous branches of saphenous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sural_nerve_r": {
+    "name": "Sural nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sural nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sural_communicating_branch_of_common_fibular_nerve_r": {
+    "name": "Sural communicating branch of common fibular nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sural communicating branch of common fibular nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_sural_cutaneous_nerve_r": {
+    "name": "Medial sural cutaneous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial sural cutaneous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "infrapatellar_branch_of_saphenous_nerve_l": {
+    "name": "Infrapatellar branch of saphenous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Infrapatellar branch of saphenous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "saphenous_nerve_l": {
+    "name": "Saphenous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Saphenous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_crural_cutaneous_branches_of_saphenous_nerve_l": {
+    "name": "Medial crural cutaneous branches of saphenous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial crural cutaneous branches of saphenous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sural_nerve_l": {
+    "name": "Sural nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sural nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sural_communicating_branch_of_common_fibular_nerve_l": {
+    "name": "Sural communicating branch of common fibular nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sural communicating branch of common fibular nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_sural_cutaneous_nerve_l": {
+    "name": "Medial sural cutaneous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial sural cutaneous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_cutaneous_branches_of_femoral_nerve_r": {
+    "name": "Anterior cutaneous branches of femoral nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior cutaneous branches of femoral nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_cutaneous_branches_of_femoral_nerve_l": {
+    "name": "Anterior cutaneous branches of femoral nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior cutaneous branches of femoral nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "femoral_nerve_r": {
+    "name": "Femoral nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Femoral nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_femoral_cutaneous_nerve_r": {
+    "name": "Lateral femoral cutaneous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral femoral cutaneous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "femoral_nerve_l": {
+    "name": "Femoral nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Femoral nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_femoral_cutaneous_nerve_l": {
+    "name": "Lateral femoral cutaneous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral femoral cutaneous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "branches_of_posterior_part_of_lumbar_plexus_j": {
+    "name": "Branches of posterior part of lumbar plexus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Branches of posterior part of lumbar plexus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "obturator_nerve_r": {
+    "name": "Obturator nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Obturator nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_branch_of_obturator_nerve_r": {
+    "name": "Posterior branch of obturator nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior branch of obturator nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_branch_of_obturator_nerve_r": {
+    "name": "Anterior branch of obturator nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior branch of obturator nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "obturator_nerve_l": {
+    "name": "Obturator nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Obturator nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_branch_of_obturator_nerve_l": {
+    "name": "Posterior branch of obturator nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior branch of obturator nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_branch_of_obturator_nerve_l": {
+    "name": "Anterior branch of obturator nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior branch of obturator nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "genitofemoral_nerve_r": {
+    "name": "Genitofemoral nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Genitofemoral nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "femoral_branch_of_genitofemoral_nerve_r": {
+    "name": "Femoral branch of genitofemoral nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Femoral branch of genitofemoral nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "genital_branch_of_genitofemoral_nerve_r": {
+    "name": "Genital branch of genitofemoral nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Genital branch of genitofemoral nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "genitofemoral_nerve_l": {
+    "name": "Genitofemoral nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Genitofemoral nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "femoral_branch_of_genitofemoral_nerve_l": {
+    "name": "Femoral branch of genitofemoral nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Femoral branch of genitofemoral nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "genital_branch_of_genitofemoral_nerve_l": {
+    "name": "Genital branch of genitofemoral nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Genital branch of genitofemoral nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "branches_of_anterior_part_of_lumbar_plexus_j": {
+    "name": "Branches of anterior part of lumbar plexus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Branches of anterior part of lumbar plexus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lumbar_plexus_j": {
+    "name": "Lumbar plexus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lumbar plexus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_branches_of_superficial_fibular_nerve_r": {
+    "name": "Dorsal digital branches of superficial fibular nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital branches of superficial fibular nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_fibular_nerve_r": {
+    "name": "Superficial fibular nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial fibular nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_dorsal_cutaneous_nerve_of_foot_r": {
+    "name": "Medial dorsal cutaneous nerve of foot.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial dorsal cutaneous nerve of foot.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intermediate_dorsal_cutaneous_nerve_of_foot_r": {
+    "name": "Intermediate dorsal cutaneous nerve of foot.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intermediate dorsal cutaneous nerve of foot.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_branches_of_superficial_fibular_nerve_l": {
+    "name": "Dorsal digital branches of superficial fibular nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital branches of superficial fibular nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superficial_fibular_nerve_l": {
+    "name": "Superficial fibular nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superficial fibular nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_dorsal_cutaneous_nerve_of_foot_l": {
+    "name": "Medial dorsal cutaneous nerve of foot.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial dorsal cutaneous nerve of foot.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intermediate_dorsal_cutaneous_nerve_of_foot_l": {
+    "name": "Intermediate dorsal cutaneous nerve of foot.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intermediate dorsal cutaneous nerve of foot.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_branches_of_deep_fibular_nerve_r": {
+    "name": "Dorsal digital branches of deep fibular nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital branches of deep fibular nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "muscular_branches_of_deep_fibular_nerve_r": {
+    "name": "Muscular branches of deep fibular nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Muscular branches of deep fibular nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_fibular_nerve_r": {
+    "name": "Deep fibular nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep fibular nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dorsal_digital_branches_of_deep_fibular_nerve_l": {
+    "name": "Dorsal digital branches of deep fibular nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dorsal digital branches of deep fibular nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "muscular_branches_of_deep_fibular_nerve_l": {
+    "name": "Muscular branches of deep fibular nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Muscular branches of deep fibular nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "deep_fibular_nerve_l": {
+    "name": "Deep fibular nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Deep fibular nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sciatic_nerve_r": {
+    "name": "Sciatic nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sciatic nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tibial_nerve_r": {
+    "name": "Tibial nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tibial nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proper_plantar_digital_branches_of_medial_plantar_nerve_r": {
+    "name": "Proper plantar digital branches of medial plantar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proper plantar digital branches of medial plantar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_plantar_digital_branches_of_lateral_plantar_nerve_r": {
+    "name": "Common plantar digital branches of lateral plantar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common plantar digital branches of lateral plantar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_plantar_nerve_r": {
+    "name": "Lateral plantar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral plantar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_plantar_nerve_r": {
+    "name": "Medial plantar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial plantar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_fibular_nerve_r": {
+    "name": "Common fibular nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common fibular nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sciatic_nerve_l": {
+    "name": "Sciatic nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sciatic nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tibial_nerve_l": {
+    "name": "Tibial nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tibial nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proper_plantar_digital_branches_of_medial_plantar_nerve_l": {
+    "name": "Proper plantar digital branches of medial plantar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proper plantar digital branches of medial plantar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_plantar_digital_branches_of_lateral_plantar_nerve_l": {
+    "name": "Common plantar digital branches of lateral plantar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common plantar digital branches of lateral plantar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_plantar_nerve_l": {
+    "name": "Lateral plantar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral plantar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_plantar_nerve_l": {
+    "name": "Medial plantar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial plantar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_fibular_nerve_l": {
+    "name": "Common fibular nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common fibular nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proper_plantar_digital_branches_of_lateral_plantar_nerve_r": {
+    "name": "Proper plantar digital branches of lateral plantar nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proper plantar digital branches of lateral plantar nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "proper_plantar_digital_branches_of_lateral_plantar_nerve_l": {
+    "name": "Proper plantar digital branches of lateral plantar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Proper plantar digital branches of lateral plantar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_plantar_digital_branches_of_medial_plantar_nerve": {
+    "name": "Common plantar digital branches of medial plantar nerve\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common plantar digital branches of medial plantar nerve\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_plantar_digital_branches_of_medial_plantar_nerve_l": {
+    "name": "Common plantar digital branches of medial plantar nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common plantar digital branches of medial plantar nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sacral_plexus_j": {
+    "name": "Sacral plexus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sacral plexus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lumbosacral_plexus_j": {
+    "name": "Lumbosacral plexus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lumbosacral plexus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "spinal_nerves_j": {
+    "name": "Spinal nerves.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Spinal nerves.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sympathetic_nerves_r": {
+    "name": "Sympathetic nerves.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sympathetic nerves.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ganglia_of_sympathetic_trunk_r": {
+    "name": "Ganglia of sympathetic trunk.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ganglia of sympathetic trunk.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sympathetic_trunk_r": {
+    "name": "Sympathetic trunk.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sympathetic trunk.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sympathetic_nerves_l": {
+    "name": "Sympathetic nerves.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sympathetic nerves.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ganglia_of_sympathetic_trunk_l": {
+    "name": "Ganglia of sympathetic trunk.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ganglia of sympathetic trunk.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sympathetic_trunk_l": {
+    "name": "Sympathetic trunk.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sympathetic trunk.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "peripheral_nervous_system_j": {
+    "name": "Peripheral nervous system.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Peripheral nervous system.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lacrimal_gland_r": {
+    "name": "Lacrimal gland.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lacrimal gland.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lacrimal_gland_l": {
+    "name": "Lacrimal gland.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lacrimal gland.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ampulla_of_lacrimal_canaliculus_r": {
+    "name": "Ampulla of lacrimal canaliculus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ampulla of lacrimal canaliculus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lacrimal_canaliculus_r": {
+    "name": "Lacrimal canaliculus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lacrimal canaliculus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ampulla_of_lacrimal_canaliculus_l": {
+    "name": "Ampulla of lacrimal canaliculus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ampulla of lacrimal canaliculus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lacrimal_canaliculus_l": {
+    "name": "Lacrimal canaliculus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lacrimal canaliculus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lacrimal_sac_r": {
+    "name": "Lacrimal sac.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lacrimal sac.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lacrimal_sac_l": {
+    "name": "Lacrimal sac.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lacrimal sac.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nasolacrimal_duct_r": {
+    "name": "Nasolacrimal duct.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nasolacrimal duct.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nasolacrimal_duct_l": {
+    "name": "Nasolacrimal duct.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nasolacrimal duct.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "suspensory_ligament_of_eyeball_r": {
+    "name": "Suspensory ligament of eyeball.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Suspensory ligament of eyeball.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "suspensory_ligament_of_eyeball_l": {
+    "name": "Suspensory ligament of eyeball.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Suspensory ligament of eyeball.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tympanic_membrane_r": {
+    "name": "Tympanic membrane.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tympanic membrane.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tympanic_membrane_l": {
+    "name": "Tympanic membrane.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tympanic membrane.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vestibule_r": {
+    "name": "Vestibule.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vestibule.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_bony_ampulla_j": {
+    "name": "Anterior bony ampulla.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior bony ampulla.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_semicircular_canal_j": {
+    "name": "Posterior semicircular canal.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior semicircular canal.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_bony_ampulla_j": {
+    "name": "Posterior bony ampulla.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior bony ampulla.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "common_bony_limb_j": {
+    "name": "Common bony limb.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Common bony limb.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_semicircular_canal_j": {
+    "name": "Lateral semicircular canal.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral semicircular canal.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_bony_ampulla_j": {
+    "name": "Lateral bony ampulla.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral bony ampulla.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "simple_bony_limb_j": {
+    "name": "Simple bony limb.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Simple bony limb.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vestibule_l": {
+    "name": "Vestibule.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vestibule.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cochlea_r": {
+    "name": "Cochlea.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cochlea.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cochlear_cupula_j": {
+    "name": "Cochlear cupula.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cochlear cupula.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "base_of_cochlea_j": {
+    "name": "Base of cochlea.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Base of cochlea.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "spiral_canal_of_cochlea_j": {
+    "name": "Spiral canal of cochlea.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Spiral canal of cochlea.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cochlea_l": {
+    "name": "Cochlea.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cochlea.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cerebral_peduncle_j": {
+    "name": "Cerebral peduncle.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cerebral peduncle.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tegmentum_of_midbrain_j": {
+    "name": "Tegmentum of midbrain.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tegmentum of midbrain.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "midbrain_j": {
+    "name": "Midbrain.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Midbrain.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "grey_matter_of_spinal_cord_j": {
+    "name": "Grey matter of spinal cord.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Grey matter of spinal cord.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "white_matter_of_spinal_cord_j": {
+    "name": "White matter of spinal cord.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "White matter of spinal cord.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "central_structures_of_spinal_cord_j": {
+    "name": "Central structures of spinal cord.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Central structures of spinal cord.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "grey_matter_of_tegmentum_of_midbrain_j": {
+    "name": "Grey matter of tegmentum of midbrain.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Grey matter of tegmentum of midbrain.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "oculomotor_complex_j": {
+    "name": "Oculomotor complex.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Oculomotor complex.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lacrimal_apparatus_j": {
+    "name": "Lacrimal apparatus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lacrimal apparatus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "central_mesencephalic_structures_j": {
+    "name": "Central mesencephalic structures.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Central mesencephalic structures.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tectum_of_midbrain_j": {
+    "name": "Tectum of midbrain.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tectum of midbrain.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "autonomic_division_of_peripheral_nervous_system_j": {
+    "name": "Autonomic division of peripheral nervous system.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Autonomic division of peripheral nervous system.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "basilar_part_of_pons_j": {
+    "name": "Basilar part of pons.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Basilar part of pons.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tegmentum_of_pons_j": {
+    "name": "Tegmentum of pons.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tegmentum of pons.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "grey_matter_of_pontine_tegmentum_j": {
+    "name": "Grey matter of pontine tegmentum.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Grey matter of pontine tegmentum.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_horn_of_spinal_cord_j": {
+    "name": "Posterior horn of spinal cord.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior horn of spinal cord.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intermediate_zone_of_spinal_cord_j": {
+    "name": "Intermediate zone of spinal cord.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intermediate zone of spinal cord.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_horn_of_spinal_cord_j": {
+    "name": "Anterior horn of spinal cord.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior horn of spinal cord.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_semicircular_canal_j": {
+    "name": "Anterior semicircular canal.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior semicircular canal.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_medulla_oblongata_j": {
+    "name": "Inferior medulla oblongata.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior medulla oblongata.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "projection_fibres_of_telencephalon_j": {
+    "name": "Projection fibres of telencephalon.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Projection fibres of telencephalon.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_medulla_oblongata_j": {
+    "name": "Superior medulla oblongata.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior medulla oblongata.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cauda_equina": {
+    "name": "Cauda equina\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cauda equina\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "walls_of_lateral_ventricle_j": {
+    "name": "Walls of lateral ventricle.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Walls of lateral ventricle.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "auditory_tube_r": {
+    "name": "Auditory tube.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Auditory tube.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "auditory_tube_l": {
+    "name": "Auditory tube.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Auditory tube.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "wing_of_central_lobule_l": {
+    "name": "Wing of central lobule.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Wing of central lobule.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "uvula_of_vermis": {
+    "name": "Uvula of vermis\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Uvula of vermis\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tuber_of_vermis": {
+    "name": "Tuber of vermis\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tuber of vermis\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tonsil_of_cerebellum_l": {
+    "name": "Tonsil of cerebellum.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tonsil of cerebellum.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_semilunar_lobule_l": {
+    "name": "Superior semilunar lobule.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior semilunar lobule.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_cerebellar_peduncle_l": {
+    "name": "Superior cerebellar peduncle.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior cerebellar peduncle.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pyramis_of_vermis": {
+    "name": "Pyramis of vermis\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pyramis of vermis\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_quadrangular_lobule_l": {
+    "name": "Posterior quadrangular lobule.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior quadrangular lobule.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "peduncle_of_flocculus_l": {
+    "name": "Peduncle of flocculus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Peduncle of flocculus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nodule_of_vermis": {
+    "name": "Nodule of vermis\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nodule of vermis\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lingula_of_cerebellum": {
+    "name": "Lingula of cerebellum\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lingula of cerebellum\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_semilunar_lobule_l": {
+    "name": "Inferior semilunar lobule.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior semilunar lobule.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "gracile_lobule_l": {
+    "name": "Gracile lobule.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Gracile lobule.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "folium_of_vermis": {
+    "name": "Folium of vermis\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Folium of vermis\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "flocculus_l": {
+    "name": "Flocculus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Flocculus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "declive": {
+    "name": "Declive\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Declive\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "culmen": {
+    "name": "Culmen\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Culmen\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "central_lobule": {
+    "name": "Central lobule\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Central lobule\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "biventral_lobule_l": {
+    "name": "Biventral lobule.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Biventral lobule.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_quadrangular_lobule_l": {
+    "name": "Anterior quadrangular lobule.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior quadrangular lobule.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "temporal_pole_r": {
+    "name": "Temporal pole.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Temporal pole.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "occipital_pole_r": {
+    "name": "Occipital pole.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Occipital pole.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "central_sulcus_r": {
+    "name": "Central sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Central sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "parieto_occipital_sulcus_r": {
+    "name": "Parieto-occipital sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Parieto-occipital sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "subparietal_sulcus_r": {
+    "name": "Subparietal sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Subparietal sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cingulate_sulcus_marginal_part_r": {
+    "name": "Cingulate sulcus (Marginal part*).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cingulate sulcus (Marginal part*).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "circular_sulcus_of_insula_r": {
+    "name": "Circular sulcus of insula.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Circular sulcus of insula.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "collateral_sulcus_r": {
+    "name": "Collateral sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Collateral sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_occipital_sulcus_r": {
+    "name": "Anterior occipital sulcus*.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior occipital sulcus*.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "opercular_part_of_inferior_frontal_gyrus_r": {
+    "name": "Opercular part of inferior frontal gyrus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Opercular part of inferior frontal gyrus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "orbital_part_of_inferior_frontal_gyrus_r": {
+    "name": "Orbital part of  inferior frontal gyrus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Orbital part of  inferior frontal gyrus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "triangular_part_of_inferior_frontal_gyrus_r": {
+    "name": "Triangular part of inferior frontal gyrus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Triangular part of inferior frontal gyrus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "orbital_gyri_frontomarginal_gyrus_and_sulcus_r": {
+    "name": "Orbital gyri (Frontomarginal gyrus and sulcus*).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Orbital gyri (Frontomarginal gyrus and sulcus*).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "paracentral_gyrus_and_sulcus_r": {
+    "name": "Paracentral gyrus and sulcus*.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Paracentral gyrus and sulcus*.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "transverse_frontopolar_gyrus_and_sulcus_r": {
+    "name": "Transverse frontopolar gyrus and sulcus*.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Transverse frontopolar gyrus and sulcus*.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "straight_gyrus_gyrus_rectus_r": {
+    "name": "Straight gyrus (Gyrus rectus).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Straight gyrus (Gyrus rectus).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lat_fis_ant_vertical_r": {
+    "name": "Lat_Fis-ant-Vertical.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lat_Fis-ant-Vertical.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_frontal_sulcus_r": {
+    "name": "Inferior frontal sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior frontal sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_frontal_gyrus_r": {
+    "name": "Middle frontal gyrus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle frontal gyrus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "orbital_gyri_r": {
+    "name": "Orbital gyri.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Orbital gyri.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "precentral_gyrus_r": {
+    "name": "Precentral gyrus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Precentral gyrus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_frontal_gyrus_r": {
+    "name": "Superior frontal gyrus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior frontal gyrus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_frontal_sulcus_r": {
+    "name": "Superior frontal sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior frontal sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "paracentral_sulcus_r": {
+    "name": "Paracentral sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Paracentral sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "orbital_sulci_h_shaped_orbital_sulci_r": {
+    "name": "Orbital sulci (H-shaped orbital sulci*).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Orbital sulci (H-shaped orbital sulci*).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "orbital_sulci_lateral_orbital_sulcus_r": {
+    "name": "Orbital sulci (Lateral Orbital sulcus*).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Orbital sulci (Lateral Orbital sulcus*).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "olfactory_sulcus_r": {
+    "name": "Olfactory sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Olfactory sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "precentral_sulcus_inferior_part_r": {
+    "name": "Precentral sulcus (inferior part)*.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Precentral sulcus (inferior part)*.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "precentral_sulcus_superior_part_r": {
+    "name": "Precentral sulcus (Superior part)*.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Precentral sulcus (Superior part)*.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "angular_gyrus_r": {
+    "name": "Angular gyrus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Angular gyrus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "supramarginal_gyrus_r": {
+    "name": "Supramarginal gyrus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Supramarginal gyrus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "postcentral_gyrus_r": {
+    "name": "Postcentral gyrus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Postcentral gyrus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "postcentral_sulcus_r": {
+    "name": "Postcentral sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Postcentral sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "precuneus_r": {
+    "name": "Precuneus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Precuneus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_parietal_lobule_r": {
+    "name": "Superior parietal lobule.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior parietal lobule.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intraparietal_sulcus_r": {
+    "name": "Intraparietal sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intraparietal sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_occipital_gyrus_and_sulcus_r": {
+    "name": "Inferior occipital gyrus and sulcus*.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior occipital gyrus and sulcus*.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lingual_gyrus_r": {
+    "name": "Lingual gyrus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lingual gyrus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_occipital_gyrus_middle_occipital_gyrus_r": {
+    "name": "Lateral occipital gyrus (Middle occipital gyrus*).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral occipital gyrus (Middle occipital gyrus*).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "calcarine_sulcus_r": {
+    "name": "Calcarine sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Calcarine sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cuneus_r": {
+    "name": "Cuneus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cuneus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_occipital_gyri_r": {
+    "name": "Superior occipital gyri.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior occipital gyri.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lunate_sulcus_r": {
+    "name": "Lunate sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lunate sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "transverse_occipital_sulcus_r": {
+    "name": "Transverse occipital sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Transverse occipital sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "transverse_temporal_gyri_r": {
+    "name": "Transverse temporal gyri.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Transverse temporal gyri.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "temporal_plane_r": {
+    "name": "Temporal plane.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Temporal plane.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_temporal_gyrus_lateral_part_r": {
+    "name": "Superior temporal gyrus (Lateral part).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior temporal gyrus (Lateral part).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_occipitotemporal_gyrus_r": {
+    "name": "Lateral occipitotemporal gyrus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral occipitotemporal gyrus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_occipitotemporal_gyrus_parahippocampal_r": {
+    "name": "Medial occipitotemporal gyrus (Parahippocampal*).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial occipitotemporal gyrus (Parahippocampal*).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_temporal_sulcus_r": {
+    "name": "Inferior temporal sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior temporal sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_temporal_gyrus_r": {
+    "name": "Inferior temporal gyrus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior temporal gyrus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "middle_temporal_gyrus_r": {
+    "name": "Middle temporal gyrus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Middle temporal gyrus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_temporal_sulcus_r": {
+    "name": "Superior temporal sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior temporal sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "occipitotemporal_sulcus_lateral_part_r": {
+    "name": "Occipitotemporal sulcus (Lateral part*).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Occipitotemporal sulcus (Lateral part*).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "insula_subcentral_gyrus_and_ant_and_post_sulci_r": {
+    "name": "Insula (Subcentral gyrus and ant. and post. sulci*).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Insula (Subcentral gyrus and ant. and post. sulci*).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cingulate_gyrus_and_sulcus_middle_anterior_part_r": {
+    "name": "Cingulate gyrus and sulcus (Middle anterior part).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cingulate gyrus and sulcus (Middle anterior part).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cingulate_gyrus_and_sulcus_middle_posterior_part_r": {
+    "name": "Cingulate gyrus and sulcus (Middle posterior part).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cingulate gyrus and sulcus (Middle posterior part).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cingulate_gyrus_and_sulcus_posterior_dorsal_part_r": {
+    "name": "Cingulate gyrus and sulcus (Posterior dorsal part).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cingulate gyrus and sulcus (Posterior dorsal part).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cingulate_gyrus_posteroventral_part_r": {
+    "name": "Cingulate gyrus (Posteroventral part*).r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cingulate gyrus (Posteroventral part*).r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "white_matter_of_telencephalon_r": {
+    "name": "White matter of telencephalon.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "White matter of telencephalon.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lat_fis_ant_horizont_r": {
+    "name": "Lat_Fis-ant-Horizont.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lat_Fis-ant-Horizont.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lat_fis_post_r": {
+    "name": "Lat_Fis-post.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lat_Fis-post.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_transverse_collateral_sulcus_r": {
+    "name": "Posterior transverse collateral sulcus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior transverse collateral sulcus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sulcus_interm_prim_jensen_r": {
+    "name": "Sulcus interm_prim-Jensen.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sulcus interm_prim-Jensen.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "wing_of_central_lobule_r": {
+    "name": "Wing of central lobule.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Wing of central lobule.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tonsil_of_cerebellum_r": {
+    "name": "Tonsil of cerebellum.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tonsil of cerebellum.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_semilunar_lobule_r": {
+    "name": "Superior semilunar lobule.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior semilunar lobule.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_cerebellar_peduncle_r": {
+    "name": "Superior cerebellar peduncle.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior cerebellar peduncle.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_quadrangular_lobule_r": {
+    "name": "Posterior quadrangular lobule.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior quadrangular lobule.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "peduncle_of_flocculus_r": {
+    "name": "Peduncle of flocculus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Peduncle of flocculus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_semilunar_lobule_r": {
+    "name": "Inferior semilunar lobule.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior semilunar lobule.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "gracile_lobule_r": {
+    "name": "Gracile lobule.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Gracile lobule.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "flocculus_r": {
+    "name": "Flocculus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Flocculus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "biventral_lobule_r": {
+    "name": "Biventral lobule.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Biventral lobule.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_quadrangular_lobule_r": {
+    "name": "Anterior quadrangular lobule.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior quadrangular lobule.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tentorium_cerebelli_l": {
+    "name": "Tentorium cerebelli.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tentorium cerebelli.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "zonular_fibres_r": {
+    "name": "Zonular fibres.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Zonular fibres.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "zonular_fibres_l": {
+    "name": "Zonular fibres.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Zonular fibres.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vitreous_body_r": {
+    "name": "Vitreous body.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vitreous body.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "vitreous_body_l": {
+    "name": "Vitreous body.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Vitreous body.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sulcus_sclerae_j": {
+    "name": "Sulcus sclerae.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sulcus sclerae.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sphincter_pupillae_j": {
+    "name": "Sphincter pupillae.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sphincter pupillae.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "retina_r": {
+    "name": "Retina.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Retina.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "retina_l": {
+    "name": "Retina.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Retina.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pupillary_margin_of_iris_j": {
+    "name": "Pupillary margin of iris.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pupillary margin of iris.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sclera_r": {
+    "name": "Sclera.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sclera.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "sclera_l": {
+    "name": "Sclera.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Sclera.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pupil_j": {
+    "name": "Pupil.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pupil.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_surface_of_iris_j": {
+    "name": "Posterior surface of iris.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior surface of iris.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_surface_of_cornea_j": {
+    "name": "Posterior surface of cornea.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior surface of cornea.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_segment_of_eyeball_r": {
+    "name": "Posterior segment of eyeball.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior segment of eyeball.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_segment_of_eyeball_l": {
+    "name": "Posterior segment of eyeball.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior segment of eyeball.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_pole_of_eyeball_j": {
+    "name": "Posterior pole of eyeball.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior pole of eyeball.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "optic_axis_j": {
+    "name": "Optic axis.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Optic axis.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "meridians_of_eyeball_r": {
+    "name": "Meridians of eyeball.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Meridians of eyeball.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lens_r": {
+    "name": "Lens.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lens.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lens_l": {
+    "name": "Lens.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lens.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "iris_r": {
+    "name": "Iris.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Iris.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "iris_l": {
+    "name": "Iris.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Iris.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "internal_axis_of_eyeball_r": {
+    "name": "Internal axis of eyeball.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Internal axis of eyeball.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "folds_of_iris_j": {
+    "name": "Folds of iris.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Folds of iris.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "eyeball_j": {
+    "name": "Eyeball.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Eyeball'.j\u0000\u0001Model",
+        "Eyeball.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "external_axis_of_eyeball": {
+    "name": "External axis of eyeball\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "External axis of eyeball\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "equator_of_eyeball_r": {
+    "name": "Equator of eyeball.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Equator of eyeball.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "dilator_pupillae_j": {
+    "name": "Dilator pupillae.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Dilator pupillae.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "corneoscleral_junction_j": {
+    "name": "Corneoscleral junction.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Corneoscleral junction.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cornea_r": {
+    "name": "Cornea.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cornea.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cornea_l": {
+    "name": "Cornea.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cornea.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ciliary_body_curve_r": {
+    "name": "Ciliary body-curve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ciliary body-curve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_surface_of_iris_j": {
+    "name": "Anterior surface of iris.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior surface of iris.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_surface_of_cornea_j": {
+    "name": "Anterior surface of cornea.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior surface of cornea.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_segment_of_eyeball_r": {
+    "name": "Anterior segment of eyeball.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior segment of eyeball.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_segment_of_eyeball_l": {
+    "name": "Anterior segment of eyeball.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior segment of eyeball.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_pole_of_eyeball_j": {
+    "name": "Anterior pole of eyeball.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior pole of eyeball.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_chamber_of_eyeball_r": {
+    "name": "Anterior chamber of eyeball.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior chamber of eyeball.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_chamber_of_eyeball_l": {
+    "name": "Anterior chamber of eyeball.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior chamber of eyeball.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_of_trochlear_nerve_l": {
+    "name": "Nucleus of trochlear nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus of trochlear nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_of_trochlear_nerve_r": {
+    "name": "Nucleus of trochlear nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus of trochlear nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_cochlear_nucleus_r": {
+    "name": "Anterior cochlear nucleus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior cochlear nucleus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_cochlear_nucleus_l": {
+    "name": "Posterior cochlear nucleus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior cochlear nucleus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_salivatory_nucleus_r": {
+    "name": "Inferior salivatory nucleus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior salivatory nucleus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_cochlear_nucleus_r": {
+    "name": "Posterior cochlear nucleus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior cochlear nucleus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_nucleus_of_vagus_nerve_l": {
+    "name": "Posterior nucleus of vagus nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior nucleus of vagus nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_of_hypoglossal_nerve_l": {
+    "name": "Nucleus of hypoglossal nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus of hypoglossal nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_nucleus_of_vagus_nerve_r": {
+    "name": "Posterior nucleus of vagus nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior nucleus of vagus nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_of_hypoglossal_nerve_r": {
+    "name": "Nucleus of hypoglossal nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus of hypoglossal nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_of_solitary_tract_l": {
+    "name": "Nucleus of solitary tract.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus of solitary tract.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_of_solitary_tract_r": {
+    "name": "Nucleus of solitary tract.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus of solitary tract.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_ambiguus_r": {
+    "name": "Nucleus ambiguus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus ambiguus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_ambiguus_l": {
+    "name": "Nucleus ambiguus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus ambiguus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medulla_oblongata_r": {
+    "name": "Medulla oblongata.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medulla oblongata.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "grey_matter_of_medulla_oblongata_j": {
+    "name": "Grey matter of medulla oblongata.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Grey matter of medulla oblongata.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_median_fissure_of_medulla_oblongata_j": {
+    "name": "Anterior median fissure of medulla oblongata.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior median fissure of medulla oblongata.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterolateral_sulcus_of_medulla_oblongata_j": {
+    "name": "Anterolateral sulcus of medulla oblongata.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterolateral sulcus of medulla oblongata.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cuneate_tubercle_j": {
+    "name": "Cuneate tubercle.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cuneate tubercle.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "gracile_tubercle_j": {
+    "name": "Gracile tubercle.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Gracile tubercle.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_median_sulcus_of_medulla_oblongata_j": {
+    "name": "Posterior median sulcus of medulla oblongata.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior median sulcus of medulla oblongata.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterolateral_sulcus_of_medulla_oblongata_j": {
+    "name": "Posterolateral sulcus of medulla oblongata.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterolateral sulcus of medulla oblongata.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pyramid_of_medulla_oblongata_j": {
+    "name": "Pyramid of medulla oblongata.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pyramid of medulla oblongata.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "retro_olivary_groove_j": {
+    "name": "Retro-olivary groove.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Retro-olivary groove.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "trigeminal_tubercle_j": {
+    "name": "Trigeminal tubercle.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Trigeminal tubercle.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "olive_j": {
+    "name": "Olive.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Olive.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_funiculus_of_medulla_oblongata_j": {
+    "name": "Lateral funiculus of medulla oblongata.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral funiculus of medulla oblongata.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_salivatory_nucleus_l": {
+    "name": "Inferior salivatory nucleus.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior salivatory nucleus.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "white_matter_of_spinal_cord": {
+    "name": "White matter of spinal cord\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "White matter of spinal cord\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "gracile_fasciculus": {
+    "name": "Gracile fasciculus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Gracile fasciculus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cuneate_fasciculus": {
+    "name": "Cuneate fasciculus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cuneate fasciculus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_vestibulospinal_tract": {
+    "name": "Medial vestibulospinal tract\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial vestibulospinal tract\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intermediomedial_nucleus": {
+    "name": "Intermediomedial nucleus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intermediomedial nucleus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nucleus_proprius": {
+    "name": "Nucleus proprius\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nucleus proprius\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "intermediolateral_nucleus": {
+    "name": "Intermediolateral nucleus\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Intermediolateral nucleus\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "spinal_reticular_process": {
+    "name": "Spinal reticular process\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Spinal reticular process\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_corticospinal_tract": {
+    "name": "Lateral corticospinal tract\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral corticospinal tract\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "rubrospinal_tract": {
+    "name": "Rubrospinal tract\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Rubrospinal tract\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_reticulospinal_tract": {
+    "name": "Lateral reticulospinal tract\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral reticulospinal tract\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_vestibulospinal_tract": {
+    "name": "Lateral vestibulospinal tract\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral vestibulospinal tract\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_reticulospinal_tract": {
+    "name": "Medial reticulospinal tract\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial reticulospinal tract\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_corticospinal_tract": {
+    "name": "Anterior corticospinal tract\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior corticospinal tract\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_spinothalamic_tract": {
+    "name": "Anterior spinothalamic tract\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior spinothalamic tract\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_spinothalamic_tract": {
+    "name": "Lateral spinothalamic tract\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral spinothalamic tract\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterolateral_tract": {
+    "name": "Posterolateral tract\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterolateral tract\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_spinocerebellar_tract": {
+    "name": "Posterior spinocerebellar tract\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior spinocerebellar tract\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_spinocerebellar_tract": {
+    "name": "Anterior spinocerebellar tract\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior spinocerebellar tract\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "tectospinal_tract": {
+    "name": "Tectospinal tract\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Tectospinal tract\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_intermediate_substance": {
+    "name": "Lateral intermediate substance\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral intermediate substance\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_fasciculus_proprius": {
+    "name": "Posterior fasciculus proprius\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior fasciculus proprius\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_fasciculus_proprius": {
+    "name": "Lateral fasciculus proprius\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral fasciculus proprius\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_horn_of_spinal_cord": {
+    "name": "Posterior horn of spinal cord\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior horn of spinal cord\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_fasciculus_proprius": {
+    "name": "Anterior fasciculus proprius\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior fasciculus proprius\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_horn_of_spinal_cord": {
+    "name": "Anterior horn of spinal cord\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior horn of spinal cord\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "spinotectal_tract": {
+    "name": "Spinotectal tract\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Spinotectal tract\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_funiculus_j": {
+    "name": "Posterior funiculus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior funiculus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "lateral_funiculus_j": {
+    "name": "Lateral funiculus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Lateral funiculus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterolateral_fasciculus_j": {
+    "name": "Anterolateral fasciculus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterolateral fasciculus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_funiculus_j": {
+    "name": "Anterior funiculus.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior funiculus.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "roots_of_nerves_j": {
+    "name": "Roots of nerves.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Roots of nerves.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "ganglia_j": {
+    "name": "Ganglia.j\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Ganglia.j\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "spinal_ganglion_r": {
+    "name": "Spinal ganglion.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Spinal ganglion.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "spinal_ganglion_l": {
+    "name": "Spinal ganglion.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Spinal ganglion.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_root_of_spinal_nerve_r": {
+    "name": "Posterior root of spinal nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior root of spinal nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_root_of_spinal_nerve_r": {
+    "name": "Anterior root of spinal nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior root of spinal nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_division_of_superior_trunk_of_brachial_plexus_r": {
+    "name": "Anterior division of superior trunk of brachial plexus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior division of superior trunk of brachial plexus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_division_of_inferior_trunk_of_brachial_plexus_r": {
+    "name": "Anterior division of inferior trunk of brachial plexus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior division of inferior trunk of brachial plexus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_division_of_inferior_trunk_of_brachial_plexus_r": {
+    "name": "Posterior division of inferior trunk of brachial plexus.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior division of inferior trunk of brachial plexus.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_pectoral_nerve_r": {
+    "name": "Medial pectoral nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial pectoral nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medial_pectoral_nerve_l": {
+    "name": "Medial pectoral nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medial pectoral nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_subscapular_nerve_r": {
+    "name": "Superior subscapular nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior subscapular nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_subscapular_nerve_r": {
+    "name": "Inferior subscapular nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior subscapular nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thoracodorsal_nerve_r": {
+    "name": "Thoracodorsal nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thoracodorsal nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "thoracodorsal_nerve_l": {
+    "name": "Thoracodorsal nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Thoracodorsal nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_gluteal_nerve_l": {
+    "name": "Superior gluteal nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior gluteal nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_gluteal_nerve_r": {
+    "name": "Superior gluteal nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior gluteal nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nerve_to_piriformis_muscle_r": {
+    "name": "Nerve to piriformis muscle.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nerve to piriformis muscle.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nerve_to_piriformis_muscle_l": {
+    "name": "Nerve to piriformis muscle.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nerve to piriformis muscle.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nerve_to_quadratus_femoris_muscle_r": {
+    "name": "Nerve to quadratus femoris muscle.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nerve to quadratus femoris muscle.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "nerve_to_quadratus_femoris_muscle_l": {
+    "name": "Nerve to quadratus femoris muscle.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Nerve to quadratus femoris muscle.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_femoral_cutaneous_nerve_r": {
+    "name": "Posterior femoral cutaneous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior femoral cutaneous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_root_of_posterior_femoral_cutaneous_nerve_r": {
+    "name": "Anterior root of posterior femoral cutaneous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior root of posterior femoral cutaneous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_root_of_posterior_femoral_cutaneous_nerve_r": {
+    "name": "Posterior root of posterior femoral cutaneous nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior root of posterior femoral cutaneous nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_root_of_posterior_femoral_cutaneous_nerve_l": {
+    "name": "Posterior root of posterior femoral cutaneous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior root of posterior femoral cutaneous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pudendal_nerve_l": {
+    "name": "Pudendal nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pudendal nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "pudendal_nerve_r": {
+    "name": "Pudendal nerve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Pudendal nerve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_root_of_spinal_nerve_l": {
+    "name": "Posterior root of spinal nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior root of spinal nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_root_of_spinal_nerve_l": {
+    "name": "Anterior root of spinal nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior root of spinal nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "posterior_femoral_cutaneous_nerve_l": {
+    "name": "Posterior femoral cutaneous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Posterior femoral cutaneous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "anterior_root_of_posterior_femoral_cutaneous_nerve_l": {
+    "name": "Anterior root of posterior femoral cutaneous nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Anterior root of posterior femoral cutaneous nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "superior_subscapular_nerve_l": {
+    "name": "Superior subscapular nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Superior subscapular nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "inferior_subscapular_nerve_l": {
+    "name": "Inferior subscapular nerve.l\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Inferior subscapular nerve.l\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "zonular_fibers_curve_r": {
+    "name": "Zonular fibers-curve.r\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Zonular fibers-curve.r\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "medulla_path": {
+    "name": "Medulla-path\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Medulla-path\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cross_section_x_003": {
+    "name": "Cross Section X.003\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cross Section X.003\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cross_section_z_003": {
+    "name": "Cross Section Z.003\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cross Section Z.003\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  },
+  "cross_section_y_003": {
+    "name": "Cross Section Y.003\u0000\u0001",
+    "variants": {
+      "L": [],
+      "R": [],
+      "M": [
+        "Cross Section Y.003\u0000\u0001Model"
+      ],
+      "G": []
+    }
+  }
+}
