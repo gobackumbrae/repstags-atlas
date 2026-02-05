@@ -3,403 +3,534 @@ import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { FBXLoader } from 'three/addons/loaders/FBXLoader.js';
 
 const SYSTEMS = {
-  bones:   { fbx: './assets/bones.fbx',   groups: './meta/bones_groups.json'   },
-  muscles: { fbx: './assets/muscles.fbx', groups: './meta/muscles_groups.json' },
-  nerves:  { fbx: './assets/nerves.fbx',  groups: './meta/nerves_groups.json'  },
-  vessels: { fbx: './assets/vessels.fbx', groups: './meta/vessels_groups.json' },
-  organs:  { fbx: './assets/organs.fbx',  groups: './meta/organs_groups.json'  }
+  bones:   { label: 'Bones',   fbx: './assets/bones.fbx',   groups: './meta/bones_groups.json'   },
+  muscles: { label: 'Muscles', fbx: './assets/muscles.fbx', groups: './meta/muscles_groups.json' },
+  nerves:  { label: 'Nerves',  fbx: './assets/nerves.fbx',  groups: './meta/nerves_groups.json'  },
+  vessels: { label: 'Vessels', fbx: './assets/vessels.fbx', groups: './meta/vessels_groups.json' },
+  organs:  { label: 'Organs',  fbx: './assets/organs.fbx',  groups: './meta/organs_groups.json'  },
 };
 
-// Readability colors (geometry is the scientifically-accurate part; these are just display tints)
-const SYS_COLOR = {
-  bones:   0xbfc5cc,
-  muscles: 0x8f3f3f,
-  nerves:  0xb7b04a,
-  vessels: 0x2b6cff,
-  organs:  0x3aa16a,
+const el = {
+  canvas: document.getElementById('c'),
+  chips: document.getElementById('chips'),
+  filter: document.getElementById('filter'),
+  clearFilterBtn: document.getElementById('clearFilterBtn'),
+  clearSelectionBtn: document.getElementById('clearSelectionBtn'),
+  status: document.getElementById('status'),
+  loading: document.getElementById('loading'),
+  loadingText: document.getElementById('loadingText'),
 };
 
-const canvas = document.getElementById('c');
-const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: false });
-renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
-renderer.setSize(window.innerWidth, window.innerHeight, false);
-renderer.outputColorSpace = THREE.SRGBColorSpace;
+let scene, camera, renderer, controls;
+let modelRoot = null;
 
-const scene = new THREE.Scene();
-scene.background = new THREE.Color(0x0b0d10);
+// Mesh index
+let meshList = [];
+let meshByKey = new Map(); // key -> Mesh[]
 
-const camera = new THREE.PerspectiveCamera(35, window.innerWidth / window.innerHeight, 0.01, 2000);
-camera.position.set(0, 1.4, 4.2);
+// Group index (deduped)
+let groupByKey = new Map(); // key -> { key, name, meshKeys:Set<string> }
 
-const controls = new OrbitControls(camera, canvas);
-controls.enableDamping = false;     // zero inertia, per your preference
-controls.enableZoom = true;
-controls.enablePan = true;
-controls.target.set(0, 1.2, 0);
-controls.touches.ONE = THREE.TOUCH.ROTATE;
-controls.touches.TWO = THREE.TOUCH.DOLLY_PAN;
-controls.update();
+let selectedGroupKeys = new Set();
+let activeSystem = 'muscles';
+let loadToken = 0;
 
-const hemi = new THREE.HemisphereLight(0xffffff, 0x1a2633, 1.0);
-scene.add(hemi);
-
-const dir = new THREE.DirectionalLight(0xffffff, 1.0);
-dir.position.set(2.5, 6, 3.0);
-scene.add(dir);
-
-const loader = new FBXLoader();
-
-const infoEl = document.getElementById('info');
-const chipsEl = document.getElementById('chips');
-const searchEl = document.getElementById('search');
-const clearSearchEl = document.getElementById('clearSearch');
-const clearSelEl = document.getElementById('clearSel');
-
-const sysButtons = Array.from(document.querySelectorAll('[data-sys]'));
-
-const metaCache = new Map();   // sysKey -> groups json
-const loaded = new Map();      // sysKey -> { root, rawToMeshes(Map), baseMat }
-
-let worldOffset = null;        // THREE.Vector3
-let currentSystemForSearch = 'muscles';
-
-const highlightMat = new THREE.MeshStandardMaterial({
-  color: 0xff3b30,
-  roughness: 0.55,
-  metalness: 0.0,
-  emissive: new THREE.Color(0x2a0500),
-  emissiveIntensity: 1.0,
-  side: THREE.DoubleSide,
-  depthTest: true,
-  depthWrite: true,
-});
-
-let selectedMeshes = [];
-let selectedChipKey = null;
-
-function setInfo(html) {
-  infoEl.innerHTML = html;
+function setStatus(msg) {
+  if (el.status) el.status.textContent = msg;
 }
 
-function setSystemButtonState() {
-  sysButtons.forEach(btn => {
-    const k = btn.dataset.sys;
-    btn.classList.toggle('on', loaded.has(k));
-  });
+function setLoading(show, msg = 'Loading…') {
+  if (!el.loading) return;
+  el.loading.classList.toggle('show', !!show);
+  if (el.loadingText) el.loadingText.textContent = msg;
 }
 
-function disposeObject3D(root) {
-  root.traverse(obj => {
-    if (!obj.isMesh) return;
-    if (obj.geometry) obj.geometry.dispose?.();
-    // materials are shared base mats; do not dispose highlightMat
-    const mat = obj.material;
-    if (Array.isArray(mat)) mat.forEach(m => m?.dispose?.());
-    else mat?.dispose?.();
-  });
+function normalizeLabel(raw) {
+  let s = String(raw ?? '').replace(/\u0000/g, '').trim();
+  if (!s) return '';
+
+  // Strip FBX exporter suffixes
+  s = s.replace(/(Model|Geometry)$/i, '').trim();
+
+  // Strip common side/group suffix .l / .r / .j (case-insensitive)
+  const m = s.match(/^(.*)\.([lrj])$/i);
+  if (m) s = m[1].trim();
+
+  // Collapse whitespace
+  s = s.replace(/\s+/g, ' ').trim();
+
+  return s;
+}
+
+function slugify(raw) {
+  const s = normalizeLabel(raw).toLowerCase();
+  return s.replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '');
+}
+
+function partKeyFromName(rawName) {
+  return slugify(rawName);
 }
 
 async function fetchJson(url) {
-  const r = await fetch(url, { cache: 'force-cache' });
-  if (!r.ok) throw new Error(`HTTP ${r.status} for ${url}`);
-  return await r.json();
+  const res = await fetch(url, { cache: 'no-store' });
+  if (!res.ok) throw new Error(`${res.status} ${res.statusText} for ${url}`);
+  return res.json();
 }
 
-async function ensureGroups(sysKey) {
-  if (metaCache.has(sysKey)) return metaCache.get(sysKey);
-  const groups = await fetchJson(SYSTEMS[sysKey].groups);
-  metaCache.set(sysKey, groups);
-  return groups;
+function buildGroupIndex(groupsJson) {
+  groupByKey.clear();
+
+  const entries = Object.entries(groupsJson || {});
+  for (const [k, v] of entries) {
+    const name =
+      v && typeof v.name === 'string' && v.name.trim().length
+        ? v.name.trim()
+        : String(k);
+
+    const groupKey = slugify(name);
+    if (!groupKey) continue;
+
+    const meshKeys = new Set();
+    // Use variants to allow composite groups (like hip flexors) to map to multiple meshes
+    if (v && typeof v.variants === 'object' && v.variants) {
+      for (const arr of Object.values(v.variants)) {
+        if (!Array.isArray(arr)) continue;
+        for (const raw of arr) {
+          const mk = slugify(raw);
+          if (mk) meshKeys.add(mk);
+        }
+      }
+    }
+
+    // Also allow direct name -> meshKey matching
+    meshKeys.add(groupKey);
+
+    if (!groupByKey.has(groupKey)) {
+      groupByKey.set(groupKey, { key: groupKey, name, meshKeys });
+    } else {
+      const g = groupByKey.get(groupKey);
+      for (const mk of meshKeys) g.meshKeys.add(mk);
+    }
+  }
 }
 
-function computeOffsetFromObject(root) {
-  const box = new THREE.Box3().setFromObject(root);
-  const center = new THREE.Vector3();
-  box.getCenter(center);
-  return center;
+function renderChips() {
+  if (!el.chips) return;
+  el.chips.innerHTML = '';
+
+  const groups = Array.from(groupByKey.values()).sort((a, b) =>
+    a.name.localeCompare(b.name, undefined, { sensitivity: 'base' })
+  );
+
+  for (const g of groups) {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'chip';
+    b.textContent = g.name;
+    b.dataset.key = g.key;
+    b.dataset.search = slugify(g.name);
+    b.addEventListener('click', () => toggleGroup(g.key));
+    el.chips.appendChild(b);
+  }
+
+  updateChipSelectionUI();
+  applyFilter(el.filter ? el.filter.value : '');
+}
+
+function updateChipSelectionUI() {
+  if (!el.chips) return;
+  const chips = el.chips.querySelectorAll('.chip');
+  for (const c of chips) {
+    const k = c.dataset.key || '';
+    c.classList.toggle('selected', selectedGroupKeys.has(k));
+  }
+}
+
+function applyFilter(text) {
+  if (!el.chips) return;
+  const q = slugify(text || '');
+  const chips = el.chips.querySelectorAll('.chip');
+  for (const c of chips) {
+    if (!q) {
+      c.hidden = false;
+      continue;
+    }
+    const sk = c.dataset.search || '';
+    c.hidden = !sk.includes(q);
+  }
+}
+
+function toggleGroup(key) {
+  if (!key) return;
+  if (selectedGroupKeys.has(key)) selectedGroupKeys.delete(key);
+  else selectedGroupKeys.add(key);
+
+  updateChipSelectionUI();
+  applySelectionToMeshes();
+}
+
+function clearSelection() {
+  selectedGroupKeys.clear();
+  updateChipSelectionUI();
+  applySelectionToMeshes();
+}
+
+function computeSelectedMeshKeys() {
+  const out = new Set();
+  for (const gk of selectedGroupKeys) {
+    const g = groupByKey.get(gk);
+    if (g && g.meshKeys && g.meshKeys.size) {
+      for (const mk of g.meshKeys) out.add(mk);
+    } else {
+      // If selection came from mesh picking but group meta doesn't include it, still support it
+      out.add(gk);
+    }
+  }
+  return out;
+}
+
+function snapshotMaterial(m) {
+  return {
+    hasColor: !!m.color,
+    color: m.color ? m.color.clone() : null,
+    hasEmissive: !!m.emissive,
+    emissive: m.emissive ? m.emissive.clone() : null,
+    opacity: typeof m.opacity === 'number' ? m.opacity : 1.0,
+    transparent: !!m.transparent,
+    depthWrite: 'depthWrite' in m ? !!m.depthWrite : true,
+    depthTest: 'depthTest' in m ? !!m.depthTest : true,
+  };
+}
+
+function ensureUniqueMaterials(mesh) {
+  // Clone per-mesh materials so selection changes do not affect other meshes sharing the same material object.
+  const mats = Array.isArray(mesh.material) ? mesh.material : [mesh.material];
+  const cloned = mats.map((m) => (m && m.clone ? m.clone() : null));
+
+  // If there were null materials, replace with a basic one
+  for (let i = 0; i < cloned.length; i++) {
+    if (!cloned[i]) cloned[i] = new THREE.MeshStandardMaterial({ color: 0x888888 });
+  }
+
+  mesh.userData._matBase = cloned.map(snapshotMaterial);
+
+  mesh.material = Array.isArray(mesh.material) ? cloned : cloned[0];
+}
+
+function setMeshState(mesh, state) {
+  const mats = Array.isArray(mesh.material) ? mesh.material : [mesh.material];
+  const base = mesh.userData._matBase || [];
+
+  for (let i = 0; i < mats.length; i++) {
+    const m = mats[i];
+    if (!m) continue;
+
+    const o = base[i] || null;
+
+    if (state === 'base') {
+      if (o) {
+        if (m.color && o.color) m.color.copy(o.color);
+        if (m.emissive && o.emissive) m.emissive.copy(o.emissive);
+        m.opacity = o.opacity;
+        m.transparent = o.transparent;
+        if ('depthWrite' in m) m.depthWrite = o.depthWrite;
+        if ('depthTest' in m) m.depthTest = o.depthTest;
+      }
+    } else if (state === 'dim') {
+      if (m.color) m.color.set(0x444444);
+      if (m.emissive) m.emissive.set(0x000000);
+      m.transparent = true;
+      m.opacity = 0.07;
+      if ('depthWrite' in m) m.depthWrite = false;
+      if ('depthTest' in m) m.depthTest = true;
+    } else if (state === 'sel') {
+      // preserve base color, add emissive highlight
+      if (o && m.color && o.color) m.color.copy(o.color);
+      if (m.emissive) m.emissive.set(0xff2222);
+      m.transparent = false;
+      m.opacity = 1.0;
+      if ('depthWrite' in m) m.depthWrite = true;
+      if ('depthTest' in m) m.depthTest = true;
+    }
+
+    m.needsUpdate = true;
+  }
+
+  mesh.renderOrder = state === 'sel' ? 2 : 0;
+}
+
+function applySelectionToMeshes() {
+  const selectedMeshKeys = computeSelectedMeshKeys();
+  const hasSelection = selectedMeshKeys.size > 0;
+
+  let highlighted = 0;
+
+  for (const mesh of meshList) {
+    const mk = mesh.userData.partKey || '';
+    if (!hasSelection) {
+      setMeshState(mesh, 'base');
+      continue;
+    }
+    if (mk && selectedMeshKeys.has(mk)) {
+      setMeshState(mesh, 'sel');
+      highlighted++;
+    } else {
+      setMeshState(mesh, 'dim');
+    }
+  }
+
+  setStatus(
+    `${SYSTEMS[activeSystem].label}: meshes=${meshList.length}  selected_groups=${selectedGroupKeys.size}  highlighted_meshes=${highlighted}`
+  );
+}
+
+function disposeObject(root) {
+  if (!root) return;
+  root.traverse((obj) => {
+    if (obj && obj.isMesh) {
+      if (obj.geometry && obj.geometry.dispose) obj.geometry.dispose();
+      const mats = Array.isArray(obj.material) ? obj.material : [obj.material];
+      for (const m of mats) {
+        if (m && m.dispose) m.dispose();
+      }
+    }
+  });
 }
 
 function fitCameraToObject(root) {
   const box = new THREE.Box3().setFromObject(root);
-  const size = new THREE.Vector3();
-  box.getSize(size);
-  const center = new THREE.Vector3();
-  box.getCenter(center);
+  const size = box.getSize(new THREE.Vector3());
+  const center = box.getCenter(new THREE.Vector3());
 
-  const maxSize = Math.max(size.x, size.y, size.z);
-  const fitHeightDistance = maxSize / (2 * Math.tan((Math.PI * camera.fov) / 360));
-  const fitWidthDistance = fitHeightDistance / camera.aspect;
-  const distance = 1.15 * Math.max(fitHeightDistance, fitWidthDistance);
+  // Center root at origin
+  root.position.sub(center);
+  controls.target.set(0, 0, 0);
 
-  const dir = new THREE.Vector3(0, 0, 1);
-  camera.position.copy(center).add(dir.multiplyScalar(distance));
-  camera.near = distance / 100;
-  camera.far = distance * 100;
+  const maxDim = Math.max(size.x, size.y, size.z);
+  const fov = (camera.fov * Math.PI) / 180.0;
+  const dist = (maxDim / 2) / Math.tan(fov / 2);
+
+  camera.near = Math.max(0.01, maxDim / 100);
+  camera.far = maxDim * 100;
+  camera.position.set(0, maxDim * 0.08, dist * 1.35);
   camera.updateProjectionMatrix();
 
-  controls.target.copy(center);
+  controls.minDistance = maxDim / 20;
+  controls.maxDistance = maxDim * 10;
   controls.update();
 }
 
-async function loadSystem(sysKey) {
-  if (loaded.has(sysKey)) return;
+async function loadGroups(systemKey, token) {
+  const sys = SYSTEMS[systemKey];
+  if (!sys) throw new Error(`Unknown system: ${systemKey}`);
 
-  setInfo(`<small>Loading:</small> ${sysKey}…`);
+  setLoading(true, `Loading ${sys.label} metadata…`);
+  const groupsJson = await fetchJson(sys.groups);
+  if (token !== loadToken) return;
 
-  const baseMat = new THREE.MeshStandardMaterial({
-    color: SYS_COLOR[sysKey] ?? 0xffffff,
-    roughness: 0.9,
-    metalness: 0.0,
-    side: THREE.DoubleSide,
-    depthTest: true,
-    depthWrite: true,
-  });
+  buildGroupIndex(groupsJson);
+  renderChips();
 
-  const root = await new Promise((resolve, reject) => {
-    loader.load(
-      SYSTEMS[sysKey].fbx,
-      obj => resolve(obj),
-      undefined,
-      err => reject(err)
-    );
-  });
-
-  // Ensure consistent alignment across separately loaded systems:
-  if (worldOffset == null) {
-    worldOffset = computeOffsetFromObject(root);
-  }
-  root.position.sub(worldOffset);
-
-  const rawToMeshes = new Map();
-
-  root.traverse(obj => {
-    if (!obj.isMesh) return;
-
-    // Force a single readable material per system (keeps selection/highlighting stable)
-    obj.material = baseMat;
-    obj.userData.baseMat = baseMat;
-    obj.userData.system = sysKey;
-
-    // Use mesh name as key (it matches your raw Model names like "...rModel")
-    const raw = obj.name || '';
-    obj.userData.raw = raw;
-
-    if (!rawToMeshes.has(raw)) rawToMeshes.set(raw, []);
-    rawToMeshes.get(raw).push(obj);
-  });
-
-  scene.add(root);
-  loaded.set(sysKey, { root, rawToMeshes, baseMat });
-
-  // Fit camera on first load
-  if (loaded.size === 1) {
-    fitCameraToObject(root);
-  }
-
-  setSystemButtonState();
-  setInfo(`<small>Loaded:</small> ${[...loaded.keys()].join(', ')}. Tap a part to select. Search targets muscles.`);
-
-  // If we load muscles, refresh chips UI
-  if (sysKey === currentSystemForSearch) renderChipsFromSearch();
+  setLoading(false);
 }
 
-function unloadSystem(sysKey) {
-  const entry = loaded.get(sysKey);
-  if (!entry) return;
+async function loadModel(systemKey, token) {
+  const sys = SYSTEMS[systemKey];
+  if (!sys) throw new Error(`Unknown system: ${systemKey}`);
 
-  // clear selection that uses meshes from this system
-  clearSelection();
+  setLoading(true, `Loading ${sys.label} model…`);
 
-  scene.remove(entry.root);
-  disposeObject3D(entry.root);
-  loaded.delete(sysKey);
+  const loader = new FBXLoader();
+  const obj = await loader.loadAsync(sys.fbx);
 
-  setSystemButtonState();
-  setInfo(`<small>Loaded:</small> ${loaded.size ? [...loaded.keys()].join(', ') : '(none)'}`);
-}
-
-function clearSelection() {
-  // Restore base materials for selected meshes
-  for (const m of selectedMeshes) {
-    if (m && m.userData && m.userData.baseMat) {
-      m.material = m.userData.baseMat;
-    }
-  }
-  selectedMeshes = [];
-
-  // Un-highlight chip
-  selectedChipKey = null;
-  Array.from(chipsEl.querySelectorAll('.chip.on')).forEach(el => el.classList.remove('on'));
-}
-
-function selectMeshes(meshes, labelHtml) {
-  clearSelection();
-  selectedMeshes = meshes.filter(Boolean);
-
-  for (const m of selectedMeshes) {
-    m.material = highlightMat;
-  }
-
-  const extra = selectedMeshes.length ? ` <small>(${selectedMeshes.length} mesh${selectedMeshes.length>1?'es':''})</small>` : '';
-  setInfo(labelHtml + extra);
-}
-
-function pick(clientX, clientY) {
-  const rect = canvas.getBoundingClientRect();
-  const x = ((clientX - rect.left) / rect.width) * 2 - 1;
-  const y = -(((clientY - rect.top) / rect.height) * 2 - 1);
-
-  const raycaster = new THREE.Raycaster();
-  raycaster.setFromCamera(new THREE.Vector2(x, y), camera);
-
-  // Intersect against all loaded roots (recursive)
-  const roots = [...loaded.values()].map(v => v.root);
-  const hits = raycaster.intersectObjects(roots, true);
-  if (!hits.length) {
-    clearSelection();
-    setInfo(`<small>No selection.</small>`);
+  if (token !== loadToken) {
+    disposeObject(obj);
     return;
   }
 
-  // Find the first mesh hit
-  let obj = hits[0].object;
-  while (obj && !obj.isMesh) obj = obj.parent;
-  if (!obj) return;
-
-  const sysKey = obj.userData.system || 'unknown';
-  const raw = obj.userData.raw || obj.name || '(unnamed)';
-  selectMeshes([obj], `<small>Selected:</small> <b>${raw}</b> <small>(${sysKey})</small>`);
-}
-
-let down = null;
-canvas.addEventListener('pointerdown', (e) => {
-  down = { x: e.clientX, y: e.clientY };
-}, { passive: true });
-
-canvas.addEventListener('pointerup', (e) => {
-  if (!down) return;
-  const dx = e.clientX - down.x;
-  const dy = e.clientY - down.y;
-  down = null;
-
-  // treat as tap if finger didn’t move much
-  if ((dx*dx + dy*dy) <= 36) pick(e.clientX, e.clientY);
-}, { passive: true });
-
-async function renderChipsFromSearch() {
-  const q = (searchEl.value || '').trim().toLowerCase();
-  chipsEl.innerHTML = '';
-
-  const groups = await ensureGroups(currentSystemForSearch);
-
-  // Build list [{key, name, variants}]
-  const items = Object.entries(groups).map(([k, v]) => ({
-    key: k,
-    name: v.name || k,
-    variants: v.variants || {}
-  }));
-
-  let filtered = items;
-  if (q) {
-    filtered = items.filter(it => it.name.toLowerCase().includes(q) || it.key.includes(q));
+  if (modelRoot) {
+    scene.remove(modelRoot);
+    disposeObject(modelRoot);
+    modelRoot = null;
   }
 
-  // Sort shortest-first then alpha (your preference)
-  filtered.sort((a,b) => (a.name.length - b.name.length) || a.name.localeCompare(b.name));
+  modelRoot = obj;
+  scene.add(modelRoot);
 
-  // Limit chips to keep UI snappy
-  filtered = filtered.slice(0, 140);
+  // Rebuild mesh index
+  meshList = [];
+  meshByKey = new Map();
 
-  for (const it of filtered) {
-    const chip = document.createElement('div');
-    chip.className = 'chip';
-    chip.textContent = it.name;
+  modelRoot.traverse((child) => {
+    if (!child || !child.isMesh) return;
 
-    chip.addEventListener('click', () => {
-      // Toggle chip selection
-      if (selectedChipKey === it.key) {
-        clearSelection();
-        setInfo(`<small>Selection cleared.</small>`);
-        return;
-      }
+    // Key from mesh name
+    const key = partKeyFromName(child.name || '');
+    child.userData.partKey = key;
 
-      // Need muscles loaded to highlight muscles
-      if (!loaded.has('muscles')) {
-        setInfo(`<small>Load Muscles first, then search/select muscles.</small>`);
-        return;
-      }
+    ensureUniqueMaterials(child);
 
-      // Mark chip on
-      Array.from(chipsEl.querySelectorAll('.chip.on')).forEach(el => el.classList.remove('on'));
-      chip.classList.add('on');
-      selectedChipKey = it.key;
+    meshList.push(child);
+    if (!meshByKey.has(key)) meshByKey.set(key, []);
+    meshByKey.get(key).push(child);
+  });
 
-      const mus = loaded.get('muscles');
-      const rawToMeshes = mus.rawToMeshes;
+  fitCameraToObject(modelRoot);
 
-      const raws = [
-        ...(it.variants.L || []),
-        ...(it.variants.R || []),
-        ...(it.variants.M || []),
-        ...(it.variants.G || []),
-      ];
+  setLoading(false);
 
-      const meshes = [];
-      for (const raw of raws) {
-        const arr = rawToMeshes.get(raw);
-        if (arr) meshes.push(...arr);
-      }
-
-      if (!meshes.length) {
-        setInfo(`<small>Found in meta, but not currently loaded as meshes:</small> <b>${it.name}</b>`);
-        return;
-      }
-
-      selectMeshes(meshes, `<small>Selected group:</small> <b>${it.name}</b>`);
-    });
-
-    chipsEl.appendChild(chip);
-  }
+  // Apply selection after model load
+  applySelectionToMeshes();
 }
 
-searchEl.addEventListener('input', () => renderChipsFromSearch());
-clearSearchEl.addEventListener('click', () => { searchEl.value = ''; renderChipsFromSearch(); });
+async function loadSystem(systemKey) {
+  if (!SYSTEMS[systemKey]) throw new Error(`Unknown system: ${systemKey}`);
 
-clearSelEl.addEventListener('click', () => {
-  clearSelection();
-  setInfo(`<small>Selection cleared.</small>`);
-});
+  activeSystem = systemKey;
 
-sysButtons.forEach(btn => {
-  btn.addEventListener('click', async () => {
-    const sysKey = btn.dataset.sys;
-    if (!SYSTEMS[sysKey]) return;
+  // update tab active state
+  document.querySelectorAll('[data-system]').forEach((b) => {
+    b.classList.toggle('active', b.getAttribute('data-system') === systemKey);
+  });
 
-    if (loaded.has(sysKey)) {
-      unloadSystem(sysKey);
+  selectedGroupKeys.clear();
+  updateChipSelectionUI();
+  setStatus(`Switching to ${SYSTEMS[systemKey].label}…`);
+
+  const token = ++loadToken;
+
+  await loadGroups(systemKey, token);
+  await loadModel(systemKey, token);
+}
+
+function initThree() {
+  scene = new THREE.Scene();
+  scene.background = new THREE.Color(0x0b0b0c);
+
+  camera = new THREE.PerspectiveCamera(45, 1, 0.01, 1000);
+  camera.position.set(0, 1, 3);
+
+  renderer = new THREE.WebGLRenderer({
+    canvas: el.canvas,
+    antialias: true,
+    alpha: false,
+    powerPreference: 'high-performance',
+  });
+
+  renderer.outputColorSpace = THREE.SRGBColorSpace;
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+
+  controls = new OrbitControls(camera, el.canvas);
+  controls.enableDamping = true;
+  controls.dampingFactor = 0.08;
+  controls.enablePan = true;
+
+  // Lights
+  const hemi = new THREE.HemisphereLight(0xffffff, 0x222233, 0.85);
+  scene.add(hemi);
+
+  const dir = new THREE.DirectionalLight(0xffffff, 0.9);
+  dir.position.set(5, 10, 7);
+  scene.add(dir);
+
+  function onResize() {
+    const w = el.canvas.clientWidth || window.innerWidth;
+    const h = el.canvas.clientHeight || window.innerHeight;
+    camera.aspect = w / h;
+    camera.updateProjectionMatrix();
+    renderer.setSize(w, h, false);
+  }
+
+  window.addEventListener('resize', onResize, { passive: true });
+  onResize();
+
+  function animate() {
+    requestAnimationFrame(animate);
+    controls.update();
+    renderer.render(scene, camera);
+  }
+  animate();
+}
+
+function initPicking() {
+  const raycaster = new THREE.Raycaster();
+  const ndc = new THREE.Vector2();
+
+  let activePointers = new Set();
+  let down = null;
+
+  function pick(clientX, clientY) {
+    const rect = el.canvas.getBoundingClientRect();
+    const x = ((clientX - rect.left) / rect.width) * 2 - 1;
+    const y = -(((clientY - rect.top) / rect.height) * 2 - 1);
+    ndc.set(x, y);
+
+    raycaster.setFromCamera(ndc, camera);
+    const hits = raycaster.intersectObjects(meshList, false);
+    if (!hits.length) return;
+
+    const obj = hits[0].object;
+    const k = obj?.userData?.partKey || partKeyFromName(obj?.name || '');
+    if (k) toggleGroup(k);
+  }
+
+  el.canvas.addEventListener('pointerdown', (e) => {
+    activePointers.add(e.pointerId);
+    if (activePointers.size === 1) {
+      down = { x: e.clientX, y: e.clientY };
     } else {
-      await loadSystem(sysKey);
+      down = null; // multi-touch (pinch/pan) -> do not treat as selection tap
     }
   });
-});
 
-window.addEventListener('resize', () => {
-  const w = window.innerWidth;
-  const h = window.innerHeight;
-  camera.aspect = w / h;
-  camera.updateProjectionMatrix();
-  renderer.setSize(w, h, false);
-}, { passive: true });
+  el.canvas.addEventListener('pointerup', (e) => {
+    activePointers.delete(e.pointerId);
+    if (!down) return;
 
-function animate() {
-  requestAnimationFrame(animate);
-  renderer.render(scene, camera);
+    const dx = e.clientX - down.x;
+    const dy = e.clientY - down.y;
+    const dist2 = dx * dx + dy * dy;
+
+    down = null;
+
+    // ignore drags (OrbitControls interaction)
+    if (dist2 > 36) return; // > 6px
+
+    // tap = select
+    pick(e.clientX, e.clientY);
+  });
+
+  el.canvas.addEventListener('pointercancel', () => {
+    activePointers.clear();
+    down = null;
+  });
 }
-animate();
 
-// Default load: bones + muscles (you can toggle others)
-(async () => {
-  await loadSystem('bones');
-  await loadSystem('muscles');
-  renderChipsFromSearch();
-})();
+function initUI() {
+  document.querySelectorAll('[data-system]').forEach((b) => {
+    b.addEventListener('click', () => {
+      const sys = b.getAttribute('data-system');
+      if (sys) loadSystem(sys).catch((err) => setStatus(`❌ ${String(err)}`));
+    });
+  });
+
+  el.clearSelectionBtn?.addEventListener('click', clearSelection);
+
+  el.clearFilterBtn?.addEventListener('click', () => {
+    if (el.filter) el.filter.value = '';
+    applyFilter('');
+  });
+
+  el.filter?.addEventListener('input', () => {
+    applyFilter(el.filter.value);
+  });
+}
+
+initThree();
+initPicking();
+initUI();
+
+loadSystem(activeSystem).catch((err) => {
+  console.error(err);
+  setStatus(`❌ Failed to start: ${String(err?.message || err)}`);
+});
